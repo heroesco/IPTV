@@ -1,0 +1,40 @@
+#EXTINF:
+
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Brasil",Rede Globo
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Brasil",Rede Globo
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3252
+
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Brasil",Rede Globo
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF: -1 tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT Pi 
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1957861479.m3u8
+ 
+#EXTINF: -1 tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT Pi
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w649577006.m3u8
+
+#EXTINF: -1 tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT Pi
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1271577768.m3u8
+ 
+#EXTINF: -1 tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT Pi
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist.m3u8
+ 
+#EXTINF: -1 tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT  
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w545419196_b1000000.m3u8
+ 
+#EXTINF: -1 tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "" = group-title="Brasil", TV Difusora
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w156509669.m3u8
+ 
+#EXTINF: -1 tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "" = group-title="Brasil", TV Difusora
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w156509668.m3u8
+
+#EXTINF: -1 tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "" = group-title="Brasil", TV Difusora
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8?md5=8VNp96oHT6RvsHpi5wyIag&expires=1616504403
+
+#EXTINF: -1 tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "" = group-title="Brasil", TV Difusora
+http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44227
+
+#EXTINF: -1 tvg-id="RECORDTV.br" tvg-name="RecordTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/lu229h9qg5451.jpg" = group-title="Brasil", TV RECORD
+http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44228

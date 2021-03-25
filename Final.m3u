@@ -1,5 +1,11 @@
 #EXTINF:
 
+#EXTINF:-1 tvg-id="BBB21.br" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg" group-title="Brasil",BBB21
+http://ev7cm.com:25461/francisco/francisco/161920
+
+#EXTINF:-1 tvg-id="BBB21.br" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg" group-title="Brasil",BBB21
+http://ev7cm.com:25461/francisco/francisco/161854
+
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Brasil",Rede Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 

@@ -36,6 +36,8 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8?md5=8
 http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44227
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-name="Record TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",RECORD TV
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1312747290.m3u8
 
 #EXTINF:-1,Viva FHD
 http://ev7cm.com:25461/francisco/francisco/42265

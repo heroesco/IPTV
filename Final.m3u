@@ -38,6 +38,23 @@ http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44227
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1312747290.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1297206351.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1312747292.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w2061380755.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w2061380754.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w2061380752.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w2061380753.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeTV.br" tvg-name="Rede TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/unl8x8o927451.jpg", REDE TV 
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?
+
+
+
 
 #EXTINF:-1,Viva FHD
 http://ev7cm.com:25461/francisco/francisco/42265

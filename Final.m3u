@@ -16,26 +16,26 @@ http://ev7cm.com:25461/francisco/francisco/161920
 http://ev7cm.com:25461/francisco/francisco/161854
 
 --------------------------------------------------------TV ABERTA------------------------------------------------------------------------
-#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT Pi 
+#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT Pi 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1957861479.m3u8
-#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT Pi
+#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT Pi
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w649577006.m3u8
-#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT Pi
+#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT Pi
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1271577768.m3u8
-#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT Pi
+#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT Pi
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist.m3u8
-#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg" = group-title="Brasil", SBT  
+#EXTINF: -1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT  
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w545419196_b1000000.m3u8
-#EXTINF: -1 group-title="TV ABERTA" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "" = group-title="Brasil", TV Difusora
+#EXTINF: -1 group-title="TV ABERTA" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
 https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w156509669.m3u8
-#EXTINF: -1 group-title="TV ABERTA" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "" = group-title="Brasil", TV Difusora
+#EXTINF: -1 group-title="TV ABERTA" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
 https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w156509668.m3u8
-#EXTINF: -1 group-title="TV ABERTA" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "" = group-title="Brasil", TV Difusora
+#EXTINF: -1 group-title="TV ABERTA" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8?md5=8VNp96oHT6RvsHpi5wyIag&expires=1616504403
-#EXTINF: -1 group-title="TV ABERTA" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "" = group-title="Brasil", TV Difusora
+#EXTINF: -1 group-title="TV ABERTA" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
 http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44227
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-name="Record TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",RECORD TV
-http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44228
+https://canaismax.com/a564c0f5-987c-4a23-8d4b-887bb4606bc2/playlist.m3u8
 
 #EXTINF:-1,Viva FHD
 http://ev7cm.com:25461/francisco/francisco/42265

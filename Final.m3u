@@ -161,103 +161,105 @@ http://ev7cm.com:25461/francisco/francisco/6738
 http://ev7cm.com:25461/francisco/francisco/6734
 
 --------------------------------------------------------NOTICÍAS-----------------------------------------------------------------------
-#EXTINF:-1,GLOBO NEWS FHD
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS FHD
 http://ev7cm.com:25461/francisco/francisco/506
-#EXTINF:-1,RECORD NEWS FHD
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-news-hd_m.png",RECORD NEWS FHD
 http://ev7cm.com:25461/francisco/francisco/70363
-#EXTINF:-1,RECORD NEWS FHD
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-news-hd_m.png",RECORD NEWS FHD
 http://ev7cm.com:25461/francisco/francisco/621
-#EXTINF:-1,CNN BRASIL FHD
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL FHD
 http://ev7cm.com:25461/francisco/francisco/32648
-#EXTINF:-1,BAND NEWS FHD
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="bandnews.br" tvg-name="BAND NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png",BAND NEWS FHD
 http://ev7cm.com:25461/francisco/francisco/247
 
 --------------------------------------------------------PREMIUM------------------------------------------------------------------------
-#EXTINF:-1,HBO XTREME FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME FHD
 http://ev7cm.com:25461/francisco/francisco/560
-#EXTINF:-1,HBO SIGNATURE FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE FHD
 http://ev7cm.com:25461/francisco/francisco/6756
-#EXTINF:-1,HBO POP FHD (ING)
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (ING)
 http://ev7cm.com:25461/francisco/francisco/77146
-#EXTINF:-1,HBO POP FHD (BR)
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
 http://ev7cm.com:25461/francisco/francisco/84433
-#EXTINF:-1,HBO PLUS FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
 http://ev7cm.com:25461/francisco/francisco/6755
-#EXTINF:-1,HBO MUNDI FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI FHD
 http://ev7cm.com:25461/francisco/francisco/77145
-#EXTINF:-1,HBO FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FHD
 http://ev7cm.com:25461/francisco/francisco/6753
-#EXTINF:-1,HBO FAMILY FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY FHD
 http://ev7cm.com:25461/francisco/francisco/6745
-#EXTINF:-1,HBO 2 FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
 http://ev7cm.com:25461/francisco/francisco/6754
-#EXTINF:-1,CINEMAX FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
 http://ev7cm.com:25461/francisco/francisco/282
 
 
 --------------------------------------------------------FILMES & SERIADOS---------------------------------------------------------------
-#EXTINF:-1,A&E FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="A&E.br" tvg-name="A&E" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_a-e_m.png",A&E FHD
 http://ev7cm.com:25461/francisco/francisco/222
-#EXTINF:-1,AXN FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="axn.br" tvg-name="AXN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN FHD
 http://ev7cm.com:25461/francisco/francisco/239
-#EXTINF:-1,Viva FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="viva.br" tvg-name="VIVA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8936ceb865591bcc9ace180f253fc697.jpg",Viva FHD
 http://ev7cm.com:25461/francisco/francisco/42265
-#EXTINF:-1,VIVA FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="viva.br" tvg-name="VIVA HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8936ceb865591bcc9ace180f253fc697.jpg",VIVA FHD
 http://ev7cm.com:25461/francisco/francisco/383
-#EXTINF:-1,MEGAPIX FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_megapix_m.png",MEGAPIX FHD
 http://ev7cm.com:25461/francisco/francisco/566
-#EXTINF:-1,UNIVERSAL CHANNEL FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_universal_m.png",UNIVERSAL CHANNEL FHD
 http://ev7cm.com:25461/francisco/francisco/389
-#EXTINF:-1,TNT SERIES FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tntseries.br" tvg-name="TNT SERIES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES FHD
 http://ev7cm.com:25461/francisco/francisco/405
-#EXTINF:-1,TNT FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT FHD
 http://ev7cm.com:25461/francisco/francisco/408
-#EXTINF:-1,TELECINE TOUCH FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH FHD
 http://ev7cm.com:25461/francisco/francisco/411
-#EXTINF:-1,TELECINE PREMIUM FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM FHD
 http://ev7cm.com:25461/francisco/francisco/414
-#EXTINF:-1,TELECINE FUN FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
 http://ev7cm.com:25461/francisco/francisco/420
-#EXTINF:-1,TELECINE CULT FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC5.png",TELECINE CULT FHD
 http://ev7cm.com:25461/francisco/francisco/423
-#EXTINF:-1,TELECINE ACTION FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
 http://ev7cm.com:25461/francisco/francisco/426
-#EXTINF:-1,SYFY FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
 http://ev7cm.com:25461/francisco/francisco/42213
-#EXTINF:-1,SYFY FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
 http://ev7cm.com:25461/francisco/francisco/12708
-#EXTINF:-1,SYFY FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
 http://ev7cm.com:25461/francisco/francisco/431
-#EXTINF:-1,STUDIO UNIVERSAL FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_studio-universal_m.png",STUDIO UNIVERSAL FHD
 http://ev7cm.com:25461/francisco/francisco/434
-#EXTINF:-1,SPACE FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="space.br" tvg-name="SPACE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE FHD
 http://ev7cm.com:25461/francisco/francisco/446
-#EXTINF:-1,SONY FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="sony.br" tvg-name="SONY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY FHD
 http://ev7cm.com:25461/francisco/francisco/449
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
 http://ev7cm.com:25461/francisco/francisco/593
-#EXTINF:-1,FX FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cfx.br" tvg-name="FX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CFX.png",FX FHD
 http://ev7cm.com:25461/francisco/francisco/495
-#EXTINF:-1,STAR HITS 2 FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="starhits2.br" tvg-name="STAR HITS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BMEmeH_3MuvqlPkXtXW5SwHaDv&pid=Api&P=0&w=387&h=196",STAR HITS 2 FHD
 http://ev7cm.com:25461/francisco/francisco/485
-#EXTINF:-1,STAR HITS 1 FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="starhits2.br" tvg-name="STAR HITS 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BMEmeH_3MuvqlPkXtXW5SwHaDv&pid=Api&P=0&w=387&h=196",STAR HITS 1 FHD
 http://ev7cm.com:25461/francisco/francisco/482
-#EXTINF:-1,STAR CINEMA FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="starcinema.br" tvg-name="STAR CINEMA HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.i6iCkuKXRTO5YHqDsaa3BgHaFm&pid=Api&P=0&w=264&h=200",STAR CINEMA FHD
 http://ev7cm.com:25461/francisco/francisco/42211
-#EXTINF:-1,STAR LIFE FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="starlife.br" tvg-name="STAR LIFE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.y8uZwHpKPltMqobriWOD5wHaEo&pid=Api&P=0&w=268&h=168",STAR LIFE FHD
 http://ev7cm.com:25461/francisco/francisco/480
-#EXTINF:-1,STAR CHANNEL FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="starchannel.br" tvg-name="STAR CHANNEL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star_Television_logo.svg/1200px-Star_Television_logo.svg.png",STAR CHANNEL FHD
 http://ev7cm.com:25461/francisco/francisco/478
-#EXTINF:-1,XXX VENUS FHD
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="venus.br" tvg-name="VENUS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse2.explicit.bing.net/th?id=OIP.wBhqP41LmSl8x4wFZ_BPLQHaCo&pid=Api&P=0&w=474&h=170",VENUS FHD
 http://ev7cm.com:25461/francisco/francisco/41721
 
 --------------------------------------------------------COMÉDIAS---------------------------------------------------------------
-#EXTINF:-1,MULTISHOW FHD
+#EXTINF:-1 group-title="COMÉDIAS" tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multishow_m.png",MULTISHOW FHD
 http://ev7cm.com:25461/francisco/francisco/573
-#EXTINF:-1,COMEDY CENTRAL FHD
+#EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL FHD
 http://ev7cm.com:25461/francisco/francisco/292
 
 
 --------------------------------------------------------MÚSICA E RADIOS---------------------------------------------------------------
-#EXTINF:-1,MTV FHD
+#EXTINF:-1 group-title="MÚSICA E RADIOS" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
+
+#EXTINF:-1 group-title="MÚSICA E RADIOS" tvg-id="mtv.br" tvg-name="MTV BR HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV FHD
 http://ev7cm.com:25461/francisco/francisco/569

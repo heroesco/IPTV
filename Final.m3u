@@ -71,7 +71,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?
 http://ev7cm.com:25461/francisco/francisco/586
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Nickjr.br" tvg-name="NICK JR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_nick-junior-brazil_m.png",NICK JR
 http://ev7cm.com:25461/francisco/francisco/12638
-#EXTINF:-1 group-title="INFANTÍS" tvg-id="NatGeo.br" tvg-name="NAT GEO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.jtc6YL3ryawRfI-rB5I_BAHaDL&pid=Api&P=0&w=361&h=155",NAT GEO KIDS
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="NatGeo.br" tvg-name="NAT GEO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.b76DFfI9k5sGDa-JDNeuXQHaC0&pid=Api&P=0&w=410&h=157",NAT GEO KIDS
 http://ev7cm.com:25461/francisco/francisco/577
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB
 http://ev7cm.com:25461/francisco/francisco/528
@@ -129,35 +129,35 @@ http://ev7cm.com:25461/francisco/francisco/314
 http://ev7cm.com:25461/francisco/francisco/304
 
 --------------------------------------------------------ESPORTES-------------------------------------------------------------------
-#EXTINF:-1,SPORTV FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
 http://ev7cm.com:25461/francisco/francisco/6739
-#EXTINF:-1,SPORTV 3 FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 3.br" tvg-name="SPORTV3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv3_m.png",SPORTV 3 FHD
 http://ev7cm.com:25461/francisco/francisco/6741
-#EXTINF:-1,SPORTV 2 FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 2.br" tvg-name="SPORTV 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png",SPORTV 2 FHD
 http://ev7cm.com:25461/francisco/francisco/6740
-#EXTINF:-1,PREMIERE CLUBES FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE CLUBES FHD
 http://ev7cm.com:25461/francisco/francisco/615
-#EXTINF:-1,PREMIERE 6 FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 6 FHD
 http://ev7cm.com:25461/francisco/francisco/611
-#EXTINF:-1,PREMIERE 5 FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 5 FHD
 http://ev7cm.com:25461/francisco/francisco/608
-#EXTINF:-1,PREMIERE 4 FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 4 FHD
 http://ev7cm.com:25461/francisco/francisco/605
-#EXTINF:-1,PREMIERE 3 FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 3 FHD
 http://ev7cm.com:25461/francisco/francisco/602
-#EXTINF:-1,PREMIERE 2 FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 2 FHD
 http://ev7cm.com:25461/francisco/francisco/599
-#EXTINF:-1,FOX SPORTS FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
 http://ev7cm.com:25461/francisco/francisco/6735
-#EXTINF:-1,FOX SPORTS 2 FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
 http://ev7cm.com:25461/francisco/francisco/6736
-#EXTINF:-1,ESPN FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN FHD
 http://ev7cm.com:25461/francisco/francisco/6737
-#EXTINF:-1,ESPN BRASIL FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_espn-brasil_m.png",ESPN BRASIL FHD
 http://ev7cm.com:25461/francisco/francisco/6726
-#EXTINF:-1,ESPN  FHD (alter)
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN  FHD
 http://ev7cm.com:25461/francisco/francisco/6738
-#EXTINF:-1,COMBATE FHD
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Combate.br" tvg-name="COMBATE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_combate-hd_m.png",COMBATE FHD
 http://ev7cm.com:25461/francisco/francisco/6734
 
 --------------------------------------------------------NOTICÍAS-----------------------------------------------------------------------

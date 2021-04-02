@@ -3,22 +3,64 @@
 --------------------------------------------------------REDE GLOBO------------------------------------------------------------------------
 #EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
 
-
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3252
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
-http://ev7cm.com:25461/francisco/francisco/40059
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
-http://ev7cm.com:25461/francisco/francisco/514
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO FHD
-http://ev7cm.com:25461/francisco/francisco/32683
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV RIBEIRAO PRETO
-http://ev7cm.com:25461/francisco/francisco/249
-
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO 4K
+http://ev7cm.com:25461/Henrique/123456/5500
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RPC FOZ DO IGUACU" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RPC FOZ DO IGUACU
+http://ev7cm.com:25461/Henrique/123456/498
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO BAHIA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO BAHIA
+http://ev7cm.com:25461/Henrique/123456/44909
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV CAMPINAS
+http://ev7cm.com:25461/Henrique/123456/502
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV CAMPINAS
+http://ev7cm.com:25461/Henrique/123456/501
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV CAMPINAS
+http://ev7cm.com:25461/Henrique/123456/44917
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO INTER TV CABUGI (RN)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO INTER TV CABUGI (RN)
+http://ev7cm.com:25461/Henrique/123456/44914
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO MINAS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO MINAS HD
+http://ev7cm.com:25461/Henrique/123456/5774
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO MINAS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO MINAS HD
+http://ev7cm.com:25461/Henrique/123456/44838
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo NSC Joinville" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Joinville
+http://ev7cm.com:25461/Henrique/123456/44821
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO NSC SC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO NSC SC
+http://ev7cm.com:25461/Henrique/123456/84612
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO NSC TV FLORIANOPOLIS
+http://ev7cm.com:25461/Henrique/123456/281
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RBS PORTO ALEGRE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RBS PORTO ALEGRE
+http://ev7cm.com:25461/Henrique/123456/44912
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RIBEIRAO PRETO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RIBEIRAO PRETO
+http://ev7cm.com:25461/Henrique/123456/511
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+http://ev7cm.com:25461/Henrique/123456/514
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+http://ev7cm.com:25461/Henrique/123456/5778
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+http://ev7cm.com:25461/Henrique/123456/44910
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://ev7cm.com:25461/Henrique/123456/5845
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://ev7cm.com:25461/Henrique/123456/40059
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://ev7cm.com:25461/Henrique/123456/5846
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://ev7cm.com:25461/Henrique/123456/44908
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV BAHIA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV BAHIA
+http://ev7cm.com:25461/Henrique/123456/44841
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV BELEM LIBERAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV BELEM LIBERAL
+http://ev7cm.com:25461/Henrique/123456/521
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV MORENA PONTA PORA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV MORENA PONTA PORA
+http://ev7cm.com:25461/Henrique/123456/14015
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV RIO SUL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV RIO SUL
+http://ev7cm.com:25461/Henrique/123456/522
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV S.J. RIO PRETO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV S.J. RIO PRETO
+http://ev7cm.com:25461/Henrique/123456/44945
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO VERDES MARES FORTALEZA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO VERDES MARES FORTALEZA
+http://ev7cm.com:25461/Henrique/123456/44901
 
 --------------------------------------------------------BBB 21------------------------------------------------------------------------
 #EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",

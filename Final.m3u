@@ -165,19 +165,19 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvturismo.br" tvg-name="TV Turismo PARANÁ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tYbG4bn.png",TV Turismo PARANÁ
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTUADAL" tvg-id="iurdtv.br" tvg-name="IURD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KeTbnHf.png",IURD TV
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="iurdtv.br" tvg-name="IURD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KeTbnHf.png",IURD TV
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTUADAL" tvg-id="londrinatv.br" tvg-name="LONDRINA TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yfXcjuE.png",Londrina TV
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="londrinatv.br" tvg-name="LONDRINA TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yfXcjuE.png",Londrina TV
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTUADAL" tvg-id="impdtv.br" tvg-name="IMPD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/EKVEL4H.png",IMPD TV
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="impdtv.br" tvg-name="IMPD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/EKVEL4H.png",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTUADAL" tvg-id="culturapara.br" tvg-name="Cultura Pará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5jPEI5c.png",Cultura Pará
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="culturapara.br" tvg-name="Cultura Pará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5jPEI5c.png",Cultura Pará
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTUADAL" tvg-id="brazilTV.br" tvg-name="BRAZIL TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/azTiRz2.jpg",Brazil TV
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="brazilTV.br" tvg-name="BRAZIL TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/azTiRz2.jpg",Brazil TV
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTUADAL" tvg-id="centraltv.br" tvg-name="CENTRAL TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6QcsihL.jpg",Central TV
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="centraltv.br" tvg-name="CENTRAL TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6QcsihL.jpg",Central TV
 http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTUADAL" tvg-id="canal29.br" tvg-name="CANAL 29" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/iQ5Umwj.jpg",Canal 29
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="canal29.br" tvg-name="CANAL 29" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/iQ5Umwj.jpg",Canal 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="redebrasil.br" tvg-name="REDE BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Xet7Gr2.png",Rede Brasil (SP)
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
@@ -408,8 +408,9 @@ http://ev7cm.com:25461/francisco/francisco/42211
 http://ev7cm.com:25461/francisco/francisco/480
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="starchannel.br" tvg-name="STAR CHANNEL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star_Television_logo.svg/1200px-Star_Television_logo.svg.png",STAR CHANNEL FHD
 http://ev7cm.com:25461/francisco/francisco/478
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="venus.br" tvg-name="VENUS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse2.explicit.bing.net/th?id=OIP.wBhqP41LmSl8x4wFZ_BPLQHaCo&pid=Api&P=0&w=474&h=170",VENUS FHD
-http://ev7cm.com:25461/francisco/francisco/41721
+
+
+
 
 --------------------------------------------------------COMÉDIAS---------------------------------------------------------------
 #EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",

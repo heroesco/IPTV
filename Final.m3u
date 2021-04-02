@@ -3,6 +3,7 @@
 --------------------------------------------------------REDE GLOBO------------------------------------------------------------------------
 #EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
 
+
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
@@ -62,6 +63,7 @@ http://ev7cm.com:25461/Henrique/123456/44945
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO VERDES MARES FORTALEZA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO VERDES MARES FORTALEZA
 http://ev7cm.com:25461/Henrique/123456/44901
 
+
 --------------------------------------------------------BBB 21------------------------------------------------------------------------
 #EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
 
@@ -107,10 +109,10 @@ http://dnsx.co:80/live/7885037935/fireurl.co/93517.ts
 http://dnsx.co:80/live/7885037935/fireurl.co/93520.ts
 
 --------------------------------------------------------TV ABERTA NACIONAL------------------------------------------------------------------------
-#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
 
-
-#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",,SBT - TV Cidade Verde - (PI)
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT RS HD
+http://ev7cm.com:25461/Henrique/123456/454
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT - TV Cidade Verde - (PI)
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT PE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
@@ -140,6 +142,8 @@ https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w156509668.m3u8
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8?md5=8VNp96oHT6RvsHpi5wyIag&expires=1616504403
 #EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
 http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44227
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV RJ
+http://ev7cm.com:25461/Henrique/123456/625
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV Manaus
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV Natal
@@ -152,6 +156,16 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1312747290.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1297206351.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1312747292.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND HD
+http://ev7cm.com:25461/Henrique/123456/58895
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
+http://ev7cm.com:25461/Henrique/123456/44933
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND SP
+http://ev7cm.com:25461/Henrique/123456/70077
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND SP HD
+http://ev7cm.com:25461/Henrique/123456/254
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND SP SD
+http://ev7cm.com:25461/Henrique/123456/255
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
@@ -166,9 +180,6 @@ http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w2061380753.m3u8
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?
 
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
-#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
-
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmax.br" tvg-name="TV MAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png",TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmetropole.br" tvg-name="TV METROPOLE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/bnqpHAs.png",TV Metrópole
@@ -236,12 +247,9 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
 
 --------------------------------------------------------INFANTÍS------------------------------------------------------------------------
-#EXTINF:-1 group-title="INFANTÍS" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-#EXTINF:-1 group-title="INFANTÍS" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-#EXTINF:-1 group-title="INFANTÍS" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
 
-
-
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="gloobinho.br" tvg-name="GLOOBINHO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://es.wikipedia.org/wiki/Gloobinho#/media/Archivo:GloobinhoLogo.png", GLOOBINHO
+http://ev7cm.com:25461/Henrique/123456/67918
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="retroncartoon.br" tvg-name="RETRO CARTOON" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cyfu3qP.png",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="gospelcartoon.br" tvg-name="GOSPEL CARTOON" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aoq9CGU.png",Gospel Cartoon
@@ -252,10 +260,12 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 http://ev7cm.com:25461/francisco/francisco/586
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Nickjr.br" tvg-name="NICK JR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_nick-junior-brazil_m.png",NICK JR
 http://ev7cm.com:25461/francisco/francisco/12638
-#EXTINF:-1 group-title="INFANTÍS" tvg-id="NatGeo.br" tvg-name="NAT GEO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.b76DFfI9k5sGDa-JDNeuXQHaC0&pid=Api&P=0&w=410&h=157",NAT GEO KIDS
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="NatGeokids.br" tvg-name="NAT GEO KIDS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/06/natgo.png",NAT GEO KIDS
 http://ev7cm.com:25461/francisco/francisco/577
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB
-http://ev7cm.com:25461/francisco/francisco/528
+http://ev7cm.com:25461/Henrique/123456/530
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB HD
+http://ev7cm.com:25461/Henrique/123456/529
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyXD.br" tvg-name="DISNEY XD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/a91621b0-29f8-49f8-aeb2-72fe578d780d_m.jpg",DISNEY XD
 http://ev7cm.com:25461/francisco/francisco/353
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Disneyjr.br" tvg-name="DISNEY JR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg",DISNEY JR
@@ -270,15 +280,32 @@ http://ev7cm.com:25461/francisco/francisco/263
 http://ev7cm.com:25461/francisco/francisco/325
 
 --------------------------------------------------------DOCUMENTÁRIOS-------------------------------------------------------------------
-#EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
-
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",ARTE 1 FHD
 http://ev7cm.com:25461/francisco/francisco/252
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET FHD
-http://ev7cm.com:25461/francisco/francisco/233
+http://ev7cm.com:25461/Henrique/123456/233
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET FHD
+http://ev7cm.com:25461/Henrique/123456/234
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET FHD
+http://ev7cm.com:25461/Henrique/123456/44937
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET FHD
+http://ev7cm.com:25461/Henrique/123456/235
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGeoWild.br" tvg-name="NATGEO WILD HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/NATGEOWILD.jpg",NATGEO WILD HD
+http://ev7cm.com:25461/Henrique/123456/581
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGeoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/NATGEOWILD.jpg",NATGEO WILD
+http://ev7cm.com:25461/Henrique/123456/582
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
-http://ev7cm.com:25461/francisco/francisco/583
+http://ev7cm.com:25461/Henrique/123456/583
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC HD
+http://ev7cm.com:25461/Henrique/123456/584
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC HD
+http://ev7cm.com:25461/Henrique/123456/124
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC HD
+http://ev7cm.com:25461/Henrique/123456/44891
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC
+http://ev7cm.com:25461/Henrique/123456/585
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC
+http://ev7cm.com:25461/Henrique/123456/44890
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
 http://ev7cm.com:25461/francisco/francisco/580
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="InvestigationDiscovery.br" tvg-name="INVESTIGATION DISCOVERY" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",INVESTIGATION DISCOVERY FHD
@@ -289,33 +316,73 @@ http://ev7cm.com:25461/francisco/francisco/42229
 http://ev7cm.com:25461/francisco/francisco/5797
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
 http://ev7cm.com:25461/francisco/francisco/550
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
+http://ev7cm.com:25461/Henrique/123456/44897
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
+http://ev7cm.com:25461/Henrique/123456/552
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
+http://ev7cm.com:25461/Henrique/123456/119
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HGTV.br" tvg-name="HGTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/HGT.png",HGTV FHD
-http://ev7cm.com:25461/francisco/francisco/140821
+http://ev7cm.com:25461/Henrique/123456/140822
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HGTV.br" tvg-name="HGTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/HGT.png",HGTV FHD
+http://ev7cm.com:25461/Henrique/123456/140823
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="History2.br" tvg-name="History Channel 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",History Channel 2 FHD
-http://ev7cm.com:25461/francisco/francisco/533
+http://ev7cm.com:25461/Henrique/123456/533
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="History2.br" tvg-name="History Channel 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",History Channel 2 FHD
+http://ev7cm.com:25461/Henrique/123456/44898
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
 http://ev7cm.com:25461/francisco/francisco/475
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
-http://ev7cm.com:25461/francisco/francisco/344
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
-http://ev7cm.com:25461/francisco/francisco/341
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTLC.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC FHD
-http://ev7cm.com:25461/francisco/francisco/339
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://ev7cm.com:25461/francisco/francisco/333
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://ev7cm.com:25461/francisco/francisco/320
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY H&H" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-home-health_m.png",DISCOVERY H&H FHD
-http://ev7cm.com:25461/francisco/francisco/336
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION FHD
-http://ev7cm.com:25461/francisco/francisco/314
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://ev7cm.com:25461/francisco/francisco/304
+http://ev7cm.com:25461/Henrique/123456/44930
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
+http://ev7cm.com:25461/Henrique/123456/42233
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
+http://ev7cm.com:25461/Henrique/123456/308
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION FHD
+http://ev7cm.com:25461/Henrique/123456/314
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION FHD
+http://ev7cm.com:25461/Henrique/123456/316
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION FHD
+http://ev7cm.com:25461/Henrique/123456/318
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
+http://ev7cm.com:25461/Henrique/123456/336
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
+http://ev7cm.com:25461/Henrique/123456/320
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
+http://ev7cm.com:25461/Henrique/123456/322
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://ev7cm.com:25461/Henrique/123456/333
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://ev7cm.com:25461/Henrique/123456/334
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://ev7cm.com:25461/Henrique/123456/5800
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://ev7cm.com:25461/Henrique/123456/44928
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://ev7cm.com:25461/Henrique/123456/335
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/2015_Discovery_theater_HD_logo.svg",DISCOVERY THEATER
+http://ev7cm.com:25461/Henrique/123456/337
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/2015_Discovery_theater_HD_logo.svg",DISCOVERY THEATER
+http://ev7cm.com:25461/Henrique/123456/338
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTLC.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC FHD
+http://ev7cm.com:25461/Henrique/123456/68548
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTLC.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC
+http://ev7cm.com:25461/Henrique/123456/340
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
+http://ev7cm.com:25461/Henrique/123456/341
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
+http://ev7cm.com:25461/Henrique/123456/342
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
+http://ev7cm.com:25461/Henrique/123456/343
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
+http://ev7cm.com:25461/Henrique/123456/344
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
+http://ev7cm.com:25461/Henrique/123456/345
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
+http://ev7cm.com:25461/Henrique/123456/346
+
 
 --------------------------------------------------------ESPORTES-------------------------------------------------------------------
-#EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
-
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
@@ -350,52 +417,69 @@ http://ev7cm.com:25461/francisco/francisco/6738
 http://ev7cm.com:25461/francisco/francisco/6734
 
 --------------------------------------------------------NOTICÍAS-----------------------------------------------------------------------
-#EXTINF:-1 group-title="NOTICÍAS" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="tvvideonews.br" tvg-name="TV VIDEONEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/fX9C15m.png",TVídeoNews
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS MA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS FHD
-http://ev7cm.com:25461/francisco/francisco/506
+http://ev7cm.com:25461/Henrique/123456/506
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-news-hd_m.png",RECORD NEWS FHD
-http://ev7cm.com:25461/francisco/francisco/70363
+http://ev7cm.com:25461/Henrique/123456/508
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-news-hd_m.png",RECORD NEWS FHD
 http://ev7cm.com:25461/francisco/francisco/621
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL FHD
 http://ev7cm.com:25461/francisco/francisco/32648
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="bandnews.br" tvg-name="BAND NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png",BAND NEWS FHD
-http://ev7cm.com:25461/francisco/francisco/247
+http://ev7cm.com:25461/Henrique/123456/40259
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="bandnews.br" tvg-name="BAND NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png",BAND NEWS
+http://ev7cm.com:25461/Henrique/123456/250
+
 
 --------------------------------------------------------PREMIUM------------------------------------------------------------------------
 #EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
 
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME FHD
-http://ev7cm.com:25461/francisco/francisco/560
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE FHD
-http://ev7cm.com:25461/francisco/francisco/6756
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (ING)
-http://ev7cm.com:25461/francisco/francisco/77146
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
-http://ev7cm.com:25461/francisco/francisco/84433
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
+http://ev7cm.com:25461/Henrique/123456/6749
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2
+http://ev7cm.com:25461/Henrique/123456/6744
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY FHD
+http://ev7cm.com:25461/Henrique/123456/6745
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FHD
+http://ev7cm.com:25461/Henrique/123456/6753
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
-http://ev7cm.com:25461/francisco/francisco/6755
+http://ev7cm.com:25461/Henrique/123456/6755
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
+http://ev7cm.com:25461/Henrique/123456/6751
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
+http://ev7cm.com:25461/Henrique/123456/6746
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
+http://ev7cm.com:25461/Henrique/123456/84433
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
+http://ev7cm.com:25461/Henrique/123456/564
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FHD
+http://ev7cm.com:25461/Henrique/123456/6743
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE FHD
+http://ev7cm.com:25461/Henrique/123456/6756
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
+http://ev7cm.com:25461/Henrique/123456/6752
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME FHD
+http://ev7cm.com:25461/Henrique/123456/560
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME FHD
+http://ev7cm.com:25461/Henrique/123456/561
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
+http://ev7cm.com:25461/Henrique/123456/562
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI FHD
 http://ev7cm.com:25461/francisco/francisco/77145
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FHD
-http://ev7cm.com:25461/francisco/francisco/6753
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY FHD
-http://ev7cm.com:25461/francisco/francisco/6745
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
-http://ev7cm.com:25461/francisco/francisco/6754
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
 http://ev7cm.com:25461/francisco/francisco/282
-
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
+http://ev7cm.com:25461/Henrique/123456/282
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
+http://ev7cm.com:25461/Henrique/123456/283
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
+http://ev7cm.com:25461/Henrique/123456/285
 
 --------------------------------------------------------FILMES & SERIADOS---------------------------------------------------------------
-#EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
-
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="megacine.br" tvg-name="MEGA CINE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xQQOgFd.png",MegaCine
 https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="A&E.br" tvg-name="A&E" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_a-e_m.png",A&E FHD
@@ -437,7 +521,7 @@ http://ev7cm.com:25461/francisco/francisco/446
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="sony.br" tvg-name="SONY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY FHD
 http://ev7cm.com:25461/francisco/francisco/449
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
-http://ev7cm.com:25461/francisco/francisco/593
+http://ev7cm.com:25461/Henrique/123456/593
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cfx.br" tvg-name="FX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CFX.png",FX FHD
 http://ev7cm.com:25461/francisco/francisco/495
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="starhits2.br" tvg-name="STAR HITS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BMEmeH_3MuvqlPkXtXW5SwHaDv&pid=Api&P=0&w=387&h=196",STAR HITS 2 FHD
@@ -465,8 +549,10 @@ http://ev7cm.com:25461/francisco/francisco/292
 
 
 --------------------------------------------------------VARIEDADES---------------------------------------------------------------
-#EXTINF:-1 group-title="VARIEDADES" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="globosat.br" tvg-name="GLOBOSAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://brandeps.com/logo-download/G/Globosat-logo-vector-01.svg",GLOBOSAT HD
+http://ev7cm.com:25461/Henrique/123456/12580
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="globosat.br" tvg-name="GLOBOSAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://brandeps.com/logo-download/G/Globosat-logo-vector-01.svg",GLOBOSAT SD
+http://ev7cm.com:25461/Henrique/123456/527
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="mundotv.br" tvg-name="MUNDO TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ybdp3qq.png",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="cbtv.br" tvg-name="CBTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cj6kg2X.png",CBTV Now
@@ -486,6 +572,10 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.br" tvg-name="MTV BR HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV FHD
 http://ev7cm.com:25461/francisco/francisco/569
+#EXTINF:-1 group-title="MÚSICA" tvg-id="retromusic.br" tvg-name="RETRO MUSIC TV" tvg-country="BR" tvg-language="Portuguese" tvg-
+
+
+
 
 --------------------------------------------------------RADIOS---------------------------------------------------------------
 #EXTINF:-1 group-title="RADIOS" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",

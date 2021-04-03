@@ -66,7 +66,6 @@ http://ev7cm.com:25461/Henrique/123456/44901
 
 
 --------------------------------------------------------BBB 21------------------------------------------------------------------------
-#EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
 #EXTINF:-1 group-title="BBB21" tvg-id="BBB21.br" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg" group-title="Brasil",BBB21
 http://dnsx.co:80/live/7885037935/fireurl.co/89721.ts
 #EXTINF:-1 group-title="BBB21" tvg-id="BBB21.br" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg" group-title="Brasil",BBB21
@@ -436,8 +435,6 @@ http://ev7cm.com:25461/Henrique/123456/250
 
 
 --------------------------------------------------------PREMIUM------------------------------------------------------------------------
-#EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
 http://ev7cm.com:25461/Henrique/123456/6749
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2
@@ -542,8 +539,6 @@ http://ev7cm.com:25461/francisco/francisco/480
 http://ev7cm.com:25461/francisco/francisco/478
 
 --------------------------------------------------------COMÉDIAS---------------------------------------------------------------
-#EXTINF:-1 group-title="" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multishow_m.png",MULTISHOW FHD
 http://ev7cm.com:25461/francisco/francisco/573
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL FHD
@@ -576,13 +571,10 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="yeeaaah.br" tvg-name="YEEAAH TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jca1GLL.png",YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="agrotv.br" tvg-name="AGRO BRASIL TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PyCpEI8.png",AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
 
 
 --------------------------------------------------------MÚSICA---------------------------------------------------------------
-#EXTINF:-1 group-title="MÚSICA" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
 #EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.br" tvg-name="MTV BR HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV FHD
 http://ev7cm.com:25461/francisco/francisco/569
 #EXTINF:-1 group-title="MÚSICA" tvg-id="bis.br" tvg-name="BIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/TDh",BIS
@@ -591,8 +583,6 @@ http://srvx.io:80/live/7885037935/fireurl.co/71806.ts
 
 
 --------------------------------------------------------RADIOS---------------------------------------------------------------
-#EXTINF:-1 group-title="RADIOS" tvg-id=".br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",
-
 #EXTINF:-1 group-title="RADIOS" tvg-id="cbnrj.br" tvg-name="CBN RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Vs3B9Ie.png",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 group-title="RADIOS" tvg-id="cbnsp.br" tvg-name="CBN SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Vs3B9Ie.png",CBN RJ

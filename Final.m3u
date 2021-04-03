@@ -176,6 +176,38 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?
 
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" tvg-url="" group-title="TV ABERTA ESTADUAL",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiaí" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/9SjoGWj.png",Canal 25 Jundiaí
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="ITVNAFAIXA.br" tvg-name="ITV NA FAIXA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" tvg-url="" group-title="TV ABERTA ESTADUAL",ITV NA FAIXA
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-name="Nova Era TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-id="RedeRC.br" tvg-name="Rede RC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Rede RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-id="SummerTV.br" tvg-name="Summer TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1 tvg-id="TVAmbiental.br" tvg-name="TV Ambiental" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Ambiental
+http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
+#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-name="TV Cidade FO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Cidade FO
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-name="TV Cidade de Petrópolis" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Cidade de Petrópolis (720p)
+https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-name="TV Digital Birigui" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Galega Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 tvg-id="TVInterlagos.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Interlagos
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMetropole.br" tvg-name="TV Metrópole" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSolComunidade.br" tvg-name="TV Sol Comunidade" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 tvg-id="CanalRicos.br" tvg-name="Canal Ricos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Canal Ricos (1080p)
+https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="cultura.br" tvg-name="CULTURA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png",CULTURA
 http://srvx.io:80/live/7885037935/fireurl.co/71853.ts
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmax.br" tvg-name="TV MAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png",TV MAX
@@ -216,8 +248,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvturismo.br" tvg-name="TV Turismo PARANÁ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tYbG4bn.png",TV Turismo PARANÁ
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="iurdtv.br" tvg-name="IURD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KeTbnHf.png",IURD TV
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="londrinatv.br" tvg-name="LONDRINA TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yfXcjuE.png",Londrina TV
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="impdtv.br" tvg-name="IMPD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/EKVEL4H.png",IMPD TV

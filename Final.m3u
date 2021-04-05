@@ -7,6 +7,9 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO 4K
 http://ev7cm.com:25461/Henrique/123456/5500
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO
+http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44228
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO
 http://srvx.io:80/live/7885037935/fireurl.co/72025.ts
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO
@@ -125,10 +128,6 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w12715777
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist.m3u8
 #EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT  
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w545419196_b1000000.m3u8
-#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT
-http://ev7cm.com:25461/francisco/francisco/455
-#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT
-http://ev7cm.com:25461/francisco/francisco/458
 #EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
 https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w156509669.m3u8
 #EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
@@ -333,7 +332,7 @@ http://ev7cm.com:25461/Henrique/123456/529
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyXD.br" tvg-name="DISNEY XD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/a91621b0-29f8-49f8-aeb2-72fe578d780d_m.jpg",DISNEY XD
 http://srvx.io:80/live/7885037935/fireurl.co/71895.ts
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Disneyjr.br" tvg-name="DISNEY JR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg",DISNEY JR
-http://ev7cm.com:25461/francisco/francisco/351
+http://srvx.io:80/live/7885037935/fireurl.co/71895.ts
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyChannel.br" tvg-name="DISNEY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_disney_m.png",DISNEY CHANNEL
 http://srvx.io:80/live/7885037935/fireurl.co/71891.ts
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cartoon_m.png",CARTOON NETWORK
@@ -372,8 +371,6 @@ http://ev7cm.com:25461/Henrique/123456/585
 http://ev7cm.com:25461/Henrique/123456/44890
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
 http://ev7cm.com:25461/francisco/francisco/580
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="InvestigationDiscovery.br" tvg-name="INVESTIGATION DISCOVERY" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",INVESTIGATION DISCOVERY FHD
-http://ev7cm.com:25461/francisco/francisco/245
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="IDInvestigationDiscovery.br" tvg-name="ID Investigation Discovery" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID Investigation Discovery FHD
 http://ev7cm.com:25461/francisco/francisco/42229
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="InvestigaçaoDiscovery.br" tvg-name="INVESTIGACAO DISCOVERY" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID - INVESTIGACAO DISCOVERY FHD

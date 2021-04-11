@@ -743,3 +743,9 @@ https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
 #EXTINF:-1 group-title="RADIOS" tvg-id="radiomega.br" tvg-name="RADIO MEGA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/5rNlZDp.png",Rádio Mega FM
 http://216-155-149-152.webnow.com.br:80/mega.mp3
+
+
+--------------------------------------------------------INTERNACIONAIS---------------------------------------------------------------
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id=""tvg-name=CMT Television"" tvg-name="CMT Television" tvg-country="USA" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",CMT Television
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+

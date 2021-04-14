@@ -351,6 +351,10 @@ http://srvx.io:80/live/7885037935/fireurl.co/71828.ts
 http://srvx.io:80/live/7885037935/fireurl.co/71812.ts
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DiscoveryKids.br" tvg-name="DISCOVERY KIDS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-kids_m.png",DISCOVERY KIDS FHD
 http://srvx.io:80/live/7885037935/fireurl.co/71871.ts
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="Tooncast" tvg-name="TOONCAST FULLHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",TOONCAST FULLHD
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132265
+
+
 
 --------------------------------------------------------DOCUMENTÁRIOS-------------------------------------------------------------------
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/aDZ",ARTE 1 FHD
@@ -517,11 +521,11 @@ http://srvx.io:80/live/7885037935/fireurl.co/72110.ts
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY FHD
 http://ev7cm.com:25461/Henrique/123456/6745
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
-http://srvx.io:80/live/7885037935/fireurl.co/72114.ts
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132206
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FHD
 http://ev7cm.com:25461/Henrique/123456/6753
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
-http://srvx.io:80/live/7885037935/fireurl.co/72118.ts
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/115163
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
 http://ev7cm.com:25461/Henrique/123456/6755
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
@@ -531,13 +535,13 @@ http://srvx.io:80/live/7885037935/fireurl.co/72125.ts
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
 http://ev7cm.com:25461/Henrique/123456/84433
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
-http://srvx.io:80/live/7885037935/fireurl.co/72129.ts
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132210
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FHD
 http://ev7cm.com:25461/Henrique/123456/6743
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE FHD
 http://ev7cm.com:25461/Henrique/123456/6756
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
-http://srvx.io:80/live/7885037935/fireurl.co/72134.ts
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132211
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME FHD
 http://ev7cm.com:25461/Henrique/123456/560
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME FHD
@@ -545,7 +549,7 @@ http://ev7cm.com:25461/Henrique/123456/561
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
 http://srvx.io:80/live/7885037935/fireurl.co/72138.ts
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI FHD
-http://srvx.io:80/live/7885037935/fireurl.co/72121.ts
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132208
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
 http://srvx.io:80/live/7885037935/fireurl.co/71833.ts
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
@@ -586,7 +590,7 @@ http://udq.me:80/live/3K8JC/bAevY/22671.ts
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_universal_m.png",UNIVERSAL CHANNEL
 http://udq.me:80/live/3K8JC/bAevY/52543.ts
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tntseries.br" tvg-name="TNT SERIES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES FHD
-http://udq.me:80/live/3K8JC/bAevY/22668.ts
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132264
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT FHD
 http://udq.me:80/live/3K8JC/bAevY/13308.ts
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
@@ -705,9 +709,9 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.br" tvg-name="MTV BR HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV FHD
 http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.br" tvg-name="MTV BR HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV FHD
-http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/tracks-v2a1/mono.m3u8
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132219
 #EXTINF:-1 group-title="MÚSICA" tvg-id="bis.br" tvg-name="BIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/TDh",BIS
-http://srvx.io:80/live/7885037935/fireurl.co/71806.ts
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132145
 
 
 --------------------------------------------------------RADIOS---------------------------------------------------------------
@@ -748,4 +752,9 @@ http://216-155-149-152.webnow.com.br:80/mega.mp3
 --------------------------------------------------------INTERNACIONAIS---------------------------------------------------------------
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id=""tvg-name=CMT Television"" tvg-name="CMT Television" tvg-country="USA" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",CMT Television
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn espanol" tvg-name="CNN ESPANHOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPANHOL FULLHD
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132152
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN INTERNACIONAL FULLHD
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132153
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/bsg12zvu4e01i7.m3u8?s=vkfDaeoaWdzgMZS3XgULyw&e=1618375299

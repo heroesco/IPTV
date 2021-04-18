@@ -187,27 +187,25 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiaí" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/9SjoGWj.png",Canal 25 Jundiaí
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="ITVNAFAIXA.br" tvg-name="ITV NA FAIXA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" tvg-url="" group-title="TV ABERTA ESTADUAL",ITV NA FAIXA
+#EXTINF:-1 tvg-id="itv na faixa" tvg-name="ITV NA FAIXA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" tvg-url="" group-title="TV ABERTA ESTADUAL",ITV NA FAIXA
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-id="RedeRC.br" tvg-name="Rede RC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Rede RC
+#EXTINF:-1 tvg-id="rederc.com.br" tvg-name="Rede RC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Rede RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 tvg-id="SummerTV.br" tvg-name="Summer TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Summer TV
+#EXTINF:-1 tvg-id="summertv.net" tvg-name="Summer TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Summer TV
 http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
-#EXTINF:-1 tvg-id="TVAmbiental.br" tvg-name="TV Ambiental" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Ambiental
+#EXTINF:-1 tvg-id="TV Ambiental" tvg-name="TV Ambiental" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Ambiental
 http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
-#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-name="TV Cidade FO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Cidade FO
+#EXTINF:-1 tvg-id="TVCidade.com" tvg-name="TV Cidade FO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Cidade FO
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-name="TV Cidade de Petrópolis" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Cidade de Petrópolis (720p)
 https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-name="TV Digital Birigui" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Digital Birigui
+#EXTINF:-1 tvg-id="TV Digital Birigui" tvg-name="TV Digital Birigui" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Digital Birigui
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Galega Blumenau
+#EXTINF:-1 tvg-id="tvgalega.com.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Galega Blumenau
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="TVInterlagos.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Interlagos
+#EXTINF:-1 tvg-id="tvinterlagos.com.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Interlagos
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMetropole.br" tvg-name="TV Metrópole" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSolComunidade.br" tvg-name="TV Sol Comunidade" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Sol Comunidade
+#EXTINF:-1 tvg-id="TV Sol Comunidade" tvg-name="TV Sol Comunidade" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Sol Comunidade
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1 tvg-id="tvcarioca.net" tvg-name="TV Carioca" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" tvg-url="tvcarioca.net" group-title="TV ABERTA ESTADUAL",TV Carioca
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w925246066.m3u8
@@ -225,11 +223,13 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvpampa.br" tvg-name="TV PAMPA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/afeOjrn.png",TV Pampa - RedeTV! RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvpantanal.br" tvg-name="TV PANTANAL MS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0FOmktl.png",TV Pantanal MS
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvpantanalms.com.br" tvg-name="TV PANTANAL MS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0FOmktl.png",TV Pantanal MS
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvpantanalcba.com.br" tvg-name="TV PANTANAL MT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2475c2c97a49f21a5db5b40763d85d8.png",TV Pantanal MT
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvuniao.br" tvg-name="TV UNIÃO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WKylcVp.png",TV União (DF)
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvveerdescampos.br" tvg-name="TV VERDES CAMPOS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/BFCvf4s.png",TV Verdes Campos SAT
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvverdescampossat.com" tvg-name="TV VERDES CAMPOS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/BFCvf4s.png",TV Verdes Campos SAT
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tve.br" tvg-name="TVE BAHIA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ewJjke2.jpg",TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -289,7 +289,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvturismo.br" tvg-name="TV Turismo PARANÁ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tYbG4bn.png",TV Turismo PARANÁ
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="londrina tv" tvg-name="LONDRINA TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yfXcjuE.png",Londrina TV
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="londrinatv.com" tvg-name="LONDRINA TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yfXcjuE.png",Londrina TV
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="impdtv.br" tvg-name="IMPD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/EKVEL4H.png",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
@@ -756,13 +756,13 @@ http://216-155-149-152.webnow.com.br:80/mega.mp3
 
 
 --------------------------------------------------------INTERNACIONAIS---------------------------------------------------------------
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id=""tvg-name=CMT Television"" tvg-name="CMT Television" tvg-country="USA" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",CMT Television
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id=""tvg-name=CMT MUSIC"" tvg-name="CMT MUSIC" tvg-country="USA" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",CMT Television
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnnespanol" tvg-name="CNN ESPANHOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPANHOL FULLHD
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnnespanol.com" tvg-name="CNN ESPANHOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPANHOL FULLHD
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132152
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN INTERNACIONAL FULLHD
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnnbrasil.com" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN INTERNACIONAL FULLHD
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132153
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/luebrx1v31.m3u8?s=kjhXnNGCw_7GAelVJx8bQQ&e=1618794614
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/bsg12zvu4e01i7.m3u8?s=PEWIaBEu9FbKeg-IrohB4Q&e=1618794080
 
 

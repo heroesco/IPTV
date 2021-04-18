@@ -287,7 +287,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvturismo.br" tvg-name="TV Turismo PARANÁ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tYbG4bn.png",TV Turismo PARANÁ
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="londrinatv.br" tvg-name="LONDRINA TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yfXcjuE.png",Londrina TV
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="londrina tv" tvg-name="LONDRINA TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yfXcjuE.png",Londrina TV
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="impdtv.br" tvg-name="IMPD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/EKVEL4H.png",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
@@ -464,33 +464,33 @@ http://srvx.io:80/live/7885037935/fireurl.co/71887.ts
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
-http://udq.me:80/live/3K8JC/bAevY/4024.ts
+http://ev7cm.com:25461/Henrique/123456/6739
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 2.br" tvg-name="SPORTV 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png",SPORTV 2 FHD
-http://udq.me:80/live/3K8JC/bAevY/4027.ts
+http://ev7cm.com:25461/Henrique/123456/6730
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 3.br" tvg-name="SPORTV3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv3_m.png",SPORTV 3 FHD
 http://udq.me:80/live/3K8JC/bAevY/4025.ts
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE CLUBES FHD
-http://udq.me:80/live/3K8JC/bAevY/13454.ts
-#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 6 FHD
-http://udq.me:80/live/3K8JC/bAevY/105982.ts
-#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 5 FHD
-http://udq.me:80/live/3K8JC/bAevY/13447.ts
-#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 4 FHD
-http://udq.me:80/live/3K8JC/bAevY/13451.ts
-#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 3 FHD
-http://udq.me:80/live/3K8JC/bAevY/13452.ts
+http://ev7cm.com:25461/Henrique/123456/600
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 2 FHD
-http://udq.me:80/live/3K8JC/bAevY/13453.ts
+http://ev7cm.com:25461/Henrique/123456/603
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 3 FHD
+http://ev7cm.com:25461/Henrique/123456/606
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 4 FHD
+http://ev7cm.com:25461/Henrique/123456/608
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 5 FHD
+http://ev7cm.com:25461/Henrique/123456/133
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere.br" tvg-name="PREMIERE CLUBES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 6 FHD
+http://ev7cm.com:25461/Henrique/123456/44880
 #EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
 http://ev7cm.com:25461/francisco/francisco/6735
 #EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://udq.me:80/live/3K8JC/bAevY/13701.ts
+http://ev7cm.com:25461/Henrique/123456/44924
 #EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN FHD
 http://udq.me:80/live/3K8JC/bAevY/4252.ts
 #EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA FHD
 http://udq.me:80/live/3K8JC/bAevY/4234.ts
-#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN  FHD
-http://ev7cm.com:25461/francisco/francisco/6738
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN FHD
+http://ev7cm.com:25461/Henrique/123456/6679
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Combate.br" tvg-name="COMBATE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_combate-hd_m.png",COMBATE FHD
 http://srvx.io:80/live/7885037935/fireurl.co/71842.ts
 
@@ -752,9 +752,11 @@ http://216-155-149-152.webnow.com.br:80/mega.mp3
 --------------------------------------------------------INTERNACIONAIS---------------------------------------------------------------
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id=""tvg-name=CMT Television"" tvg-name="CMT Television" tvg-country="USA" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",CMT Television
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn espanol" tvg-name="CNN ESPANHOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPANHOL FULLHD
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnnespanol" tvg-name="CNN ESPANHOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPANHOL FULLHD
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132152
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN INTERNACIONAL FULLHD
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132153
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/bsg12zvu4e01i7.m3u8?s=vkfDaeoaWdzgMZS3XgULyw&e=1618375299
+
+

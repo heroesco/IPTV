@@ -752,7 +752,7 @@ http://216-155-149-152.webnow.com.br:80/mega.mp3
 http://latinoamericatv.vip:3334/Kaka/Kaka/351
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMTMUSIC" tvg-name="CMT MUSIC" tvg-country="USA" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",CMT Television
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="caracoltv.com" tvg-name="CARACOL TV" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="caracol tv" tvg-name="CARACOL TV" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnnespanol.com" tvg-name="CNN ESPANHOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPANHOL FULLHD
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132152

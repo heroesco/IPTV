@@ -752,16 +752,36 @@ http://216-155-149-152.webnow.com.br:80/mega.mp3
 https://5e36c064a2f6a.streamlock.net:1936/8614/8614/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="aztecauno" tvg-name="AZTECA UNO" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/Br6NgVK/Azteca-uno-logo-2018.png",AZTECA UNO
 http://latinoamericatv.vip:3334/Kaka/Kaka/351
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMTMUSIC" tvg-name="CMT MUSIC" tvg-country="USA" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",CMT MUSIC
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnnespanol.com" tvg-name="CNN ESPANHOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPANOL
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMC2US.us" tvg-name="CMC 2 (US)" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2 (US)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMCUSA.us" tvg-name="CMC-USA" tvg-country="USA" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png",CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMT MUSIC.us" tvg-name="CMT MUSIC" tvg-country="USA" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",CMT MUSIC
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMT.us" tvg-name="CMT" tvg-country="USA" tvg-language="English" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMTEqualPlay.us" tvg-name="CMT Equal Play" tvg-country="USA" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png",CMT Equal Play
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMTPlutoTV.us" tvg-name="CMT Pluto TV" tvg-country="USA" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png",CMT Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMTWesterns.us" tvg-name="CMT Westerns" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png",CMT Westerns
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn.es" tvg-name="CNN ESPANHOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPANOL
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132152
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn chile" tvg-name="CNN CHILE" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg",CNN CHILE
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnnbrasil.com" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN INTERNACIONAL FULLHD
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132153
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" group-title="Movies",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" group-title="Movies",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="Movies",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg" group-title="Movies",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hbo" tvg-name="HBO HD" tvg-language="SPANISH" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO 
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=hT5UKc9VHeoG28YQPntNEg&e=1618867749
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="fmtv 1" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1
@@ -774,10 +794,13 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/dscs0wr97wf.m3u8?s=BasdIAd5E2Q9plhByqvg0w&e=1618875176
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
 http://latinoamericatv.vip:3334/Kaka/Kaka/351
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="panico tv" tvg-name="PANICO" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/V3gpcXM/download.jpg",PANICO
+http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="televisa HD" tvg-name="TELEVISA HD" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUDwV6MUT_5il7QTo736j6yDIm4ejVnqmQQoU-4Q8sBoHfH7S2KqiwwQnnhd-QoKSg7hc&usqp=CAU",TELEVISA HD
 http://latinoamericatv.vip:3334/Kaka/Kaka/362
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVN" tvg-name="TVN" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/452_TVN.png",TVN CHILE
 https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+
 --------------------------------------------------------FILMES ESTREIOS---------------------------------------------------------------
 #EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg",Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)
 https://m100.uqload.org/3rfk42x3mzw2q4drdl37b5flafa3ne7bpksevmb6z526uq42rgqrddml56dq/v.mp4

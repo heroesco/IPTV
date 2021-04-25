@@ -64,7 +64,16 @@ http://ev7cm.com:25461/Henrique/123456/522
 http://ev7cm.com:25461/Henrique/123456/44945
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO VERDES MARES FORTALEZA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO VERDES MARES FORTALEZA
 http://ev7cm.com:25461/Henrique/123456/44901
-
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175064
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Rio De Janeiro" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Rio De Janeiro HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175058
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Minas HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175063
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Nordeste" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Nordeste HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175062
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Sao Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Sao Paulo HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175061
 
 --------------------------------------------------------BBB 21------------------------------------------------------------------------
 #EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
@@ -129,7 +138,7 @@ http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44227
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV RJ
 http://ev7cm.com:25461/Henrique/123456/625
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV Manaus
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175059
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV Natal
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV Natal
@@ -548,6 +557,8 @@ http://ev7cm.com:25461/Henrique/123456/561
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175113
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI FHD
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132208
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175024
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174994
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
@@ -577,6 +588,8 @@ https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175169
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="amc.br" tvg-name="AMC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/Xun",AMC FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175168
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="amc.br" tvg-name="AMC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/Xun",AMC FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175038
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="axn.br" tvg-name="AXN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175165
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_megapix_m.png",MEGAPIX FHD
@@ -594,27 +607,27 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175074
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
 http://fresat.live:8080/alvaro/alvaro/365477
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
-*************************************************
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175081
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
-*************************************************
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175035
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC5.png",TELECINE CULT FHD
 http://fresat.live:8080/alvaro/alvaro/365466
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC5.png",TELECINE CULT
-***************************************************
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175080
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
 http://fresat.live:8080/alvaro/alvaro/365467
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN 
-*****************************************************
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175079
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinepremium.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
-*********************************************************
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175078
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinepremium.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
-*********************************************************
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175030
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM FHD
 http://fresat.live:8080/alvaro/alvaro/365468
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
-*******************************************************
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175077
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH FHD
-*******************************************************
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175076
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
 http://fresat.live:8080/alvaro/alvaro/365469
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
@@ -631,6 +644,8 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175090
 http://fresat.live:8080/alvaro/alvaro/365484
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
 http://ev7cm.com:25461/Henrique/123456/593
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175060
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cfx.br" tvg-name="FX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CFX.png",FX FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175127
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cfx.br" tvg-name="FX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CFX.png",FX

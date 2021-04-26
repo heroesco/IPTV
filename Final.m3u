@@ -107,7 +107,7 @@ http://lista.lorddark.club/5247/5247/203817
 https://5e36c064a2f6a.streamlock.net:1936/8614/8614/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CANAIS INTERNACIONAIS" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 group-title="CANAIS INTERNACIONAIS" tvg-id="CMC2US.us" tvg-name="CMC 2 (US)" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2 (US)
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS" tvg-id="CMC2USA.us" tvg-name="CMC 2" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 group-title="CANAIS INTERNACIONAIS" tvg-id="CMCUSA.us" tvg-name="CMC-USA" tvg-country="USA" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
@@ -173,9 +173,9 @@ http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/115163
 http://ev7cm.com:25461/Henrique/123456/6749
 #EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175118
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
 http://ev7cm.com:25461/Henrique/123456/560
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
 http://ev7cm.com:25461/Henrique/123456/561
 #EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175113
@@ -183,44 +183,44 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175113
 http://ev7cm.com:25461/Henrique/123456/6745
 #EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132206
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132208
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175024
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
 http://ev7cm.com:25461/Henrique/123456/6755
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
 http://ev7cm.com:25461/Henrique/123456/6751
 #EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
 http://fresat.live:8080/alvaro/alvaro/365461
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
 http://ev7cm.com:25461/Henrique/123456/84433
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132210
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
 http://ev7cm.com:25461/Henrique/123456/6756
 #EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
 http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132211
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174994
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
 http://ev7cm.com:25461/Henrique/123456/282
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
 http://ev7cm.com:25461/Henrique/123456/283
 #EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
 http://ev7cm.com:25461/Henrique/123456/285
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="starhits1.br" tvg-name="STAR HITS 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BMEmeH_3MuvqlPkXtXW5SwHaDv&pid=Api&P=0&w=387&h=196",STAR HITS 1 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175132
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="starhits2.br" tvg-name="STAR HITS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BMEmeH_3MuvqlPkXtXW5SwHaDv&pid=Api&P=0&w=387&h=196",STAR HITS 2 FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175131
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="starcinema.br" tvg-name="STAR CINEMA HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.i6iCkuKXRTO5YHqDsaa3BgHaFm&pid=Api&P=0&w=264&h=200",STAR CINEMA FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="star channel.br" tvg-name="STAR CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c2tam.png",STAR CHANNEL
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175134
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="star channel.br" tvg-name="STAR CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c2tam.png",STAR CHANNEL
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175134
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="star cinema.br" tvg-name="STAR CINEMA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.i6iCkuKXRTO5YHqDsaa3BgHaFm&pid=Api&P=0&w=264&h=200",STAR CINEMA
 ************************************************
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="starlife.br" tvg-name="STAR LIFE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png",STAR LIFE FHD
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="star hits 1.br" tvg-name="STAR HITS 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BMEmeH_3MuvqlPkXtXW5SwHaDv&pid=Api&P=0&w=387&h=196",STAR HITS 1
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175132
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="star hits 2.br" tvg-name="STAR HITS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BMEmeH_3MuvqlPkXtXW5SwHaDv&pid=Api&P=0&w=387&h=196",STAR HITS 2
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175131
+#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="star life.br" tvg-name="STAR LIFE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png",STAR LIFE
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175133
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="starchannel.br" tvg-name="STAR CHANNEL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c2tam.png",STAR CHANNEL FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175134
-#EXTINF:-1 group-title="CANAIS PREMIUM" tvg-id="starchannel.br" tvg-name="STAR CHANNEL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c2tam.png",STAR CHANNEL FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175134
 
 --------------------------------------------------------CANAIS DE COMÉDIAS---------------------------------------------------------------
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL

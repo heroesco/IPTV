@@ -179,14 +179,14 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvdestak.br" tvg-name="TV DESTAK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/W1LutVP.png",TV DESTAK
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvestado.br" tvg-name="TV ESTADO BA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png",TV ESTADO BA
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="tvgalega.com.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV GALEGA BLUMENAU
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvgermana.br" tvg-name="TV GERMANA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/104124481f02f8448eee689ec3064636.png",TV GERMANA
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1344761170.m3u8
 #EXTINF:-1 tvg-id="tvinterlagos.com.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Interlagos
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvestado.br" tvg-name="TV ESTADO BA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png",TV ESTADO BA
-https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tviracema.br" tvg-name="TV IRACEMA FO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a9a8f01189ff6702182975edb02bab0.jpg", TV IRACEMA FO
 https://stmv1.srvstm.com/iracematv/iracematv/chunklist_w1042223437.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmanchete.br" tvg-name="TV MANCHETE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VeELX7K.png",TV Manchete

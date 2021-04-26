@@ -361,10 +361,6 @@ http://fresat.live:8080/alvaro/alvaro/365433
 http://ev7cm.com:25461/Henrique/123456/337
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
 http://ev7cm.com:25461/Henrique/123456/338
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTLC.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC FHD
-http://ev7cm.com:25461/Henrique/123456/68548
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTLC.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC
-http://ev7cm.com:25461/Henrique/123456/340
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
 http://ev7cm.com:25461/Henrique/123456/341
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
@@ -421,6 +417,10 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175102
 http://ev7cm.com:25461/Henrique/123456/581
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGeoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/NATGEOWILD.jpg",NATGEO WILD
 http://ev7cm.com:25461/Henrique/123456/582
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTLC.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC FHD
+http://ev7cm.com:25461/Henrique/123456/68548
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTLC.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC
+http://ev7cm.com:25461/Henrique/123456/340
 
 --------------------------------------------------------ESPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports

@@ -587,6 +587,8 @@ http://fresat.live:8080/alvaro/alvaro/365449
 --------------------------------------------------------CANAIS INTERNACIONAIS---------------------------------------------------------------
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="443" tvg-name="ARAB TV" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/443_Arab_TV.png",ARAB TV
 https://5e36c064a2f6a.streamlock.net:1936/8614/8614/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="Cali TV" tvg-name="CALI TV" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.imgur.com/sRZN7Tn.png",CALI TV
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMC2USA.us" tvg-name="CMC 2" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2
@@ -621,6 +623,8 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-fr
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=hT5UKc9VHeoG28YQPntNEg&e=1618867749
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hbo" tvg-name="HBO" tvg-language="SPANISH" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO 
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=hT5UKc9VHeoG28YQPntNEg&e=1618867749
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="RCNHD.co" tvg-name="RCN" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png",RCN HD
+http://saypopular.com:25461/oscar/20gar/52262
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="fmtv 1" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="fmtv 2 movies" tvg-name="FMTV 2 Movies" tvg-logo="https://www.m3u.cl/logo/482_FMTV_2_Movies.png", FMTV 2 Movies
@@ -628,9 +632,9 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="fmtv 3 super cine" tvg-name="FMTV 3 Super Cine" tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png", FMTV 3 Super Cine
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
-http://fresat.live:8080/alvaro/alvaro/304911
+http://ky-tv.cc:25461/cde123/cde123/514353
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
-http://fresat.live:8080/alvaro/alvaro/304985
+http://ky-tv.cc:25461/cde123/cde123/514551
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="panico" tvg-name="PANICO" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/V3gpcXM/download.jpg",PANICO
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TV CHILE" tvg-name="TV CHILE 1" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE 1

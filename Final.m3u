@@ -74,33 +74,6 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175062
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Sao Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Sao Paulo HD BR
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175061
 
---------------------------------------------------------BBB 21------------------------------------------------------------------------
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/203816
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/203815
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/203814
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/203813
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/203812
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/203811
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/201343
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/201344
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/201342
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/201341
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
-http://lista.lorddark.club/5247/5247/201345
-#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21 MULTICAMARA
-http://lista.lorddark.club/5247/5247/203817
 
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="1001noites.br" tvg-name="1001 NOITES CB PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png",1001 NOITES CURITIBA
@@ -169,6 +142,8 @@ https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w6507
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w925246066.m3u8
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="TVcidade10.br" tvg-name="TV CIDADE 10 RS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e82f0d2593874e1e31bc5a7cdf607848.jpg", TV CIDADE 10 RS
 https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FnKvruLHYRU)r(fVR9ug)a(tS4JQg)p(d(2xc)k(q8Y)m(E_jdrT7e-TMcDy1IN4LM7g)n(a(bXbiEQ)s(cyI)'a(0IEnIQ)s(9B8)))s(s(th8)b(bq_IEm8CHiFjmQZ-bmQXEhBjcIb2tzGeXbNqUV0cLeqB90N1aTsExit9Si6xqZFBxBIs-PFxmAM9rQa2JA)'s(jps)b(5SHgLbzyahyDRfHSqdPMb6C3p-SEHS0rEN2Ul2dH26WYppCrOhyqt1T-MfekTKqRdKj6hGMtX6UMFC0rd-7sOBlzrfSQI1Z-sDqtriaW)'s(-wM)b(ynkDU3Uu))m(0))/1_index.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="TELECINEACTION.br" tvg-name="TV CIDADE VERDE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppL6n53PBbAfSGmT7iTtb3DxFJnshjqljGw&usqp=CAU" group-title=",TV CIDADE VERDE
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidade.com" tvg-name="TV Cidade FO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Cidade FO
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-name="TV Cidade de Petrópolis" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Cidade de Petrópolis (720p)
@@ -635,12 +610,10 @@ http://ky-tv.cc:25461/cde123/cde123/514551
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="RCNHD.co" tvg-name="RCN" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png",RCN HD
 http://saypopular.com:25461/oscar/20gar/52262
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 1" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE 1
-http://fresat.live:8080/alvaro/alvaro/307892
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 2" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE 2
-http://fresat.live:8080/alvaro/alvaro/307893
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 3" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE 3
-http://fresat.live:8080/alvaro/alvaro/307894
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 1" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE
+http://unlimited1-us.dps.live/tvn/tvn.smil/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 1" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE 2
+http://unlimited10-cl.dps.live/tvn/tvn.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVN.cl" tvg-name="TVN" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/452_TVN.png",TVN CL
 https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -659,6 +632,8 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175126
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175154
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="EuronewsPortugues.fr" tvg-name="EURONEWS BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png",Euronews Português (720p)
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-news-hd_m.png",RECORD NEWS FHD
 http://ev7cm.com:25461/Henrique/123456/508
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-news-hd_m.png",RECORD NEWS FHD
@@ -814,22 +789,3 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174985
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175068
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="yeeaaahtv.br" tvg-name="YEEAAH TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jca1GLL.png",YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
---------------------------------------------------------FILMES ESTREIOS---------------------------------------------------------------
-#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg",Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)
-https://m100.uqload.org/3rfk42x3mzw2q4drdl37b5flafa3ne7bpksevmb6z526uq42rgqrddml56dq/v.mp4
-
-#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Liga de la Justicia" tvg-logo="https://image.tmdb.org/t/p/w185/pI25ennflmJ1R9q7ZTI681f0WBb.jpg",Liga de la justicia
-https://00f74ba44b6042faaab89482037f0e500f3b21b7cc-apidata.googleusercontent.com/download/storage/v1/b/vvtas/o/tm791373_LAT_HD?jk=AFshE3VIYcfEk6FYou0y8algCE43AS398CMjR7xPD521Y56Td2hsbbt5v-CYP5ljvo46EYHnyVukEniL7XxBhC48Vvt7j45QWy68GayMOSdiUV9J7aAkL-Eqv7_zcpifTlBj-3_3BmP7JtheZBkT9hAWqznnlSuasqy7qDbGDPRMLRxeIKIhSo34KQpWCVu5oyxB6vfliGtoAX6QzfZUAr4tnInnNNiwfpw7UypyRcY9Hryo7EfgGDtqCDGEPrJXmNELIfGaBuoXfBj85QruJY9cnw4gukEvxN3hWPytviY1qdm9xXV8B6kyYlcMi2TEHK8XfpqB8J7w48fk2VKRysT-Qs6faNnuyjmL9PlE4fd4KGgZ7C2S0tmEEVpI8_Y8ocvY3kI9mLrIJYPKz5uwYK8f8kuhwPZ8cribiP5GjPko1tM65Goajc44C1auKBDXbae3vLvj2c6eiJIZH3rLZaVSPE6K0s-1OodJXbEV0IkCQ8Ye7W5ix9Ch_9_lf__h6VM0x-bwKfXNokYFEchHHe42R8-DCY_y867OypApJwWl2-2fxdT1fXvhx7kFX_bV6cBkNawqb_ZG5K1BVVibQT1B1b0BoDIllDECfjW8acI2rT3chPiaaSHywuvzUxK5g8eJQE8164bGEoPRjm_i78b6b5la1nL0PrsR7Jw6VMQJx5y_ftDlJUQlMsMeW7w-f5nEL-yZgx3BAePouQwv-MsFs9cI1M5J2mR1QI5sCa7cOEvuHEGe8iCA5CL9poCBTrpWDOSwDP9GOqQi9N-r1ghjmxKlUKMeU_IEUxPtqSrQ5yUzzynuvi71YRQ7aSbxRBgKpSCAG7Kv0wZZ510eHhQhJwBADxrbT9dqW1WFHOoJhIvDDBEbZEHmATdFzgscfqU79_ume-rYdznOgvNqmtiAvLVhf_JNLTirnLgCKTWDtViQqblGbEBuJIMsH5vi3QCH0kk_fQXm04NHStcmzIg&isca=1
-
-#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Mulan" tvg-logo="https://pelis28.nu/wp-content/uploads/2020/06/mulan.jpg",Mulan
-https://908373049.tapecontent.net/radosgw/PX0yaG21KLTxmd/K6UWgMUwxAmbAr7bUQeWUMzqrMMB_uGsKw57BYpf_Lsd8pzcT07EGdDNxLBFI8SHtd5IDdRsZW-UQKHBBzJmJAQzbyZXJtAztApTFzLMiTVqnUL8NJB9gfE_76pyfm_Ea_Yb5FGqlG8pBJEU03PM9E5e6z9TM_ttos9r35IJ1KoIhIhFyVZ68tYKY-mmfwvmrsYmYd5C1ioop8IA7ToZQCZCLCLdhaoEBq5732w3wcr3Hw1mkMhy3E8mF1VpyQdu6VoIwLzev7RDSLrUxAtWK-JjElRUINQFW1bDykMhjvIXlL3i9qHFGj-_JvY/Kr25Ra8qgp1-streamtape.mp4?stream=1
-
-#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Mujer Maravilla 1984" tvg-logo="https://pelis28.nu/wp-content/uploads/2021/01/nvCsNbIaYo96GrM2IuQiiVOkq5O.jpg",Mujer Maravilla 1984
-https://waaw.tv/f/RiwqfH7feWVx
-
-#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Pequeños Detalles" tvg-logo="https://image.tmdb.org/t/p/w185/dOb7bALn1uZZ7XYX1NT5Xfe9kbE.jpg",Pequeños Detalles
-https://00f74ba44bf0a482344d01cb9abacc2ac1a958fc34-apidata.googleusercontent.com/download/storage/v1/b/vvtas/o/tm602269_LAT_HD?jk=AFshE3X0n6d5yQp_WVkKrGVcz8F7w1_PvPt5HiUzGDCeyDe9YiVnSleEHFnfvhf5-p5Wr16ubaEvTo-ZaV0XyM1z2Wv1xJhu0wo16RcLAo6BT_zdZy-ULN45Cy6F7psFpsDco2Qda70nxhwhhfbe4IcYm3nY4t0Wgs7MWF91XJTmt_rMeg_bcrP1iydFSb2dQIOcH1jSY1wJLge2VuKSg8hN8lU4zHRg2hBTGQnkFueCfKBdfRaQCVh5WaZ6oyspvUmcxD5zeUCIx4G_Nr0MR6cPIQ2cdynQ8Nkl6j2KkgcSkHGaTgcOyXJARSu5Ss_9RVLlmC-BJ2d7us6TUQPSsL4ANAghzz3MYA0_P_PDOPnhcd9vIyMvgKR7HBgqTbmxAXeTBv6Jhjqta-bgKd5Z9j5fDZYx4a_gjzybhNVSBRqUGJcs0Q6V-vPi1lOLQoQWDtg1Tau4F2bSjgfBC-nTqZki06-4xRfA9NU-yiv_eHjI7in_0wnzo_5oloQ_pbfVzhM2bxsz5-NVcSKrbsltpG6d2PDtKfog8_9g2tJEzUCI3JMj6_yC4A0PZXJqPmS51Txt5n6AZKZIoadhOx47oFl6bvhSvM8G151-KpCmBzluP-ZUg_tNey1MMjyaKueIOkkxsku15Rqf858Uzhmw60MmPPegHgRFyuhaufGpy_uJomvTfQnKl8AXCd1n1ATn1Cpx4zVJDPcvwP8U60YUswLbt4HY-G3AtkZPzspQUx72Tm52aLo_lBZ3p5OH_Ur84VGv6iWmAR8Kqek9do1OrDPfOHgCyNpgS2lfY9xFubXHVNLM5eatu4Np9_7XKvTDAuu3HpmLpFtkOavEMncfSi_ozUOrLy6wrC8TfuIZCW48uNOR4q9DoGNHTPqI97OAJE0tZ8V6JVGdH6XMBLOrkczBR4CveoJ5-yhU-JS1KMlUGh2v1mMVvCGrzhpOQmW9QhoAWT_qaNKmAIrlAJkML50&isca=1
-
-#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Chaos Walking" tvg-logo="http://gnula.nu/wp-content/uploads/2021/03/Chaos_Walking_poster_usa.jpg",Chaos Walking
-https://megaup.net/1Cjp1/ch40s.w4lkng.2021.hdrip.720p.latino.mp4

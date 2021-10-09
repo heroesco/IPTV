@@ -4,76 +4,6 @@
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO 4K
-http://ev7cm.com:25461/Henrique/123456/5500
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
-dtv://antenna:29/atsc/4/1
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO
-http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44228
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RPC FOZ DO IGUACU" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RPC FOZ DO IGUACU
-http://ev7cm.com:25461/Henrique/123456/498
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO BAHIA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO BAHIA
-http://ev7cm.com:25461/Henrique/123456/44909
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV CAMPINAS
-http://ev7cm.com:25461/Henrique/123456/502
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV CAMPINAS
-http://ev7cm.com:25461/Henrique/123456/501
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV CAMPINAS
-http://ev7cm.com:25461/Henrique/123456/44917
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO INTER TV CABUGI (RN)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO INTER TV CABUGI (RN)
-http://ev7cm.com:25461/Henrique/123456/44914
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO MINAS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO MINAS HD
-http://ev7cm.com:25461/Henrique/123456/5774
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO MINAS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO MINAS HD
-http://ev7cm.com:25461/Henrique/123456/44838
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo NSC Joinville" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Joinville
-http://ev7cm.com:25461/Henrique/123456/44821
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO NSC SC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO NSC SC
-http://ev7cm.com:25461/Henrique/123456/84612
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO NSC TV FLORIANOPOLIS
-http://ev7cm.com:25461/Henrique/123456/281
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboRBSTVPoa.br" tvg-name="GLOBO RBS PORTO ALEGRE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RBS PORTO ALEGRE
-http://ev7cm.com:25461/Henrique/123456/44912
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RIBEIRAO PRETO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RIBEIRAO PRETO
-http://ev7cm.com:25461/Henrique/123456/511
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
-http://ev7cm.com:25461/Henrique/123456/514
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
-http://ev7cm.com:25461/Henrique/123456/5778
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
-http://ev7cm.com:25461/Henrique/123456/44910
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
-http://ev7cm.com:25461/Henrique/123456/5845
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
-http://ev7cm.com:25461/Henrique/123456/40059
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
-http://ev7cm.com:25461/Henrique/123456/5846
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
-http://ev7cm.com:25461/Henrique/123456/44908
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV BAHIA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV BAHIA
-http://ev7cm.com:25461/Henrique/123456/44841
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV BELEM LIBERAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV BELEM LIBERAL
-http://ev7cm.com:25461/Henrique/123456/521
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV MORENA PONTA PORA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV MORENA PONTA PORA
-http://ev7cm.com:25461/Henrique/123456/14015
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV RIO SUL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV RIO SUL
-http://ev7cm.com:25461/Henrique/123456/522
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV S.J. RIO PRETO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV S.J. RIO PRETO
-http://ev7cm.com:25461/Henrique/123456/44945
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO VERDES MARES FORTALEZA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO VERDES MARES FORTALEZA
-http://ev7cm.com:25461/Henrique/123456/44901
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo HD BR
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175064
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Rio De Janeiro" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Rio De Janeiro HD BR
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175058
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Minas HD BR
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175063
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Nordeste" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Nordeste HD BR
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175062
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Sao Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Sao Paulo HD BR
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175061
-
 
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="1001noites.br" tvg-name="1001 NOITES CB PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png",1001 NOITES CURITIBA
@@ -305,37 +235,25 @@ http://ev7cm.com:25461/Henrique/123456/235
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/aDZ",ARTE 1
 http://fresat.live:8080/alvaro/alvaro/365479
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://fresat.live:8080/alvaro/alvaro/365431
+http://s.pdsrv.io:80/elizangela/elizangela/69150?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175151
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175014
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31106?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION
-http://ev7cm.com:25461/Henrique/123456/314
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION
-http://ev7cm.com:25461/Henrique/123456/316
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION
-http://ev7cm.com:25461/Henrique/123456/318
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8423?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://ev7cm.com:25461/Henrique/123456/336
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31108?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://ev7cm.com:25461/Henrique/123456/320
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31107?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://fresat.live:8080/alvaro/alvaro/365432
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8422?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://ev7cm.com:25461/Henrique/123456/333
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31111?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://ev7cm.com:25461/Henrique/123456/334
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://ev7cm.com:25461/Henrique/123456/5800
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://ev7cm.com:25461/Henrique/123456/44928
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://fresat.live:8080/alvaro/alvaro/365433
+http://xcui.vitvabc.xyz:8880/2879940036fb/2879940036fb/31111?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
-http://ev7cm.com:25461/Henrique/123456/337
+http://s.pdsrv.io:80/elizangela/elizangela/11530?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
-http://ev7cm.com:25461/Henrique/123456/338
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31113?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
 http://ev7cm.com:25461/Henrique/123456/341
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
@@ -369,9 +287,9 @@ http://fresat.live:8080/alvaro/alvaro/365474
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="History2.br" tvg-name="History Channel 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",HISTORY CHANNEL 2 FHD
 http://ev7cm.com:25461/Henrique/123456/44898
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigation Discovery.br" tvg-name="ID Investigation Discovery" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175110
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31110?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigation Discovery.br" tvg-name="ID Investigation Discovery" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175010
+http://xcui.vitvabc.xyz:8880/2879940036fb/2879940036fb/31109?checkedby:zaltv.co
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
 http://ev7cm.com:25461/Henrique/123456/583
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC HD
@@ -404,10 +322,10 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175161
 #EXTINF:-1 group-title="ESPORTES" tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png",Band Sports
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175160
-#EXTINF:-1 group-title="ESPORTES" tvg-id="Combate.br" tvg-name="COMBATE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_combate-hd_m.png",COMBATE
-http://fresat.live:8080/alvaro/alvaro/365430
-#EXTINF:-1 group-title="ESPORTES" tvg-id="Combate.br" tvg-name="COMBATE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_combate-hd_m.png",COMBATE
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175153
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Dazn.br" tvg-name="DAZN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://play-lh.googleusercontent.com/gpKh0PR6Ucl2PY5HnSVRuoFy4NZhzJ_6_b1_paVYVE7kyNnzET3fSX57vWufWYYkKnHZ",DAZN
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31211?checkedby:zaltv.co
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Dazn.br" tvg-name="DAZN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://play-lh.googleusercontent.com/gpKh0PR6Ucl2PY5HnSVRuoFy4NZhzJ_6_b1_paVYVE7kyNnzET3fSX57vWufWYYkKnHZ",DAZN
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31210?checkedby:zaltv.co
 #EXTINF:-1 group-title="ESPORTES" tvg-id="espn" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175018
 #EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA FHD
@@ -445,13 +363,13 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175086
 
 --------------------------------------------------------FILMES & SERIADOS---------------------------------------------------------------
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="A&E.br" tvg-name="A&E" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_a-e_m.png",A&E FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175169
+https://list.iptvcat.com/my_list/s/faa0ad50f6c833b85773f842966b3662.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="amc.br" tvg-name="AMC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/Xun",AMC FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175168
+https://list.iptvcat.com/my_list/s/653bdec243cd7501bbbef617af70faf4.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="amc.br" tvg-name="AMC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/Xun",AMC FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175038
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="axn.br" tvg-name="AXN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175165
+https://list.iptvcat.com/my_list/s/143cdefba3cf5cb9339f81ed9651c2ab.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cfx.br" tvg-name="FX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CFX.png",FX FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175127
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cfx.br" tvg-name="FX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CFX.png",FX
@@ -478,30 +396,16 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175089
 http://fresat.live:8080/alvaro/alvaro/365482
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175084
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175081
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175035
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC5.png",TELECINE CULT FHD
-http://fresat.live:8080/alvaro/alvaro/365466
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC5.png",TELECINE CULT
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175080
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
-http://fresat.live:8080/alvaro/alvaro/365467
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN 
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175079
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175078
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175030
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
-http://fresat.live:8080/alvaro/alvaro/365468
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175077
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175076
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
-http://fresat.live:8080/alvaro/alvaro/365469
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cinesky1.br" tvg-name="CINE SKY 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 1
+http://s.pdsrv.io:80/elizangela/elizangela/59966?checkedby:zaltv.co
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cinesky2.br" tvg-name="CINE SKY 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 2
+http://s.pdsrv.io:80/elizangela/elizangela/59967?checkedby:zaltv.co
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cinesky3.br" tvg-name="CINE SKY 3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 3
+http://s.pdsrv.io:80/elizangela/elizangela/59968?checkedby:zaltv.co
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cinesky4.br" tvg-name="CINE SKY 4" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 4
+http://s.pdsrv.io:80/elizangela/elizangela/59969?checkedby:zaltv.co
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cinesky5.br" tvg-name="CINE SKY 5" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 5
+http://s.pdsrv.io:80/elizangela/elizangela/59970?checkedby:zaltv.co
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175074
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
@@ -527,7 +431,9 @@ http://fresat.live:8080/alvaro/alvaro/365429
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cartoon_m.png",CARTOON NETWORK
 http://fresat.live:8080/alvaro/alvaro/365471
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DiscoveryKids.br" tvg-name="DISCOVERY KIDS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-kids_m.png",DISCOVERY KIDS FHD
-http://fresat.live:8080/alvaro/alvaro/365485
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856592?checkedby:zaltv.co
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="DiscoveryKids.br" tvg-name="DISCOVERY KIDS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-kids_m.png",DISCOVERY KIDS FHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31482?checkedby:zaltv.co
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyChannel.br" tvg-name="DISNEY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_disney_m.png",DISNEY CHANNEL
 http://fresat.live:8080/alvaro/alvaro/365455
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyJunior.br" tvg-name="DISNEY JR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg",DISNEY JR
@@ -560,10 +466,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 http://fresat.live:8080/alvaro/alvaro/365449
 
 --------------------------------------------------------CANAIS INTERNACIONAIS---------------------------------------------------------------
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="443" tvg-name="ARAB TV" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/443_Arab_TV.png",ARAB TV
-https://5e36c064a2f6a.streamlock.net:1936/8614/8614/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="Calitv.co" tvg-name="CALI TV" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.imgur.com/sRZN7Tn.png",CALI TV
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMCTV.us" tvg-name="CMC" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC
@@ -583,7 +487,7 @@ http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132152
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn chile" tvg-name="CNN CHILE" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg",CNN CHILE
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CNN.us" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN
-http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132153
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="FMTV1.ec" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="FMTV2Movies.ec" tvg-name="FMTV 2 Movies" tvg-logo="https://www.m3u.cl/logo/482_FMTV_2_Movies.png", FMTV 2 Movies
@@ -603,13 +507,11 @@ https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=hT5UKc9VHeoG28YQPnt
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hbo.mx" tvg-name="HBO" tvg-language="SPANISH" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO 
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=hT5UKc9VHeoG28YQPntNEg&e=1618867749
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
-http://ky-tv.cc:25461/cde123/cde123/514353
+http://38.131.11.9:1080/play/a032
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
-http://ky-tv.cc:25461/cde123/cde123/514551
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="panico" tvg-name="PANICO" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/V3gpcXM/download.jpg",PANICO
-http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="RCNHD.co" tvg-name="RCN" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png",RCN HD
-http://saypopular.com:25461/oscar/20gar/52262
+http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/115440?checkedby:zaltv.co
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CanalRCNNovelas.co" tvg-name="RCN NOVELAS" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png",RCN NOVELAS
+http://38.131.11.9:1080/play/a037
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 1" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE
 http://unlimited1-us.dps.live/tvn/tvn.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 1" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE 2

@@ -1,7 +1,8 @@
 #EXTINF:
 --------------------------------------------------------ACTUALIDAD & NOTICIAS------------------------------------------------------------------------
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="canal26.ar" tvg-name="CANAL 26" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/800px-LogoCanal26.png",CANAL 26
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
 #EXTINF:-1 group-title="NOTICAS" tvg-id="cnn" tvg-name="CNN ESPAÑOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPAÑOL
-
 #EXTINF:-1 group-title="NOTICAS" tvg-id="eltrece.ar" tvg-name="EL TRECE" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFmJD0JllhnsMDvAAh3lVsXmehY_9rY8ZYgO9PJA=s900-c-k-c0x00ffffff-no-rj",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="NOTICAS" tvg-id="telefe.ar" tvg-name="TELEFE" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://elsolnoticias.com.ar/wp-content/uploads/2021/04/logo-schema.jpg",TELEFE

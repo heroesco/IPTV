@@ -1,1 +1,233 @@
-
+#EXTM3U
+#EXTINF:-1, E! Latinoamerica
+http://189.129.29.179:8000/play/a019/index.m3u8
+#EXTINF:-1,A&E Latinoamerica
+http://189.129.29.179:8000/play/a016/index.m3u8
+#EXTINF:-1,APRENDE EN CASA 7.3
+http://189.129.29.179:8000/play/a03l/index.m3u8
+#EXTINF:-1,Animal Planet Latinoamérica
+http://189.129.29.179:8000/play/a03z/index.m3u8
+#EXTINF:-1,Antena 3 Internacional
+http://189.129.29.179:8000/play/a015/index.m3u8
+#EXTINF:-1,Aprende en casa 3.2
+http://189.129.29.179:8000/play/a02b/index.m3u8
+#EXTINF:-1,Arts
+http://189.129.29.179:8000/play/a031/index.m3u8
+#EXTINF:-1,Atreseries
+http://189.129.29.179:8000/play/a02p/index.m3u8
+#EXTINF:-1,Axn
+http://189.129.29.179:8000/play/a01q/index.m3u8
+#EXTINF:-1,Azteca 7
+http://189.129.29.179:8000/play/a039/index.m3u8
+#EXTINF:-1,Azteca Uno
+http://189.129.29.179:8000/play/a004/index.m3u8
+#EXTINF:-1,Baby TV México
+http://189.129.29.179:8000/play/a02y/index.m3u8
+#EXTINF:-1,Boomerang Mexico
+http://189.129.29.179:8000/play/a01c/index.m3u8
+#EXTINF:-1,CNN International Latin America
+http://189.129.29.179:8000/play/a032/index.m3u8
+#EXTINF:-1,CNN en Español
+http://189.129.29.179:8000/play/a03o/index.m3u8
+#EXTINF:-1,CV Directo
+http://189.129.29.179:8000/play/a03t/index.m3u8
+#EXTINF:-1,Canal 22 Nacional
+http://189.129.29.179:8000/play/a03a/index.m3u8
+#EXTINF:-1,Canal 22.2
+http://189.129.29.179:8000/play/a02z/index.m3u8
+#EXTINF:-1,Canal 5
+http://189.129.29.179:8000/play/a00z/index.m3u8
+#EXTINF:-1,Canal 6 Nacional
+http://189.129.29.179:8000/play/a010/index.m3u8
+#EXTINF:-1,Canal Catorce
+http://189.129.29.179:8000/play/a02m/index.m3u8
+#EXTINF:-1,Canal del Congreso 45.1
+http://189.129.29.179:8000/play/a02o/index.m3u8
+#EXTINF:-1,Cartoon Network Mexico
+http://189.129.29.179:8000/play/a01b/index.m3u8
+#EXTINF:-1,CineLatino
+http://189.129.29.179:8000/play/a01n/index.m3u8
+#EXTINF:-1,Cinecanal Oeste
+http://189.129.29.179:8000/play/a00i/index.m3u8
+#EXTINF:-1,Cinemax
+http://189.129.29.179:8000/play/a01x/index.m3u8
+#EXTINF:-1,Claro Sports
+http://189.129.29.179:8000/play/a00e/index.m3u8
+#EXTINF:-1,Comedy Central Latinoamérica Norte
+http://189.129.29.179:8000/play/a02s/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://189.129.29.179:8000/play/a02c/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://189.129.29.179:8000/play/a017/index.m3u8
+#EXTINF:-1,Discovery Kids América Latina
+http://189.129.29.179:8000/play/a03y/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://189.129.29.179:8000/play/a01f/index.m3u8
+#EXTINF:-1,Disney Channel México
+http://189.129.29.179:8000/play/a03w/index.m3u8
+#EXTINF:-1,Disney Junior Mexico
+http://189.129.29.179:8000/play/a01a/index.m3u8
+#EXTINF:-1,Disney 😆 M?xico
+http://189.129.29.179:8000/play/a00b/index.m3u8
+#EXTINF:-1,ESPN 3 Norte
+http://189.129.29.179:8000/play/a01e/index.m3u8
+#EXTINF:-1,Espn 1
+http://189.129.29.179:8000/play/a01v/index.m3u8
+#EXTINF:-1,Espn 2
+http://189.129.29.179:8000/play/a01w/index.m3u8
+#EXTINF:-1,Exa TV
+http://189.129.29.179:8000/play/a03b/index.m3u8
+#EXTINF:-1,FX
+http://189.129.29.179:8000/play/a01r/index.m3u8
+#EXTINF:-1,FXM Oeste
+http://189.129.29.179:8000/play/a00j/index.m3u8
+#EXTINF:-1,FoX Channel
+http://189.129.29.179:8000/play/a01p/index.m3u8
+#EXTINF:-1,Fox Life
+http://189.129.29.179:8000/play/a01s/index.m3u8
+#EXTINF:-1,Fox Premium Action
+http://189.129.29.179:8000/play/a021/index.m3u8
+#EXTINF:-1,Fox Premium Cinema
+http://189.129.29.179:8000/play/a022/index.m3u8
+#EXTINF:-1,Fox Premium Classics
+http://189.129.29.179:8000/play/a03r/index.m3u8
+#EXTINF:-1,Fox Premium Family Oeste
+http://189.129.29.179:8000/play/a03q/index.m3u8
+#EXTINF:-1,Fox Premium Movies
+http://189.129.29.179:8000/play/a020/index.m3u8
+#EXTINF:-1,Fox Premium Series Oeste
+http://189.129.29.179:8000/play/a01h/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://189.129.29.179:8000/play/a01t/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://189.129.29.179:8000/play/a01u/index.m3u8
+#EXTINF:-1,Fox Sports 3 Latin America
+http://189.129.29.179:8000/play/a03n/index.m3u8
+#EXTINF:-1,HBO
+http://189.129.29.179:8000/play/a02i/index.m3u8
+#EXTINF:-1,HBO + Latinoamerica
+http://189.129.29.179:8000/play/a00o/index.m3u8
+#EXTINF:-1,HBO 2 Latinoamerica
+http://189.129.29.179:8000/play/a00m/index.m3u8
+#EXTINF:-1,HBO Family Latinoamerica
+http://189.129.29.179:8000/play/a00n/index.m3u8
+#EXTINF:-1,HBO Latinoamérica
+http://189.129.29.179:8000/play/a01g/index.m3u8
+#EXTINF:-1,HTV (USA)
+http://189.129.29.179:8000/play/a02w/index.m3u8
+#EXTINF:-1,Hbo Xtreme
+http://189.129.29.179:8000/play/a01z/index.m3u8
+#EXTINF:-1,History 2 Latinoamérica
+http://189.129.29.179:8000/play/a03m/index.m3u8
+#EXTINF:-1,History Latinoamérica
+http://189.129.29.179:8000/play/a040/index.m3u8
+#EXTINF:-1,Hola! TV América Latina
+http://189.129.29.179:8000/play/a03e/index.m3u8
+#EXTINF:-1,I-Sat
+http://189.129.29.179:8000/play/a02r/index.m3u8
+#EXTINF:-1,Imagen TV
+http://189.129.29.179:8000/play/a038/index.m3u8
+#EXTINF:-1,Ingenio TV
+http://189.129.29.179:8000/play/a030/index.m3u8
+#EXTINF:-1,Investigation Discovery Latinoam?rica
+http://189.129.29.179:8000/play/a009/index.m3u8
+#EXTINF:-1,Justicia TV
+http://189.129.29.179:8000/play/a035/index.m3u8
+#EXTINF:-1,La Mejor TV
+http://189.129.29.179:8000/play/a03c/index.m3u8
+#EXTINF:-1,Las Estrellas México
+http://189.129.29.179:8000/play/a037/index.m3u8
+#EXTINF:-1,Lifetime LatinoamErica
+http://189.129.29.179:8000/play/a00a/index.m3u8
+#EXTINF:-1,MC
+http://189.129.29.179:8000/play/a005/index.m3u8
+#EXTINF:-1,MTV Hits Europe
+http://189.129.29.179:8000/play/a02t/index.m3u8
+#EXTINF:-1,MTV Latino
+http://189.129.29.179:8000/play/a03v/index.m3u8
+#EXTINF:-1,MVS TV
+http://189.129.29.179:8000/play/a04w/index.m3u8
+#EXTINF:-1,MVS TV
+http://189.129.29.179:8000/play/a012/index.m3u8
+#EXTINF:-1,Milenio TV
+http://189.129.29.179:8000/play/a03p/index.m3u8
+#EXTINF:-1,MultiPremier
+http://189.129.29.179:8000/play/a006/index.m3u8
+#EXTINF:-1,Nat Geo Kids
+http://189.129.29.179:8000/play/a03k/index.m3u8
+#EXTINF:-1,National Geographic Norte
+http://189.129.29.179:8000/play/a00d/index.m3u8
+#EXTINF:-1,National Geographic Wild
+http://189.129.29.179:8000/play/a01d/index.m3u8
+#EXTINF:-1,Nick Jr Latin America
+http://189.129.29.179:8000/play/a00c/index.m3u8
+#EXTINF:-1,NickMusic
+http://189.129.29.179:8000/play/a03i/index.m3u8
+#EXTINF:-1,Nickelodeon Norte
+http://189.129.29.179:8000/play/a03x/index.m3u8
+#EXTINF:-1,Once
+http://189.129.29.179:8000/play/a011/index.m3u8
+#EXTINF:-1,Once niñas y niños
+http://189.129.29.179:8000/play/a02x/index.m3u8
+#EXTINF:-1,Paramount Network Latin America
+http://189.129.29.179:8000/play/a00k/index.m3u8
+#EXTINF:-1,Playboy
+http://189.129.29.179:8000/play/a023/index.m3u8
+#EXTINF:-1,RADIO Ambient
+http://189.129.29.179:8000/play/a050/index.m3u8
+#EXTINF:-1,RADIO Classics
+http://189.129.29.179:8000/play/a051/index.m3u8
+#EXTINF:-1,RADIO Decades
+http://189.129.29.179:8000/play/a04x/index.m3u8
+#EXTINF:-1,RADIO Exa FM Ciudad de México
+http://189.129.29.179:8000/play/a04c/index.m3u8
+#EXTINF:-1,RADIO FM Globo
+http://189.129.29.179:8000/play/a04d/index.m3u8
+#EXTINF:-1,RADIO Fiesta Latina
+http://189.129.29.179:8000/play/a04f/index.m3u8
+#EXTINF:-1,RADIO La Mejor FM
+http://189.129.29.179:8000/play/a04z/index.m3u8
+#EXTINF:-1,RADIO Ritmo Digital
+http://189.129.29.179:8000/play/a049/index.m3u8
+#EXTINF:-1,RADIO Rock Clásico
+http://189.129.29.179:8000/play/a04y/index.m3u8
+#EXTINF:-1,RADIO Stereorey
+http://189.129.29.179:8000/play/a04g/index.m3u8
+#EXTINF:-1,RT
+http://189.129.29.179:8000/play/a00f/index.m3u8
+#EXTINF:-1,SEXTREME
+http://189.129.29.179:8000/play/a04v/index.m3u8
+#EXTINF:-1,Sony Channel Sur
+http://189.129.29.179:8000/play/a03u/index.m3u8
+#EXTINF:-1,Space MExico
+http://189.129.29.179:8000/play/a008/index.m3u8
+#EXTINF:-1,Studio Universal
+http://189.129.29.179:8000/play/a036/index.m3u8
+#EXTINF:-1,Syfy Latin
+http://189.129.29.179:8000/play/a02q/index.m3u8
+#EXTINF:-1,TBS América Latina
+http://189.129.29.179:8000/play/a03f/index.m3u8
+#EXTINF:-1,TLR
+http://189.129.29.179:8000/play/a029/index.m3u8
+#EXTINF:-1,TNT América Latina
+http://189.129.29.179:8000/play/a041/index.m3u8
+#EXTINF:-1,TNT Series México
+http://189.129.29.179:8000/play/a03d/index.m3u8
+#EXTINF:-1,TV UNAM
+http://189.129.29.179:8000/play/a02n/index.m3u8
+#EXTINF:-1,TVC
+http://189.129.29.179:8000/play/a034/index.m3u8
+#EXTINF:-1,Tcl
+http://189.129.29.179:8000/play/a018/index.m3u8
+#EXTINF:-1,TeleFórmula
+http://189.129.29.179:8000/play/a033/index.m3u8
+#EXTINF:-1,Universal TV
+http://189.129.29.179:8000/play/a014/index.m3u8
+#EXTINF:-1,VH1 Europe
+http://189.129.29.179:8000/play/a02v/index.m3u8
+#EXTINF:-1,Venus
+http://189.129.29.179:8000/play/a024/index.m3u8
+#EXTINF:-1,Video Rola
+http://189.129.29.179:8000/play/a02u/index.m3u8
+#EXTINF:-1,Warner Channel
+http://189.129.29.179:8000/play/a007/index.m3u8

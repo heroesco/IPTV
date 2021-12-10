@@ -2,8 +2,12 @@
 --------------------------------------------------------ACTUALIDAD & NOTICIAS------------------------------------------------------------------------
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="a24.ar" tvg-name="A24" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/60fb73f8a33811cbdf1ca5d713b40f27.png",A24
 https://www.youtube.com/watch?v=CG9Ng_6Lr9Y
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="americatv.ar" tvg-name="AMERICA" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/14ca767fbe807a67e1724b1a5f24a862.png",AMÉRICA TV
+https://www.twitch.tv/ft10x68k
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="C5N.ar" tvg-name="C5N" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/5ccb852f4bbad0d4ea8c089cc918439f.png",C5N
 https://www.youtube.com/watch?v=jN0TnHxhliA
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="cana9.ar" tvg-name="CANAL 9" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/8e885f8241fba2c76d286b2e4d249b44.jpg",CANAL 9
+https://www.twitch.tv/9_argtv
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="canal26.ar" tvg-name="CANAL 26" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/800px-LogoCanal26.png",CANAL 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="cnn" tvg-name="CNN ESPAÑOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPAÑOL
@@ -47,6 +51,8 @@ http://190.108.93.62:8000/play/a00f
 http://45.70.237.174:9000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
 http://190.108.93.62:8000/play/a00p
+#EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="MX" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
+https://ok.ru/live/3624202608204
 
 
 --------------------------------------------------------DOCUMENTALES-------------------------------------------------------------------

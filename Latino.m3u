@@ -363,23 +363,23 @@ http://181.78.20.43:8000/play/a0tm
 http://45.160.73.129:8888/play/a05g
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.co" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
 http://181.78.20.43:8000/play/a0tk
-#EXTINF:-1 group-title="PREMIUM" tvg-id="staraction.co" tvg-name="Starz" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR ACTION
+#EXTINF:-1 group-title="PREMIUM" tvg-id="staraction.co" tvg-name="Star Action" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR ACTION
 http://181.78.20.43:8000/play/a0ts
-#EXTINF:-1 group-title="PREMIUM" tvg-id="staraction.co" tvg-name="Starz" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR ACTION
+#EXTINF:-1 group-title="PREMIUM" tvg-id="staraction.co" tvg-name="Star Action" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR ACTION
 http://45.160.73.129:8888/play/a05a
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starch.co" tvg-name="Star Channel" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR CHANNEL
 http://181.78.20.43:8000/play/a0sc
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starch.co" tvg-name="Star Channel" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR CHANNEL
 http://45.160.73.129:8888/play/a04c
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.co" tvg-name="Starz" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR HITS
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.co" tvg-name="Star Hits" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR HITS
 http://181.78.20.43:8000/play/a0tg
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.co" tvg-name="Starz" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR HITS
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.co" tvg-name="Star Hits" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR HITS
 http://45.160.73.129:8888/play/a058
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starlife.co" tvg-name="Starz" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR LIFE
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starlife.co" tvg-name="Star Life" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR LIFE
 http://181.78.20.43:8000/play/a0ss
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.co" tvg-name="Starz" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR SERIES
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.co" tvg-name="Star Series" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR SERIES
 http://181.78.20.43:8000/play/a0tr
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.co" tvg-name="Starz" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR SERIES
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.co" tvg-name="Star Series" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR SERIES
 http://45.160.73.129:8888/play/a059
 
 --------------------------------------------------------VARIEDADES---------------------------------------------------------------

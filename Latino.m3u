@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=jN0TnHxhliA
 https://www.twitch.tv/9_argtv
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="canal26.ar" tvg-name="CANAL 26" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/800px-LogoCanal26.png",CANAL 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="dw" tvg-name="DW" tvg-country="GERMANY" tvg-language="SPANISH" tvg-logo="",DW Español
+https://www.youtube.com/watch?v=bKpGAHgpYoU
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="cnn" tvg-name="CNN ESPAÑOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPAÑOL
 ********************************************************************
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="cronicatv" tvg-name="CRONICA TV" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CRÓNICA TV
@@ -17,9 +19,11 @@ https://www.youtube.com/watch?v=InSydaLSSlw
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="eltrece.ar" tvg-name="EL TRECE" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFmJD0JllhnsMDvAAh3lVsXmehY_9rY8ZYgO9PJA=s900-c-k-c0x00ffffff-no-rj",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="encuentro.ar" tvg-name="ENCUENTRO" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/SJ37FzZ/download-1.png",ENCUENTRO
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="euronews" tvg-name="EURONEWS" tvg-country="ESPAÑA" tvg-language="SPANISH" tvg-logo="",EURONEWS
+https://www.youtube.com/watch?v=JbKgQhFlMdU
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="france24.es" tvg-name="FRANCE 24" tvg-country="FRANCIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/MZ7H67L/download-1.png",FRANCE 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="LN.ar" tvg-name="LN+" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.dossiernet.com.ar/assets/uploads/images/lanacionmas1.jpg",LN+
 https://www.youtube.com/watch?v=6ilZeMFyNE8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="lovenature" tvg-name="LOVE NATURE" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://i.ibb.co/rx3QRV3/download.png",LOVE NATURE 4K

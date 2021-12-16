@@ -47,6 +47,7 @@ https://www.youtube.com/watch?v=BmBHhG-nPzU
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="unlp.ar" tvg-name="Universidad de La Plata" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/qWvLfhL/download-1.jpg",Universidad La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
+
 --------------------------------------------------------COMEDIA---------------------------------------------------------------
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL
 ********************************************************************
@@ -145,6 +146,8 @@ http://45.70.237.174:9000/play/a01m/index.m3u8
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="cgtn" tvg-name="CGTN China" tvg-country="CHINA" tvg-language="SPANISH" tvg-logo="https://pbs.twimg.com/profile_images/969543729500467202/y-kyowAV_200x200.jpg",CGTN Español China
+https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="CMCTV.us" tvg-name="CMC" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="CMCUSA.us" tvg-name="CMC USA" tvg-country="USA" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png",CMC USA
@@ -179,6 +182,8 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-fr
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg",HALLMARK MOVIES & MYSTERIES
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="trece.py" tvg-name="TRECE PARAGUAY" tvg-country="PARAGUAY" tvg-language="SPANISH" tvg-logo="https://pbs.twimg.com/profile_images/1201623763005165568/1cwrV-ne_200x200.jpg",TRECE PARAGUAY
+https://stream.rpc.com.py/live/trece.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="TVChile.cl" tvg-name="TV CHILE 1" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE
 http://unlimited1-us.dps.live/tvn/tvn.smil/playlist.m3u8

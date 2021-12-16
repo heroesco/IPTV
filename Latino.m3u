@@ -187,9 +187,9 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-fr
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg",HALLMARK MOVIES & MYSTERIES
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="telemundo.mx" tvg-name="TELEMUNDO" tvg-country="MX" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",TELEMUNDO
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="telemundo.mx" tvg-name="TELEMUNDO" tvg-country="MX" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",TELEMUNDO
 http://45.70.237.174:9000/play/a018
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="telemundo.mx" tvg-name="TELEMUNDO" tvg-country="MX" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",TELEMUNDO
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="telemundo.mx" tvg-name="TELEMUNDO" tvg-country="MX" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",TELEMUNDO
 http://45.160.73.129:8888/play/a04p
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="trece.py" tvg-name="TRECE PARAGUAY" tvg-country="PARAGUAY" tvg-language="SPANISH" tvg-logo="https://pbs.twimg.com/profile_images/1201623763005165568/1cwrV-ne_200x200.jpg",TRECE PARAGUAY
 https://stream.rpc.com.py/live/trece.m3u8
@@ -204,7 +204,7 @@ https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
 ********************************************************************
 
 --------------------------------------------------------PELÍCULAS & SERIES---------------------------------------------------------------
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="AandE.ar" tvg-name="A&E" tvg-country="AR" tvg-language="Español" tvg-logo="https://static.epg.best/ar/AandE.ar.png",A&E Mundo
+#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="AandE.ar" tvg-name="A&E" tvg-country="AR" tvg-language="Español" tvg-logo="https://static.epg.best/ar/AandE.ar.png",A&E Mundo
 http://45.160.73.129:8888/play/a00n
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="amc.mx" tvg-name="AMC" tvg-country="MX" tvg-language="Español" tvg-logo="http://a5.vc/Xun",AMC FHD
 ********************************************************************
@@ -237,30 +237,30 @@ http://45.70.237.174:9000/play/a062
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalchannel.mx" tvg-name="UNIVERSAL CHANNEL" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_universal_m.png",UNIVERSAL CHANNEL
 http://45.70.237.174:9000/play/a02d
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="warnerchannel.mx" tvg-name="WARNER CHANNEL" tvg-country="MX" tvg-language="Español" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/WARNER%20TV.png",WARNER CHANNEL
-#EXTINF:-1 group-title="PREMIUM" tvg-id="cinefamiliar.mx" tvg-name="CINE FAMILIAR" tvg-country="MX" tvg-language="Español" tvg-logo="",CINE FAMILIAR
-http://190.108.93.62:8000/play/a00y
-#EXTINF:-1 group-title="PREMIUM" tvg-id="cinehispano.mx" tvg-name="CINE HISPANO" tvg-country="MX" tvg-language="Español" tvg-logo="",CINE HISPANO
-http://190.108.93.62:8000/play/a011
-#EXTINF:-1 group-title="PREMIUM" tvg-id="cinepremium.mx" tvg-name="CINE PREMIUM" tvg-country="MX" tvg-language="Español" tvg-logo="",CINE PREMIUM
-http://190.108.93.62:8000/play/a00z
-#EXTINF:-1 group-title="PREMIUM" tvg-id="dhe.mx" tvg-name="DHE" tvg-country="MX" tvg-language="Español" tvg-logo="",DHE
-http://190.108.93.62:8000/play/a00h
-#EXTINF:-1 group-title="PREMIUM" tvg-id="global.pe" tvg-name="GLOBAL" tvg-country="MX" tvg-language="Español" tvg-logo="",GLOBAL
-http://190.108.93.62:8000/play/a013
-#EXTINF:-1 group-title="PREMIUM" tvg-id="Canal Film.mx" tvg-name="Canal Film" tvg-country="MX" tvg-language="Español" tvg-logo="",Canal Film 01
-http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PREMIUM" tvg-id="MovieMax.mx" tvg-name="MovieMax" tvg-country="MX" tvg-language="Español" tvg-logo="",MovieMax HD
-http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PREMIUM" tvg-id="OuterMax.mx" tvg-name="OuterMax" tvg-country="MX" tvg-language="Español" tvg-logo="",OuterMax HD
-http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PREMIUM" tvg-id="Canal Film" tvg-name="Canal Film" tvg-country="MX" tvg-language="Español" tvg-logo="",Canal Film 02
-http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PREMIUM" tvg-id="Crackle" tvg-name="Crackle original" tvg-country="MX" tvg-language="Español" tvg-logo="",Crackle original movie
-http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PREMIUM" tvg-id="Canal Film" tvg-name="Canal Film" tvg-country="MX" tvg-language="Español" tvg-logo="",Canal Film 03
-http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
 
 --------------------------------------------------------PELÍCULAS------------------------------------------------------------------------
+#EXTINF:-1 group-title="PELICULAS" tvg-id="cinefamiliar.mx" tvg-name="CINE FAMILIAR" tvg-country="MX" tvg-language="Español" tvg-logo="",CINE FAMILIAR
+http://190.108.93.62:8000/play/a00y
+#EXTINF:-1 group-title="PELICULAS" tvg-id="cinehispano.mx" tvg-name="CINE HISPANO" tvg-country="MX" tvg-language="Español" tvg-logo="",CINE HISPANO
+http://190.108.93.62:8000/play/a011
+#EXTINF:-1 group-title="PELICULAS" tvg-id="cinepremium.mx" tvg-name="CINE PREMIUM" tvg-country="MX" tvg-language="Español" tvg-logo="",CINE PREMIUM
+http://190.108.93.62:8000/play/a00z
+#EXTINF:-1 group-title="PELICULAS" tvg-id="dhe.mx" tvg-name="DHE" tvg-country="MX" tvg-language="Español" tvg-logo="",DHE
+http://190.108.93.62:8000/play/a00h
+#EXTINF:-1 group-title="PELICULAS" tvg-id="global.pe" tvg-name="GLOBAL" tvg-country="MX" tvg-language="Español" tvg-logo="",GLOBAL
+http://190.108.93.62:8000/play/a013
+#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film.mx" tvg-name="Canal Film" tvg-country="MX" tvg-language="Español" tvg-logo="",Canal Film 01
+http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="MovieMax.mx" tvg-name="MovieMax" tvg-country="MX" tvg-language="Español" tvg-logo="",MovieMax HD
+http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="OuterMax.mx" tvg-name="OuterMax" tvg-country="MX" tvg-language="Español" tvg-logo="",OuterMax HD
+http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film" tvg-country="MX" tvg-language="Español" tvg-logo="",Canal Film 02
+http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="Crackle" tvg-name="Crackle original" tvg-country="MX" tvg-language="Español" tvg-logo="",Crackle original movie
+http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
+#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film" tvg-country="MX" tvg-language="Español" tvg-logo="",Canal Film 03
+http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 group-title="PELICULAS" tvg-id="cartelerapremiere.mx" tvg-name="CARTELERA PREMIERE" tvg-country="MX" tvg-language="Español" tvg-logo="",CARTELERA PREMIERE
 http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 group-title="PELICULAS" tvg-id="hbo.mx" tvg-name="HBO HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
@@ -339,47 +339,47 @@ http://livetv2021.site:8080/9897876765/6576567/8853
 http://livetv2021.site:8080/9897876765/6576567/8855
 
 --------------------------------------------------------PREMIUM------------------------------------------------------------------------
-#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.ar" tvg-name="CINEMAX" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.co" tvg-name="CINEMAX" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
 http://45.160.73.129:8888/play/a03c
-#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.ar" tvg-name="CINEMAX" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.co" tvg-name="CINEMAX" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
 http://181.78.20.43:8000/play/a0vs
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.mx" tvg-name="HBO HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.ve" tvg-name="HBO HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
 http://45.160.73.129:8888/play/a03b
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.mx" tvg-name="HBO HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.ve" tvg-name="HBO HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
 http://181.78.20.43:8000/play/a0vr
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.co" tvg-name="HBO 2 HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
 http://45.160.73.129:8888/play/a05f
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.co" tvg-name="HBO 2 HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
 http://181.78.20.43:8000/play/a0tt
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.mx" tvg-name="HBO EXTREME" tvg-country="MX" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.co" tvg-name="HBO EXTREME" tvg-country="MX" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
 http://45.160.73.129:8888/play/a05b
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.mx" tvg-name="HBO EXTREME" tvg-country="MX" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.co" tvg-name="HBO EXTREME" tvg-country="MX" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
 http://181.78.20.43:8000/play/a0tv
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.co" tvg-name="HBO FAMILY HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
 http://45.160.73.129:8888/play/a05h
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.co" tvg-name="HBO FAMILY HD" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
 http://181.78.20.43:8000/play/a0tm
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.mx" tvg-name="HBO PLUS" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.co" tvg-name="HBO PLUS" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
 http://45.160.73.129:8888/play/a05g
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.mx" tvg-name="HBO PLUS" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.co" tvg-name="HBO PLUS" tvg-country="MX" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
 http://181.78.20.43:8000/play/a0tk
-#EXTINF:-1 group-title="PREMIUM" tvg-id="staraction.mx" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR ACTION
+#EXTINF:-1 group-title="PREMIUM" tvg-id="staraction.co" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR ACTION
 http://181.78.20.43:8000/play/a0ts
-#EXTINF:-1 group-title="PREMIUM" tvg-id="staraction.mx" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR ACTION
+#EXTINF:-1 group-title="PREMIUM" tvg-id="staraction.co" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR ACTION
 http://45.160.73.129:8888/play/a05a
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starch.mx" tvg-name="Star Channel" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR CHANNEL
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starch.co" tvg-name="Star Channel" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR CHANNEL
 http://181.78.20.43:8000/play/a0sc
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starch.mx" tvg-name="Star Channel" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR CHANNEL
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starch.co" tvg-name="Star Channel" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR CHANNEL
 http://45.160.73.129:8888/play/a04c
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.mx" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR HITS
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.co" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR HITS
 http://181.78.20.43:8000/play/a0tg
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.mx" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR HITS
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.co" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR HITS
 http://45.160.73.129:8888/play/a058
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starlife.mx" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR LIFE
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starlife.co" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR LIFE
 http://181.78.20.43:8000/play/a0ss
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.mx" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR SERIES
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.co" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR SERIES
 http://181.78.20.43:8000/play/a0tr
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.mx" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR SERIES
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.co" tvg-name="Starz" tvg-country="MX" tvg-language="Español" tvg-logo="",STAR SERIES
 http://45.160.73.129:8888/play/a059
 
 --------------------------------------------------------VARIEDADES---------------------------------------------------------------
@@ -387,4 +387,3 @@ http://45.160.73.129:8888/play/a059
 http://45.160.73.129:8888/play/a00g
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="fashiontv" tvg-name="FASHION TV" tvg-country="MX" tvg-language="Español" tvg-logo="https://i.imgur.com/1jtRh4S.png",FashionTV
 *******************************************************************
-

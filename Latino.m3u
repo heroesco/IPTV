@@ -331,12 +331,6 @@ http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/35969/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 group-title="PELICULAS" tvg-id="MoreMax.mx" tvg-name="MoreMax HD" tvg-country="CO" tvg-language="Español" tvg-logo="",MoreMax HD
 http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="sextreme" tvg-name="sextrem" tvg-country="CO" tvg-language="Español" tvg-logo="",Sextreme HD
-http://livetv2021.site:8080/9897876765/6576567/8852
-#EXTINF:-1 group-title="PELICULAS" tvg-id="sexyhot" tvg-name="sexyhot" tvg-country="CO" tvg-language="Español" tvg-logo="",Sexy Hot HD
-http://livetv2021.site:8080/9897876765/6576567/8853
-#EXTINF:-1 group-title="PELICULAS" tvg-id="sexyhot" tvg-name="venus" tvg-country="CO" tvg-language="Español" tvg-logo="",VENUS HD
-http://livetv2021.site:8080/9897876765/6576567/8855
 
 --------------------------------------------------------PREMIUM------------------------------------------------------------------------
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.co" tvg-name="CINEMAX" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX

@@ -3,14 +3,16 @@
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="canal26.ar" tvg-name="CANAL 26" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/800px-LogoCanal26.png",CANAL 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="a24.ar" tvg-name="A24" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/60fb73f8a33811cbdf1ca5d713b40f27.png",A24
-http://chromecast.cvattv.com.ar/live/live/America24/SA_Live_dash_enc_2A/America24.mpd
-#EXTINF:-1 group-title="NOTICIAS" tvg-id="americatv.ar" tvg-name="AMERICA" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/14ca767fbe807a67e1724b1a5f24a862.png",AMÉRICA TV
-http://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="americatv.ar" tvg-name="AMERICA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/14ca767fbe807a67e1724b1a5f24a862.png",AMÉRICA TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="americatv.ar" tvg-name="AMERICA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/14ca767fbe807a67e1724b1a5f24a862.png",AMÉRICA TV
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="C5N.ar" tvg-name="C5N" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/5ccb852f4bbad0d4ea8c089cc918439f.png",C5N
 https://www.youtube.com/watch?v=jN0TnHxhliA
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="Canal9.ar" tvg-name="CANAL 9" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/8e885f8241fba2c76d286b2e4d249b44.jpg",CANAL 9
-https://www.twitch.tv/9_argtv
-#EXTINF:-1 group-title="NOTICIAS" tvg-id="dw" tvg-name="DW" tvg-country="GERMANY" tvg-language="SPANISH" tvg-logo="",DW Español
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNTg3OTI4LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI3YWVkYzAwYjRmYTVhMzc3NzIxMjFlMGIwMDJmYjY2OTczNDhhYjZiIn0=
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="DeutscheWelle.es" tvg-name="DW Español" tvg-country="GERMANY" tvg-language="SPANISH" tvg-logo="",DW Español
 https://www.youtube.com/watch?v=bKpGAHgpYoU
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="cnn" tvg-name="CNN ESPAÑOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPAÑOL
 http://45.160.73.129:8888/play/a056
@@ -20,7 +22,7 @@ https://www.youtube.com/watch?v=InSydaLSSlw
 https://live-01-02-eltrece.vodgc.net/eltrecetv
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="encuentro.ar" tvg-name="ENCUENTRO" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/SJ37FzZ/download-1.png",ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS" tvg-id="euronews" tvg-name="EURONEWS" tvg-country="ESPAÑA" tvg-language="SPANISH" tvg-logo="",EURONEWS
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="euronews.es" tvg-name="EURONEWS" tvg-country="ESPAÑA" tvg-language="SPANISH" tvg-logo="",EURONEWS
 https://www.youtube.com/watch?v=JbKgQhFlMdU
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="france24.es" tvg-name="FRANCE 24" tvg-country="FRANCIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/MZ7H67L/download-1.png",FRANCE 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
@@ -30,7 +32,7 @@ https://www.youtube.com/watch?v=6ilZeMFyNE8
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="NetTV.ar" tvg-name="NET TV" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://i.ibb.co/mCHVVTs/download.png",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="NOTICIAS" tvg-id="RTesp.tv" tvg-name="RT TV" tvg-country="RUSSIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/0tRBwnG/Russia-today-logo-svg.png",RT TV
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="RTtv.es" tvg-name="RT TV" tvg-country="RUSSIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/0tRBwnG/Russia-today-logo-svg.png",RT TV
 https://www.youtube.com/watch?v=K7LONr__wA0
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="telefe.ar" tvg-name="TELEFE" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://elsolnoticias.com.ar/wp-content/uploads/2021/04/logo-schema.jpg",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -38,7 +40,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="Telesur.ve" tvg-name="TELESUR" tvg-country="VENEZUELA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg",TELESUR
 https://www.youtube.com/watch?v=z7Bhjs-kP2M
-#EXTINF:-1 group-title="NOTICIAS" tvg-id="TieraMiaTV.ar" tvg-name="TIERRA MIA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/XVM8T95/unnamed.jpg",TIERRA MIA TV
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="TieraMia.ar" tvg-name="TIERRA MIA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/XVM8T95/unnamed.jpg",TIERRA MIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="TN.ar" tvg-name="TN" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/3b9f6b08954319e4c00d4b4b37cf09ab.png",TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
@@ -78,7 +80,7 @@ http://45.70.237.174:9000/play/a04e
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
 http://190.108.93.62:8000/play/a00p
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-https://ok.ru/live/3624202608204
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 --------------------------------------------------------DOCUMENTALES-------------------------------------------------------------------
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
@@ -202,6 +204,9 @@ https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
 --------------------------------------------------------MÚSICA---------------------------------------------------------------
 #EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.mx" tvg-name="MTV BR HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV
 ********************************************************************
+#EXTINF:-1 group-title="MÚSICA" tvg-id="musictop.ar" tvg-name="MUSIC TOP" tvg-country="AR" tvg-language="Español" tvg-logo="https://www.diario26.com/images/musictop_logo.png?3",Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
 
 --------------------------------------------------------PELÍCULAS & SERIES---------------------------------------------------------------
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="AandE.ar" tvg-name="A&E" tvg-country="AR" tvg-language="Español" tvg-logo="https://static.epg.best/ar/AandE.ar.png",A&E Mundo
@@ -380,5 +385,5 @@ http://45.160.73.129:8888/play/a059
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e!.mx" tvg-name="E!" tvg-country="CO" tvg-language="Español" tvg-logo="http://a5.vc/DKx",E!
 http://45.160.73.129:8888/play/a00g
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="fashiontv" tvg-name="FASHION TV" tvg-country="CO" tvg-language="Español" tvg-logo="https://i.imgur.com/1jtRh4S.png",FashionTV
-*******************************************************************
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
 

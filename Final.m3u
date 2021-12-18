@@ -1,37 +1,206 @@
 #EXTINF:
 --------------------------------------------------------REDE GLOBO------------------------------------------------------------------------
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
 http://serverfulltop.com:80/richard/123456/752
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
 http://serverfulltop.com:80/richard/123456/475
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
 http://livetv2021.site:8080/9897876765/6576567/80
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://serverfulltop.com:80/richard/123456/758
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://serverfulltop.com:80/richard/123456/486
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
 http://livetv2021.site:8080/9897876765/6576567/81
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Bahia HD
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Bahia HD
 http://livetv2021.site:8080/9897876765/6576567/82
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Bahia HD
+http://serverfulltop.com:80/richard/123456/488
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Bahia HD
+http://serverfulltop.com:80/richard/123456/489
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo TV Verdes Mares HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Verdes Mares HD
 http://livetv2021.site:8080/9897876765/6576567/83
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo HD Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO HD Minas
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVGrandeMinas.br" tvg-name="Globo HD Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO HD Minas
 http://livetv2021.site:8080/9897876765/6576567/84
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Nordeste HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Nordeste HD
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVGrandeMinas.br" tvg-name="Globo HD Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO HD Minas
+http://serverfulltop.com:80/richard/123456/740
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVGrandeMinas.br" tvg-name="Globo HD Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO HD Minas
+http://serverfulltop.com:80/richard/123456/457
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Nordeste HD
+http://serverfulltop.com:80/richard/123456/742
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Nordeste HD
+http://serverfulltop.com:80/richard/123456/461
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Nordeste HD
 http://livetv2021.site:8080/9897876765/6576567/85
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo TV Liberal HD Belém" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV Liberal HD Belém
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal HD Belém" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV Liberal HD Belém
+http://serverfulltop.com:80/richard/123456/504
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal HD Belém" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV Liberal HD Belém
+http://serverfulltop.com:80/richard/123456/64297
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal HD Belém" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV Liberal HD Belém
 http://livetv2021.site:8080/9897876765/6576567/86
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RBS TV HD Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RBS TV HD Porto Alegre
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS TV HD Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RBS TV HD Porto Alegre
+http://serverfulltop.com:80/richard/123456/749
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS TV HD Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RBS TV HD Porto Alegre
+http://serverfulltop.com:80/richard/123456/471
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS TV HD Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RBS TV HD Porto Alegre
 http://livetv2021.site:8080/9897876765/6576567/87
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Rede Amazônica Manaus HD
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Rede Amazônica Manaus HD
+http://serverfulltop.com:80/richard/123456/751
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Rede Amazônica Manaus HD
+http://serverfulltop.com:80/richard/123456/474
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Rede Amazônica Manaus HD
 http://livetv2021.site:8080/9897876765/6576567/88
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo TV Tem HD Bauru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Tem HD Bauru
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem HD Bauru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Tem HD Bauru
+http://serverfulltop.com:80/richard/123456/508
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem HD Bauru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Tem HD Bauru
+http://serverfulltop.com:80/richard/123456/509
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem HD Bauru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Tem HD Bauru
 http://livetv2021.site:8080/9897876765/6576567/89
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo EPTV HD Campinas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV HD Campinas
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV HD Campinas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV HD Campinas
+http://serverfulltop.com:80/richard/123456/437
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV HD Campinas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV HD Campinas
+http://serverfulltop.com:80/richard/123456/438
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV HD Campinas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV HD Campinas
 http://livetv2021.site:8080/9897876765/6576567/90
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Brasília
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Brasília
+http://serverfulltop.com:80/richard/123456/738
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Brasília
+http://serverfulltop.com:80/richard/123456/433
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Brasília
 http://livetv2021.site:8080/9897876765/6576567/91
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Anhanguera Goiânia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Anhanguera Goiânia
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="anhanguera.br" tvg-name="Globo Anhanguera Goiânia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Anhanguera Goiânia
 http://livetv2021.site:8080/9897876765/6576567/94
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RPC TV Curitiba" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RPC TV Curitiba
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="anhanguera.br" tvg-name="Globo Anhanguera Goiânia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Anhanguera Goiânia
+http://serverfulltop.com:80/richard/123456/64282
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="anhanguera.br" tvg-name="Globo Anhanguera Goiânia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Anhanguera Goiânia
+http://serverfulltop.com:80/richard/123456/64283
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RPCuritiba.br" tvg-name="Globo RPC TV Curitiba" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RPC TV Curitiba
+http://serverfulltop.com:80/richard/123456/753
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RPCuritiba.br" tvg-name="Globo RPC TV Curitiba" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RPC TV Curitiba
+http://serverfulltop.com:80/richard/123456/479
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RPCuritiba.br" tvg-name="Globo RPC TV Curitiba" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RPC TV Curitiba
 http://livetv2021.site:8080/9897876765/6576567/6666
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo Centro America Cuiaba FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Centro America Cuiaba FHD
+http://serverfulltop.com:80/richard/123456/435
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo Centro America Cuiaba FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Centro America Cuiaba FHD
+http://serverfulltop.com:80/richard/123456/436
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="EPTV Ribeirao Preto" tvg-name="EPTV Ribeirao Preto" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo EPTV Ribeirao Preto FHD
+http://serverfulltop.com:80/richard/123456/19727
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="EPTV Ribeirao Preto" tvg-name="EPTV Ribeirao Preto" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo EPTV Ribeirao Preto FHD
+http://serverfulltop.com:80/richard/123456/440
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="EPTVCentralHD.br" tvg-name="Globo EPTV Sao Carlos HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo EPTV Sao Carlos HD
+http://serverfulltop.com:80/richard/123456/442
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="EPTVSuldeMinas.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo EPTV Sul de Minas FHD
+http://serverfulltop.com:80/richard/123456/443
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Cabugi Natal FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Inter TV Cabugi Natal FHD
+http://serverfulltop.com:80/richard/123456/447
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Cabugi Natal FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Inter TV Cabugi Natal FHD
+http://serverfulltop.com:80/richard/123456/448
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVSerraMarHD.br" tvg-name="Globo Inter TV Serra Mar HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Inter TV Serra Mar HD
+http://serverfulltop.com:80/richard/123456/453
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVAltoLitoral.br" tvg-name="Globo InterTV Alto Litoral FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo InterTV Alto Litoral FHD
+http://serverfulltop.com:80/richard/123456/455
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC Blumenau FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Blumenau FHD
+http://serverfulltop.com:80/richard/123456/743
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC Blumenau FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Blumenau FHD
+http://serverfulltop.com:80/richard/123456/463
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="NSCTVCriciuma.br" tvg-name="Globo NSC Criciúma FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Criciúma FHD
+http://serverfulltop.com:80/richard/123456/746
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="NSCfloripa.br" tvg-name="Globo NSC Florianopolis FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Florianopolis FHD
+http://serverfulltop.com:80/richard/123456/464
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="NSCfloripa.br" tvg-name="Globo NSC Florianopolis FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Florianopolis FHD
+http://serverfulltop.com:80/richard/123456/465
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC Joinville FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Joinville FHD
+http://serverfulltop.com:80/richard/123456/747
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC Joinville FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Joinville FHD
+http://serverfulltop.com:80/richard/123456/467
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVRioSulHD.br" tvg-name="Globo RJ TV Rio Sul FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo RJ TV Rio Sul FHD
+http://serverfulltop.com:80/richard/123456/477
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RPCMaringa.br" tvg-name="Globo RPC Maringa HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo RPC Maringa HD
+http://serverfulltop.com:80/richard/123456/482
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RPCMaringa.br" tvg-name="Globo RPC Maringa HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo RPC Maringa HD
+http://serverfulltop.com:80/richard/123456/755
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVsergipe.br" tvg-name="Globo Sergipe FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Sergipe FHD
+http://serverfulltop.com:80/richard/123456/757
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVsergipe.br" tvg-name="Globo Sergipe FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Sergipe FHD
+http://serverfulltop.com:80/richard/123456/485
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVacre.br" tvg-name="Globo TV Acre HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Acre HD
+http://serverfulltop.com:80/richard/123456/64280
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVasabranca.br" tvg-name="Globo TV Asa Branca PE FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Asa Branca PE FHD
+http://serverfulltop.com:80/richard/123456/759
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahiasantacruz.br" tvg-name="Globo TV Bahia Santa Cruz FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Bahia Santa Cruz FHD
+http://serverfulltop.com:80/richard/123456/490
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tvcabobranco.br" tvg-name="Globo TV Cabo Branco FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Cabo Branco FHD"
+http://serverfulltop.com:80/richard/123456/64285
+#EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="Globo TV Cabo Branco HD (Paraíba)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Cabo Branco HD (Paraíba)
+http://serverfulltop.com:80/richard/123456/492
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globote.br" tvg-name="Globo TV Clube FHD (Piaui)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Clube FHD (Piaui)
+http://serverfulltop.com:80/richard/123456/760
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globote.br" tvg-name="Globo TV Clube FHD (Piaui)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Clube FHD (Piaui)
+http://serverfulltop.com:80/richard/123456/493
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVcostabranca.br" tvg-name="Globo TV Costa Branca HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Costa Branca HD
+http://serverfulltop.com:80/richard/123456/64287
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="EPTVcental.br" tvg-name="Globo TV EPTV Central S Carlos FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV EPTV Central S Carlos FHD
+http://serverfulltop.com:80/richard/123456/64289
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tvfronteira.br" tvg-name="Globo TV Fronteira HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Fronteira HD
+http://serverfulltop.com:80/richard/123456/19751
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVGazetaAL.br" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Gazeta Alagoas FHD
+http://serverfulltop.com:80/richard/123456/497
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVGazetaAL.br" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Gazeta Alagoas FHD
+http://serverfulltop.com:80/richard/123456/498
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVgazetaes.br" tvg-name="Globo TV Gazeta ES FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Gazeta ES FHD
+http://serverfulltop.com:80/richard/123456/761
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVgazetaes.br" tvg-name="Globo TV Gazeta ES FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Gazeta ES FHD
+http://serverfulltop.com:80/richard/123456/499
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TV Gazeta Sul" tvg-name="Globo TV Gazeta Sul ES HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Gazeta Sul ES HD
+http://serverfulltop.com:80/richard/123456/500
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="interminas.br" tvg-name="Globo TV Inter Grande Minas FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Inter Grande Minas FHD
+http://serverfulltop.com:80/richard/123456/64293
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="interminas.br" tvg-name="Globo TV Inter Grande Minas FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Inter Grande Minas FHD
+http://serverfulltop.com:80/richard/123456/64294
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="tvserramar.br" tvg-name="Globo TV Inter Serra Mar FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Inter Serra Mar FHD
+http://serverfulltop.com:80/richard/123456/64296
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVSaoLuisHD" tvg-name="Globo TV Mirante FHD (São Luís)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Mirante FHD (São Luís)
+http://serverfulltop.com:80/richard/123456/764
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVSaoLuisHD" tvg-name="Globo TV Mirante FHD (São Luís)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Mirante FHD (São Luís)
+http://serverfulltop.com:80/richard/123456/505
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="NSCjoinville.br" tvg-name="Globo TV NSC Joinville" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV NSC Joinville
+http://serverfulltop.com:80/richard/123456/64301
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tvroraima.br" tvg-name="Globo TV Roraima HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Roraima HD
+http://serverfulltop.com:80/richard/123456/64307
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tvsantacruz.br" tvg-name="Globo TV Santa Cruz HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Santa Cruz HD
+http://serverfulltop.com:80/richard/123456/64308
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TEMita.br" tvg-name="Globo TV TEM Itapetininga FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV TEM Itapetininga FHD
+http://serverfulltop.com:80/richard/123456/64312
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TEMita.br" tvg-name="Globo TV TEM Itapetininga FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV TEM Itapetininga FHD
+http://serverfulltop.com:80/richard/123456/510
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Temriopreto.br" tvg-name="Globo TV Tem Sao Jose do Rio Preto FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Tem Sao Jose do Rio Preto FHD
+http://serverfulltop.com:80/richard/123456/19768
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Temriopreto.br" tvg-name="Globo TV Tem Sao Jose do Rio Preto FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Tem Sao Jose do Rio Preto FHD
+http://serverfulltop.com:80/richard/123456/511
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVsorocaba.br" tvg-name="Globo TV Tem Sorocaba FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Tem Sorocaba FHD
+http://serverfulltop.com:80/richard/123456/19770
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVsorocaba.br" tvg-name="Globo TV Tem Sorocaba FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Tem Sorocaba FHD
+http://serverfulltop.com:80/richard/123456/512
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tribunasantos.br" tvg-name="Globo TV Tribuna Santos FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Tribuna Santos FHD
+http://serverfulltop.com:80/richard/123456/19772
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tribunasantos.br" tvg-name="Globo TV Tribuna Santos FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Tribuna Santos FHD
+http://serverfulltop.com:80/richard/123456/513
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVvanguarda.br" tvg-name="Globo TV Vanguarda SJC HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Vanguarda SJC HD
+http://serverfulltop.com:80/richard/123456/64316
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVvanguarda.br" tvg-name="Globo TV Vanguarda Tabaute" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Vanguarda Tabaute
+http://serverfulltop.com:80/richard/123456/64317
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVverdesmares.br" tvg-name="Globo TV Verdes Mares Cariri FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Verdes Mares Cariri FHD
+http://serverfulltop.com:80/richard/123456/64319
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVverdesmares.br" tvg-name="Globo TV Verdes Mares Cariri FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Verdes Mares Cariri FHD
+http://serverfulltop.com:80/richard/123456/64320
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVverdesmaresfo.br" tvg-name="Globo TV Verdes Mares Fortaleza FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Verdes Mares Fortaleza FHD
+http://serverfulltop.com:80/richard/123456/19776
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVverdesmaresfo.br" tvg-name="Globo TV Verdes Mares Fortaleza FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Verdes Mares Fortaleza FHD
+http://serverfulltop.com:80/richard/123456/515
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="EPTVcentral.br" tvg-name="Globo TV EPTV Central S Carlos HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV EPTV Central S Carlos HD
+http://serverfulltop.com:80/richard/123456/64290
+
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="1001noites.br" tvg-name="1001 NOITES CB PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png",1001 NOITES CURITIBA
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
@@ -398,7 +567,9 @@ http://livetv2021.site:8080/9897876765/6576567/74
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_megapix_m.png",MEGAPIX FHD
 http://livetv2021.site:8080/9897876765/6576567/8846
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
-**************************************************
+http://serverfulltop.com:80/richard/123456/791
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
+http://serverfulltop.com:80/richard/123456/576
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="sony.br" tvg-name="SONY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY 
 http://livetv2021.site:8080/9897876765/6576567/6651
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="space.br" tvg-name="SPACE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE FHD
@@ -458,7 +629,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31482?checkedby:zaltv.co
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyChannel.br" tvg-name="DISNEY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_disney_m.png",DISNEY CHANNEL
 http://livetv2021.site:8080/9897876765/6576567/8840
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyXD.br" tvg-name="DISNEY XD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/a91621b0-29f8-49f8-aeb2-72fe578d780d_m.jpg",DISNEY XD
-**************************************************
+http://serverfulltop.com:80/richard/123456/728
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB
 http://livetv2021.site:8080/9897876765/6576567/172
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="gospelcartoon.br" tvg-name="GOSPEL CARTOON" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aoq9CGU.png",Gospel Cartoon
@@ -474,7 +645,7 @@ http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="retroncartoon.br" tvg-name="RETRO CARTOON" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cyfu3qP.png",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Tooncast" tvg-name="TOONCAST FULLHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",TOONCAST FULLHD
-**************************************************
+http://serverfulltop.com:80/richard/123456/672
 
 --------------------------------------------------------CANAIS INTERNACIONAIS---------------------------------------------------------------
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="Calitv.co" tvg-name="CALI TV" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.imgur.com/sRZN7Tn.png",CALI TV
@@ -549,6 +720,10 @@ http://s.pdsrv.io:80/elizangela/elizangela/61134?checkedby:zaltv.co
 http://livetv2021.site:8080/9897876765/6576567/169
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS
 http://lista.lorddark.club/5247/5247/19233
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS
+http://serverfulltop.com:80/richard/123456/741
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS
+http://serverfulltop.com:80/richard/123456/459
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="cbn.br" tvg-name="CBN São Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:zaltv.co
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL FHD

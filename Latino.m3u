@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=jN0TnHxhliA
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNTg3OTI4LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI3YWVkYzAwYjRmYTVhMzc3NzIxMjFlMGIwMDJmYjY2OTczNDhhYjZiIn0=
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="DeutscheWelle.es" tvg-name="DW Español" tvg-country="GERMANY" tvg-language="SPANISH" tvg-logo="",DW Español
 https://www.youtube.com/watch?v=bKpGAHgpYoU
-#EXTINF:0 group-title="NOTICIAS" tvg-id="dw.mx" tvg-name="DW" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",DW Latinoamerica
+#EXTINF:0 group-title="NOTICIAS" tvg-id="DeutscheWelleEs.de" tvg-name="DW" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",DW Latinoamerica
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="cnn" tvg-name="CNN ESPAÑOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPAÑOL
 http://45.160.73.129:8888/play/a056

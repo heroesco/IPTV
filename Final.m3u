@@ -1,32 +1,36 @@
 #EXTINF:
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
-http://187.94.148.4:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
-http://187.94.148.4:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Bahia HD
-http://187.94.148.4:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo TV Verdes Mares HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Verdes Mares HD
-http://187.94.148.4:8000/play/a07q/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVGrandeMinas.br" tvg-name="Globo HD Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO HD Minas
-http://187.94.148.4:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Nordeste HD
-http://187.94.148.4:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal HD Belém" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV Liberal HD Belém
-http://187.94.148.4:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS TV HD Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RBS TV HD Porto Alegre
-http://187.94.148.4:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Rede Amazônica Manaus HD
-http://187.94.148.4:8000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem HD Bauru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",TV Tem HD Bauru
-http://187.94.148.4:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV HD Campinas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV HD Campinas
-http://187.94.148.4:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Brasília
-http://187.94.148.4:8000/play/a07w/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="anhanguera.br" tvg-name="Globo Anhanguera Goiânia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Anhanguera Goiânia
-http://187.94.148.4:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVCabugi.br" tvg-name="Inter TV Cabugi" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Inter TV Cabugi
-http://187.94.148.4:8000/play/a07v/index.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
+http://rec2.distv.net:80/welisson/123456/231
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
+http://rec2.distv.net:80/welisson/123456/13
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
+http://rec2.distv.net:80/welisson/123456/15
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Bahia HD
+http://rec2.distv.net:80/welisson/123456/17
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo TV Verdes Mares HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Globo TV Verdes Mares HD
+http://rec2.distv.net:80/welisson/123456/306
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVGrandeMinas.br" tvg-name="Globo HD Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO HD Minas
+http://rec2.distv.net:80/welisson/123456/6
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Nordeste HD
+http://rec2.distv.net:80/welisson/123456/62
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal HD Belém" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO TV Liberal HD Belém
+http://rec2.distv.net:80/welisson/123456/18
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS TV HD Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RBS TV HD Porto Alegre
+http://rec2.distv.net:80/welisson/123456/12
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Rede Amazônica Manaus HD
+http://rec2.distv.net:80/welisson/123456/11
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globofloripa.br" tvg-name="Globo FLORIANOPOLIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO FLORIANOPOLIS
+http://rec2.distv.net:80/welisson/123456/5
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboNatal.br" tvg-name="Globo Natal" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO NATAL
+http://rec2.distv.net:80/welisson/123456/7
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Brasília
+http://rec2.distv.net:80/welisson/123456/3
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="anhanguera.br" tvg-name="Globo Anhanguera Goiânia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Anhanguera Goiânia
+http://rec2.distv.net:80/welisson/123456/16
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="globorpc.br" tvg-name="GLOBO RPC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RPC
+http://rec2.distv.net:80/welisson/123456/14
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="globotvmirante.br" tvg-name="GLOBO RPC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO TV MIRANTE
+http://rec2.distv.net:80/welisson/123456/19
 
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="1001noites.br" tvg-name="1001 NOITES CB PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png",1001 NOITES CURITIBA

@@ -346,28 +346,27 @@ http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
 --------------------------------------------------------PREMIUM------------------------------------------------------------------------
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.co" tvg-name="CINEMAX" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
 http://45.160.73.129:8888/play/a03c
-
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.co" tvg-name="CINEMAX" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
+http://190.4.0.200:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="f5c1b9f04c535eb9ff5db8109cddbb4a" tvg-name="HBO HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
-
+http://45.160.73.129:8888/play/a03b/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="50c859d040821385d7b45cbd2ee16835" tvg-name="HBO 2 HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
-
+http://45.160.73.129:8888/play/a05f/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.co" tvg-name="HBO EXTREME" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
-
+http://45.160.73.129:8888/play/a05b/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="e1ec1b18022848dae76b46d618873c74" tvg-name="HBO FAMILY HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
-
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.co" tvg-name="HBO FAMILY HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
-
+http://45.160.73.129:8888/play/a05h/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="b9774d94f0937ffd5490961e7322dd87" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
-
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.co" tvg-name="HBO PLUS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
-
+http://45.160.73.129:8888/play/a05g/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starch.co" tvg-name="Star Channel" tvg-country="CO" tvg-language="Español" tvg-logo="",STAR CHANNEL
 http://45.160.73.129:8888/play/a04c
 
 --------------------------------------------------------VARIEDADES---------------------------------------------------------------
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e!.mx" tvg-name="E!" tvg-country="CO" tvg-language="Español" tvg-logo="http://a5.vc/DKx",E!
-http://37.19.203.217:8085/udp/239.100.10.157:5000
+http://45.160.73.129:8888/play/a00g/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="fashiontv" tvg-name="FASHION TV" tvg-country="CO" tvg-language="Español" tvg-logo="https://i.imgur.com/1jtRh4S.png",FashionTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="foxlife.mx" tvg-name="FOX LIFE" tvg-country="CO" tvg-language="Español" tvg-logo="",FOX LIFE
+http://45.160.73.129:8888/play/a01q/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e2b62c10f7f3dc26e463a3774befd7e3" tvg-name="VOLVER" tvg-country="AR" tvg-language="Español" tvg-logo="",VOLVER
-
+http://edge10-hr.cvattv.com.ar/live/c2live/Volver/verimatrix_rotating_FTA/Volver.m3u8

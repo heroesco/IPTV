@@ -57,7 +57,7 @@ http://181.191.141.4:9981/stream/channelid/741145843?profile=pass
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="TN.ar" tvg-name="TN" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/3b9f6b08954319e4c00d4b4b37cf09ab.png",TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:0 group-title="NOTICIAS" tvg-id="tvpublica.ar" tvg-name="TV PÚBLICA" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://urlshortner.org/IAWrp",TV PÚBLICA
-http://37.19.203.217:8085/udp/239.100.10.157:5000
+http://37.19.203.217:8085/udp/239.100.10.158:5000
 #EXTINF:0 group-title="NOTICIAS" tvg-id="tvpublica.ar" tvg-name="TV PÚBLICA" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://urlshortner.org/IAWrp",TV PÚBLICA
 https://www.youtube.com/watch?v=Rebzvor6rQU
 

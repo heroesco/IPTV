@@ -57,7 +57,7 @@ http://181.191.141.4:9981/stream/channelid/741145843?profile=pass
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="TN.ar" tvg-name="TN" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/3b9f6b08954319e4c00d4b4b37cf09ab.png",TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:0 group-title="NOTICIAS" tvg-id="tvpublica.ar" tvg-name="TV PÚBLICA" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://urlshortner.org/IAWrp",TV PÚBLICA
-http://37.19.203.217:8085/udp/239.100.10.157:5000
+
 #EXTINF:0 group-title="NOTICIAS" tvg-id="tvpublica.ar" tvg-name="TV PÚBLICA" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://urlshortner.org/IAWrp",TV PÚBLICA
 https://www.youtube.com/watch?v=Rebzvor6rQU
 
@@ -366,7 +366,7 @@ http://45.160.73.129:8888/play/a04c
 
 --------------------------------------------------------VARIEDADES---------------------------------------------------------------
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e!.mx" tvg-name="E!" tvg-country="CO" tvg-language="Español" tvg-logo="http://a5.vc/DKx",E!
-
+http://37.19.203.217:8085/udp/239.100.10.157:5000
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="fashiontv" tvg-name="FASHION TV" tvg-country="CO" tvg-language="Español" tvg-logo="https://i.imgur.com/1jtRh4S.png",FashionTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e2b62c10f7f3dc26e463a3774befd7e3" tvg-name="VOLVER" tvg-country="AR" tvg-language="Español" tvg-logo="",VOLVER

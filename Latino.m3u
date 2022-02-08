@@ -14,6 +14,8 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://www.youtube.com/watch?v=jN0TnHxhliA
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="Canal9.ar" tvg-name="CANAL 9" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/8e885f8241fba2c76d286b2e4d249b44.jpg",CANAL 9
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNTg3OTI4LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI3YWVkYzAwYjRmYTVhMzc3NzIxMjFlMGIwMDJmYjY2OTczNDhhYjZiIn0=
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="cnn.mx" tvg-name="CNN ESpañol" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",CNN Español
+http://161.132.107.29:8000/play/a0h3/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="DeutscheWelle.es" tvg-name="DW Español" tvg-country="GERMANY" tvg-language="SPANISH" tvg-logo="",DW Español
 https://www.youtube.com/watch?v=bKpGAHgpYoU
 #EXTINF:0 group-title="NOTICIAS" tvg-id="DeutscheWelleEs.de" tvg-name="DW" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",DW Latinoamerica
@@ -63,79 +65,85 @@ https://www.youtube.com/watch?v=Rebzvor6rQU
 
 --------------------------------------------------------DEPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
-http://181.191.141.4:9981/stream/channelid/1469125493?profile=pass
+http://45.160.73.129:8888/play/a00i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
+http://190.4.0.200:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="60229b6acdbc3006f3cf7eff8704b68c" tvg-name="ESPN EXTRA" tvg-country="CO" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA
-http://181.191.141.4:9981/stream/channelid/1788551776?profile=pass
+http://190.4.0.200:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.mx" tvg-name="ESPN 2" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
-http://181.191.141.4:9981/stream/channelid/462957684?profile=pass
+http://45.160.73.129:8888/play/a00j/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.mx" tvg-name="ESPN 2" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
-http://45.70.237.174:9000/play/a030
+http://45.160.73.129:8888/play/a032/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
-http://181.191.141.4:9981/stream/channelid/2062388909?profile=pass
+http://45.160.73.129:8888/play/a03r/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
-http://190.108.93.62:8000/play/a00s
+http://190.4.0.200:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports.mx" tvg-name="FOX SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
-http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports.mx" tvg-name="FOX SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
-http://45.70.237.174:9000/play/a02
-#EXTINF:-1 group-title="DEPORTES" tvg-id="699a9d83142ba790d7f2f8d3e7dd787c" tvg-name="FOX SPORTS PREMIUM" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS PREMIUM
-http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
-#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports.mx" tvg-name="FOX SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
-http://45.70.237.174:9000/play/a05
+http://45.160.73.129:8888/play/a00h/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
+http://190.4.0.200:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://45.70.237.174:9000/play/a04e
+http://190.4.0.200:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
+http://45.160.73.129:8888/play/a00t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
+http://190.4.0.200:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS
-http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
+http://45.160.73.129:8888/play/a00x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 2
+http://45.160.73.129:8888/play/a012/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="",TNT SPORTS 3
+http://45.160.73.129:8888/play/a00m/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+http://190.187.200.69:8000/play/a01g
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS" tvg-country="CO" tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
+http://161.132.107.29:8000/play/a0hr/index.m3u8
 
 --------------------------------------------------------DOCUMENTALES-------------------------------------------------------------------
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
-http://45.70.237.174:9000/play/a05o
+http://45.160.73.129:8888/play/a00e/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
-http://190.108.93.62:8000/play/a017
+http://190.4.0.200:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://181.191.141.4:9981/stream/channelid/1841823551?profile=pass
+http://45.160.73.129:8888/play/a00d/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://190.108.93.62:8000/play/a016
+http://190.4.0.200:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryHealth.mx" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://45.70.237.174:9000/play/a020
+http://190.4.0.200:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryHealth.mx" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://190.108.93.62:8000/play/a01b
+http://161.132.107.29:8000/play/a0g7/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://181.191.141.4:9981/stream/channelid/2084815926?profile=pass
+http://190.4.0.200:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTLC.mx" tvg-name="DISCOVERY TLC" tvg-country="CO" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC FHD
-http://45.160.73.129:8888/play/a014
+http://45.160.73.129:8888/play/a014/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTLC.mx" tvg-name="DISCOVERY TLC" tvg-country="CO" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC FHD
-http://181.78.20.43:8000/play/a0ul
+http://190.4.0.200:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-country="CO" tvg-language="Español" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
-http://181.191.141.4:9981/stream/channelid/811740311?profile=pass
+******************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
-http://190.108.93.62:8000/play/a019
+http://45.160.73.129:8888/play/a03p/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
+http://190.187.200.69:8000/play/a027
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
-http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
+******************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
-http://190.108.93.62:8000/play/a01a
+http://45.160.73.129:8888/play/a014
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="HistoryChannel.mx" tvg-name="HISTORY CHANNEL" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
-
+http://45.160.73.129:8888/play/a01j/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="HistoryChannel.mx" tvg-name="HISTORY CHANNEL" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
-
+http://190.4.0.200:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="3a9cd134723ce7faea4e32b22012272d" tvg-name="History Channel 2" tvg-country="CO" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",HISTORY CHANNEL 2 FHD
-
+http://190.4.0.200:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="Investigation Discovery.mx" tvg-name="ID Investigation Discovery" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY FHD
-
+http://45.160.73.129:8888/play/a023/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-id="Investigation Discovery.mx" tvg-name="ID Investigation Discovery" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY FHD
+http://190.4.0.200:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="NationalGeographic.mx" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
-
+http://190.4.0.200:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="NationalGeographic.mx" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
 http://45.160.73.129:8888/play/a01i
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="NatGEoWild.mx" tvg-name="NATGEO WILD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
-
+http://190.4.0.200:8000/play/a029/index.m3u8
 
 --------------------------------------------------------INFANTILES------------------------------------------------------------------------
 #EXTINF:-1 group-title="INFANTILES" tvg-id="Boomerang.mx" tvg-name="BOOMERANG" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_boomerang_m.png",BOOMERANG
@@ -179,9 +187,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="CMTPlutoTV.us" tvg-name="CMT Pluto TV" tvg-country="USA" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png",CMT Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="cnn chile" tvg-name="CNN CHILE" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg",CNN CHILE
-
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="CNN.us" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN
-
+http://161.132.107.29:8000/play/a0gr/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="CNN.us" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="FMTV1.ec" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1
@@ -241,7 +247,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="7baad23afd285f1373c8b4ab582ca7b6" tvg-name="I SAT" tvg-country="CO" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",I Sat HD
 
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="paramountchannel.mx" tvg-name="PARAMOUNT CHANNEL" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
-********************************************************************
+
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="c954a7b5d73fb15c6e677bc744b2c45f" tvg-name="SONY HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY 
 
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="53dcee436dbd9d365567d9d5bd5f461e" tvg-name="SPACE HD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE FHD

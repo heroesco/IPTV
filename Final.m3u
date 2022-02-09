@@ -1,20 +1,20 @@
 #EXTINF:
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
-https://list.iptvcat.com/my_list/s/f9dc1adecb9cc250870ed3fb36019425.m3u8
+http://187.94.148.4:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
-http://vipeiptv.com:8080/sergiobr95963842/iptv95963842/856419
+http://187.94.148.4:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
 http://rec2.distv.net:80/welisson/123456/15
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Bahia HD
-http://rec2.distv.net:80/welisson/123456/17
+http://187.94.148.4:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo TV Verdes Mares HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Globo TV Verdes Mares HD
 http://rec2.distv.net:80/welisson/123456/306
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVGrandeMinas.br" tvg-name="Globo HD Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO HD Minas
-http://rec2.distv.net:80/welisson/123456/6
+http://187.94.148.4:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Nordeste HD
-http://rec2.distv.net:80/welisson/123456/62
+http://187.94.148.4:8000/play/a07s/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal HD Belém" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO TV Liberal HD Belém
-http://rec2.distv.net:80/welisson/123456/18
+http://187.94.148.4:8000/play/a07t/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS TV HD Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RBS TV HD Porto Alegre
 http://rec2.distv.net:80/welisson/123456/12
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Rede Amazônica Manaus HD
@@ -24,13 +24,13 @@ http://rec2.distv.net:80/welisson/123456/5
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboNatal.br" tvg-name="Globo Natal" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO NATAL
 http://rec2.distv.net:80/welisson/123456/7
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Brasília
-http://rec2.distv.net:80/welisson/123456/3
+http://187.94.148.4:8000/play/a07w/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="anhanguera.br" tvg-name="Globo Anhanguera Goiânia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Anhanguera Goiânia
-http://rec2.distv.net:80/welisson/123456/16
+http://187.94.148.4:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="globorpc.br" tvg-name="GLOBO RPC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RPC
 http://rec2.distv.net:80/welisson/123456/14
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="globotvmirante.br" tvg-name="GLOBO RPC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO TV MIRANTE
-http://rec2.distv.net:80/welisson/123456/19
+http://187.94.148.4:8000/play/a07q/index.m3u8
 
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="1001noites.br" tvg-name="1001 NOITES CB PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png",1001 NOITES CURITIBA

@@ -1,10 +1,12 @@
 #EXTINF:
+
+
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
 http://187.94.148.4:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
 http://187.94.148.4:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
-http://rec2.distv.net:80/welisson/123456/15
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109727
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Bahia HD
 http://187.94.148.4:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo TV Verdes Mares HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Globo TV Verdes Mares HD

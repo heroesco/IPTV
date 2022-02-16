@@ -117,7 +117,7 @@ http://45.160.73.129:8888/play/a03p/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
 http://190.187.200.69:8000/play/a027
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
-******************************************************************************
+http://38.131.11.9:1080/play/a0dw
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
 http://45.160.73.129:8888/play/a014
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="HistoryChannel.mx" tvg-name="HISTORY CHANNEL" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD

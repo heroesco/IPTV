@@ -222,7 +222,7 @@ http://200.4.96.59:8003/play/a03e
 http://187.94.148.10:8090/play/a00q/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
 http://187.94.148.10:8090/play/a00m/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD
 http://200.4.96.59:8003/play/a03f
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
 http://187.94.148.10:8090/play/a025/index.m3u8
@@ -239,6 +239,7 @@ http://187.94.148.10:8090/play/a00o/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="trutv.br" tvg-name="TRU TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TRU TV
 http://187.94.148.10:8090/play/a02d/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianch.br" tvg-name="SMITHSONIAN CHANNEL FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL FHD
+
 --------------------------------------------------------ESPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
@@ -417,18 +418,18 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 --------------------------------------------------------CANAIS PREMIUM------------------------------------------------------------------------
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
  ***********************************************************8834
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
+#EXTINF:-1 group-title="PREMIUM" tvg-id="HBO.br" tvg-name="HBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
 http://187.94.148.10:8090/play/a02c/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2
 http://187.94.148.10:8090/play/a00h/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO+" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO+
-http://200.4.96.59:8003/play/a025
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboxtreme.br" tvg-name="HBO XTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO XTREME
  ***********************************************************8824
-#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
 http://200.4.96.59:8003/play/a026
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO MUNDI
  ***********************************************************8837
+ #EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO PLUS
+http://200.4.96.59:8003/play/a025
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO POP
 http://200.4.96.59:8003/play/a028
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE

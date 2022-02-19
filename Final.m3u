@@ -236,7 +236,7 @@ http://187.94.148.10:8090/play/a00p/index.m3u8
 http://187.94.148.10:8090/play/a00o/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
  ***********************************************************8905
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="truetv.br" tvg-name="TRUE TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TRUE TV
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="trutv.br" tvg-name="TRU TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TRU TV
 http://187.94.148.10:8090/play/a02d/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianch.br" tvg-name="SMITHSONIAN CHANNEL FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL FHD
 --------------------------------------------------------ESPORTES-------------------------------------------------------------------

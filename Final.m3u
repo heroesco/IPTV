@@ -228,7 +228,7 @@ http://200.4.96.59:8003/play/a03f
 http://187.94.148.10:8090/play/a025/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
 http://200.4.96.59:8003/play/a02q
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="History2.br" tvg-name="History Channel 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",HISTORY CHANNEL 2
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="H2.br" tvg-name="H2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",H2
 http://187.94.148.10:8090/play/a00k/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="InvestigationDiscovery.br" tvg-name="ID" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ID
 http://187.94.148.10:8090/play/a00p/index.m3u8
@@ -238,7 +238,7 @@ http://187.94.148.10:8090/play/a00o/index.m3u8
  ***********************************************************8905
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="trutv.br" tvg-name="TRU TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TRU TV
 http://187.94.148.10:8090/play/a02d/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianch.br" tvg-name="SMITHSONIAN CHANNEL FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL FHD
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianch.us" tvg-name="SMITHSONIAN CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL
 http://194.76.186.79:8000/play/a049
 --------------------------------------------------------ESPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports
@@ -405,9 +405,9 @@ http://187.94.148.10:8090/play/a00z/index.m3u8
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="cbn.br" tvg-name="CBN São Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:zaltv.co
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL
-http://187.94.148.4:8000/play/a02s/index.m3u8
+http://187.94.148.4:8000/play/a02s
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",JOVEM PAN NEWS
-http://187.94.148.4:8000/play/a06p/index.m3u8
+http://187.94.148.4:8000/play/a06p
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS MA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS MA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)

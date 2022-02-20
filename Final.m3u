@@ -230,7 +230,7 @@ http://187.94.148.10:8090/play/a025/index.m3u8
 http://200.4.96.59:8003/play/a02q
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="H2.br" tvg-name="H2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",H2
 http://187.94.148.10:8090/play/a00k/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="InvestigationDiscovery.br" tvg-name="ID" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ID
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigation Discovery.br" tvg-name="ID Investigation Discovery" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ID
 http://187.94.148.10:8090/play/a00p/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
 http://187.94.148.10:8090/play/a00o/index.m3u8

@@ -190,7 +190,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 http://45.232.196.5:8000/play/a02x/index.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvjustiça.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV JUSTICA
 http://45.232.196.5:8000/play/a021/index.m3u8
-#EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvsenado.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Escola,TV Senado
+#EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvsenado.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Senado
 http://45.232.196.5:8000/play/a027/index.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="multicultura.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MULTICULTURA
 http://45.232.196.5:8000/play/a010/index.m3u8
@@ -222,7 +222,7 @@ http://200.4.96.59:8003/play/a03e
 http://187.94.148.10:8090/play/a00q/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
 http://187.94.148.10:8090/play/a00m/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD BRAZIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD
 http://200.4.96.59:8003/play/a03f
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
 http://187.94.148.10:8090/play/a025/index.m3u8
@@ -230,7 +230,7 @@ http://187.94.148.10:8090/play/a025/index.m3u8
 http://200.4.96.59:8003/play/a02q
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="History2.br" tvg-name="History Channel 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",HISTORY CHANNEL 2
 http://187.94.148.10:8090/play/a00k/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigation Discovery.br" tvg-name="ID Investigation Discovery" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY FHD
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="InvestigationDiscovery.br" tvg-name="ID" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ID
 http://187.94.148.10:8090/play/a00p/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
 http://187.94.148.10:8090/play/a00o/index.m3u8
@@ -434,11 +434,11 @@ http://200.4.96.59:8003/play/a025
 http://200.4.96.59:8003/play/a028
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
 http://187.94.148.10:8090/play/a015/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starchannel.br" tvg-name="STAR CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Star Channel FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starchannel.br" tvg-name="STAR CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Star Channel
 http://187.94.148.4:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.br" tvg-name="STAR HITS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Star Hits FHD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.br" tvg-name="STAR HITS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Star Hits
  ***********************************************************278660
-#EXTINF:-1 group-title="PREMIUM" tvg-id="starlife.br" tvg-name="STAR LIFE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Star Life HD
+#EXTINF:-1 group-title="PREMIUM" tvg-id="starlife.br" tvg-name="STAR LIFE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Star Life
  ***********************************************************278659
 --------------------------------------------------------RADIOS---------------------------------------------------------------
 #EXTINF:-1 group-title="RADIOS" tvg-id="cbnrj.br" tvg-name="CBN RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Vs3B9Ie.png",CBN RJ

@@ -164,7 +164,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 http://45.70.237.174:9000/play/a018
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="trece.py" tvg-name="TRECE PARAGUAY" tvg-country="PARAGUAY" tvg-language="SPANISH" tvg-logo="https://pbs.twimg.com/profile_images/1201623763005165568/1cwrV-ne_200x200.jpg",TRECE PARAGUAY
 https://stream.rpc.com.py/live/trece.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="LasEstrellas.tv" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
 http://45.225.93.154:8000/play/a02g
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="TVN.cl" tvg-name="TV CHILE" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="",TV CHILE
 http://45.225.93.154:8000/play/a01j

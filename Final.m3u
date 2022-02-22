@@ -224,7 +224,7 @@ http://200.4.96.59:8003/play/a03e
 http://200.4.96.59:8003/play/a02u/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
  ***********************************************************a00m/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD BRASIL
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD
 http://200.4.96.59:8003/play/a03f
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
 http://200.4.96.59:8003/play/a034/index.m3u8
@@ -242,9 +242,9 @@ http://200.4.96.59:8002/play/a0f3/index.m3u8
 http://200.4.96.59:8003/play/a02h/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="trutv.br" tvg-name="TRU TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TRU TV
  ***********************************************************a02d/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianch.us" tvg-name="SMITHSONIAN CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianchannel.us" tvg-name="SMITHSONIAN CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL
 http://194.76.186.79:8000/play/a049
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianch.us" tvg-name="SMITHSONIAN CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianchannel.us" tvg-name="SMITHSONIAN CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL
 http://200.4.96.59:8002/play/a0dn/index.m3u8
 --------------------------------------------------------ESPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports

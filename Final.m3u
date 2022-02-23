@@ -223,9 +223,11 @@ http://200.4.96.59:8003/play/a03e
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Discoverytlc.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY TLC
 http://200.4.96.59:8003/play/a02u/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
- ***********************************************************a00m/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD
+ http://xcui.vitvabc.xyz:80/live/287994016241/287994016241/16711.ts
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD
 http://200.4.96.59:8003/play/a03f
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD
+http://xcui.vitvabc.xyz:80/live/287994016241/287994016241/16712.ts
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
 http://200.4.96.59:8003/play/a034/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
@@ -234,6 +236,8 @@ http://200.4.96.59:8003/play/a02q
 http://200.4.96.59:8002/play/a0e8/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigation Discovery.br" tvg-name="ID Investigation Discovery" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ID INVESTIGATION DISCOVERY
 http://200.4.96.59:8003/play/a03g/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigation Discovery.br" tvg-name="ID Investigation Discovery" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ID INVESTIGATION DISCOVERY
+http://xcui.vitvabc.xyz:80/live/287994016241/287994016241/16736.ts
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
 http://200.4.96.59:8002/play/a0f2/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
@@ -310,11 +314,11 @@ http://200.4.96.59:8003/play/a037
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
 http://200.4.96.59:8003/play/a035/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
- ***********************************************************telecineaction
+http://xcui.vitvabc.xyz:80/live/287994016241/287994016241/31583.ts
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1v6i",TELECINE CULT
  ***********************************************************a012/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
- ***********************************************************telecinefun
+http://xcui.vitvabc.xyz:80/live/287994016241/287994016241/16756.ts
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
 http://200.4.96.59:8003/play/a03k
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM

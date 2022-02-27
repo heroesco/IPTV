@@ -303,8 +303,8 @@ http://200.4.96.59:8002/play/a0dp/index.m3u8
 http://200.4.96.59:8003/play/a02t/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="fx.br" tvg-name="FX" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FX
 http://200.4.96.59:8002/play/a0f5/index.m3u8
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
- ***********************************************************a027/index.m3u8
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",PARAMOUNT NETWORK
+http://200.4.96.59:8003/play/a01z/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="sony.br" tvg-name="SONY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY 
 http://200.4.96.59:8003/play/a02s/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="space.br" tvg-name="SPACE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SPACE
@@ -454,8 +454,6 @@ http://200.4.96.59:8003/play/a025
 http://200.4.96.59:8003/play/a028
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
 http://200.4.96.59:8003/play/a027/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-id="paramountnetwork.com" tvg-name="PARAMOUNT NETWORK BRASIL" tvg-country="BRASIL" tvg-language="Portuguese" tvg-logo="",PARAMOUNT NETWORK BRASIL
-http://200.4.96.59:8003/play/a01z/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starchannel.us" tvg-name="STAR CHANNEL" tvg-country="BRASIL" tvg-language="Portuguese" tvg-logo="",Star Channel
 http://200.4.96.59:8002/play/a0f4/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.us" tvg-name="STAR HITS" tvg-country="BRASIL" tvg-language="Portuguese" tvg-logo="",Star Hits

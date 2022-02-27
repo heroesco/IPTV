@@ -336,3 +336,41 @@ http://edge10-hr.cvattv.com.ar/live/c2live/Volver/verimatrix_rotating_FTA/Volver
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TieraMia.ar" tvg-name="TIERRA MIA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/XVM8T95/unnamed.jpg",TIERRA MIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+-----------------------------------------------------FILMES-----------------------------------------------------------------------------------------
+#EXTINF:-1 group-title="FILMES",Desesperada (2022)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1119634.mkv
+#EXTINF:-1 group-title="FILMES",Scream (2022)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1119487.mkv
+#EXTINF:-1 group-title="FILMES",Gordo mentiroso 2 (2017)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1100233.mkv
+#EXTINF:-1 group-title="FILMES",Los extraños: Cacería nocturna (2018)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099887.mkv
+#EXTINF:-1 group-title="FILMES",La matanza de Texas (1974)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099889.mkv
+#EXTINF:-1 group-title="FILMES",La matanza de Texas (2003)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099890.mkv
+#EXTINF:-1 group-title="FILMES",La matanza de Texas 2 (1986)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099891.mkv
+#EXTINF:-1 group-title="FILMES",The Haunting of Sharon Tate (2019)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099835.mkv
+#EXTINF:-1 group-title="FILMES",El Secreto de Alcatraz (2020)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099834.mkv
+#EXTINF:-1 group-title="FILMES",Saw (2004)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099709.mkv
+#EXTINF:-1 group-title="FILMES",Saw II (2005)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099710.mkv
+#EXTINF:-1 group-title="FILMES",Saw III (2006)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099711.mkv
+#EXTINF:-1 group-title="FILMES",Saw IV (2007)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099712.mkv
+#EXTINF:-1 group-title="FILMES",Saw V (2008)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099713.mkv
+#EXTINF:-1 group-title="FILMES",Saw VI (2009)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099714.mkv
+#EXTINF:-1 group-title="FILMES",Saw VII (2010)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099715.mkv
+#EXTINF:-1 group-title="FILMES",Jigsaw (2017)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099529.mkv
+#EXTINF:-1 group-title="FILMES",Tumba Abierta (2013)
+http://tv.thepremiummedia.com:8080/movie/toni1/1toni/1099642.mkv

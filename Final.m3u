@@ -1,5 +1,7 @@
 #EXTINF:
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
+https://list.iptvcat.com/my_list/s/4c7977b91a3835a8b2524032b4be3b7c.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
 http://200.4.96.59:8002/play/a0fk/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
 http://45.175.61.242:8000/play/a002/index.m3u8
@@ -189,7 +191,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="RedeFamilia.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png",Rede Família (720p) [Not 24/7]
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvescola.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Escola
- ***********************************************************a02x/index.m3u8
+https://list.iptvcat.com/my_list/s/9fcceacceafab40d21acf00f9efc4fb5.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvjustiça.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV JUSTICA
  ***********************************************************a021/index.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvsenado.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Senado
@@ -315,18 +317,20 @@ http://200.4.96.59:8003/play/a037
 http://200.4.96.59:8003/play/a035/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
 http://xcui.vitvabc.xyz:80/live/287994016241/287994016241/31583.ts
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
+https://list.iptvcat.com/my_list/s/3fc71f15c7e4ee8a443aa2fcf0d69897.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1v6i",TELECINE CULT
- ***********************************************************a012/index.m3u8
+https://list.iptvcat.com/my_list/s/ec1b7bd2ddc7d93dceafd33940eab9dc.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
 http://xcui.vitvabc.xyz:80/live/287994016241/287994016241/16756.ts
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
 http://200.4.96.59:8003/play/a03k
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
- ***********************************************************a029/index.m3u8
+https://list.iptvcat.com/my_list/s/e37069bc6501ba373ab3d0d445e8dfe2.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
 http://200.4.96.59:8003/play/a03j/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TCM.br" tvg-name="TCM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TCM HD
- ***********************************************************tcm
+https://list.iptvcat.com/my_list/s/cc99d02a878480d9b6656e0a10df05dd.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
 http://200.4.96.59:8003/play/a041/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tntseries.br" tvg-name="TNT SERIES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES
@@ -348,13 +352,13 @@ http://200.4.96.59:8002/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyJunior.br" tvg-name="DISNEY JUNIOR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISNEY JUNIOR
 http://200.4.96.59:8002/play/a0do/index.m3u8
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyXD.br" tvg-name="DISNEY XD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/a91621b0-29f8-49f8-aeb2-72fe578d780d_m.jpg",DISNEY XD
- ***********************************************************8917
+https://list.iptvcat.com/my_list/s/6d45dd68e97904c6146c08480df2dd6a.m3u8
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB
 http://200.4.96.59:8002/play/a0ew/index.m3u8
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="NatGeokids.br" tvg-name="NAT GEO KIDS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/06/natgo.png",NAT GEO KIDS
 http://200.4.96.59:8003/play/a033/index.m3u8
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Nick.br" tvg-name="NICK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZjLSLiY.png",NICK
- ***********************************************************a00l/index.m3u8
+https://list.iptvcat.com/my_list/s/78128cfdff0ae7eb6d5a1da9e7446de9.m3u8
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Nickjr.br" tvg-name="NICK JR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_nick-junior-brazil_m.png",NICK JR
 http://200.4.96.59:8003/play/a03s
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="retroncartoon.br" tvg-name="RETRO CARTOON" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cyfu3qP.png",Retrô Cartoon
@@ -426,12 +430,10 @@ http://200.4.96.59:8003/play/a03h/index.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:zaltv.co
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL
 http://200.4.96.59:8003/play/a02d/index.m3u8
-#EXTINF:-1 group-title="NOTICÍAS" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",JOVEM PAN NEWS
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ibb.co/y8P34LM",JOVEM PAN NEWS
 http://200.4.96.59:8002/play/a0fy/index.m3u8
-#EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS MA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
-#EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS MA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
- ***********************************************************a02v/index.m3u8
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="tvvideonews.br" tvg-name="TV VIDEONEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/fX9C15m.png",TVídeoNews
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 

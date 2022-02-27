@@ -510,12 +510,12 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 http://200.4.96.59:8002/play/a0f7/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="gnt.br" tvg-name="GNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-W0IQ7RlOYW0/WjWcENCjYPI/AAAAAAABCQ0/qBNv1FOTb3oMq-ed2o0V_vc3dcJaSRfjACLcBGAs/w1200-h630-p-k-no-nu/gnt.png",GNT
 http://200.4.96.59:8003/play/a020/index.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="MaisGlobosat.br" tvg-name="GLOBOSAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://brandeps.com/logo-download/G/Globosat-logo-vector-01.svg",GLOBOSAT HD
- ***********************************************************
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",LIFETIME
 http://200.4.96.59:8003/play/a036
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="mais.br" tvg-name="MAIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MAIS
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="maisglobosat.br" tvg-name="MAIS GLOBOSAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MAIS GLOBOSAT
 http://200.4.96.59:8002/play/a0ev/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="MaisGlobosat.br" tvg-name="MAIS GLOBOSAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://brandeps.com/logo-download/G/Globosat-logo-vector-01.svg",MAIS GLOBOSAT
+https://list.iptvcat.com/my_list/s/f10624e4c84da70f1a0e86c07151cf8f.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="Mundotv.br" tvg-name="MUNDO TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ybdp3qq.png",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="off.br" tvg-name="OFF" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://w7.pngwing.com/pngs/10/980/png-transparent-canal-off-brazil-logo-globosat-television-channel-40-off-television-text-trademark.png",OFF

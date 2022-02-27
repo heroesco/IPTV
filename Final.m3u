@@ -393,13 +393,13 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31511?checkedby:zaltv.co
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="FMTV1.ec" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="Hallmark.us" tvg-name="Hallmark Channel" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg",HALLMARK CHANNEL
-
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg",HALLMARK DRAMA
-
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg",HALLMARK MOVIES & MORE
-
-#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg",HALLMARK MOVIES & MYSTERIES
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hallmark.us" tvg-name="Hallmark Channel" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg",HALLMARK CHANNEL
+http://meu02.cularu.com:8880/sch15m2n023/4edfct432/3125
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hallmarkdrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg",HALLMARK DRAMA
+http://meu02.cularu.com:8880/sch15m2n023/4edfct432/29457
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hallmarkmoviesmore.us" tvg-name="Hallmark Movies & More" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg",HALLMARK MOVIES & MORE
+http://meu02.cularu.com:8880/sch15m2n023/4edfct432/3124
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hallmarkmoviesmysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg",HALLMARK MOVIES & MYSTERIES
 
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
 http://38.131.11.9:1080/play/a032

@@ -1,5 +1,7 @@
 #EXTINF:
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7355
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
 http://k3.koalatv.xyz:8000/770727778291/31948172/22700
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
 http://45.175.61.242:8000/play/a002/index.m3u8
@@ -189,7 +191,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="RedeFamilia.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png",Rede Família (720p) [Not 24/7]
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvescola.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Escola
-https://list.iptvcat.com/my_list/s/9fcceacceafab40d21acf00f9efc4fb5.m3u8
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7923
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvjustiça.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV JUSTICA
  ***********************************************************a021/index.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvsenado.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Senado

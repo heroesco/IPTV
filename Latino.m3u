@@ -95,7 +95,7 @@ http://181.191.141.4:9981/stream/channelid/811740311?profile=pass
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
 http://181.191.141.4:9981/stream/channelid/273907486?profile=pass
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
-http://181.191.141.4:9981/stream/channelid/273907486?profile=pass
+http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="CO" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
 *******************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="hgtv.mx" tvg-name="HGTV" tvg-country="CO" tvg-language="Español" tvg-logo="",HGTV
@@ -352,12 +352,6 @@ http://edge10-hr.cvattv.com.ar/live/c2live/Volver/verimatrix_rotating_FTA/Volver
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TieraMia.ar" tvg-name="TIERRA MIA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/XVM8T95/unnamed.jpg",TIERRA MIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="playboy.ar" tvg-name="Playboy" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",Playboy
-http://181.191.141.4:9981/stream/channelid/1346882588?profile=pass
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="sextreme.ar" tvg-name="Sextreme" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",Sextreme
-http://181.191.141.4:9981/stream/channelid/62129838?profile=pass
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="venus.ar" tvg-name="Venus" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",Venus
-http://181.191.141.4:9981/stream/channelid/2117854639?profile=pass
 
 
 -----------------------------------------------------FILMES-----------------------------------------------------------------------------------------

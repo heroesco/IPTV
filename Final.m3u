@@ -5,36 +5,34 @@ http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7355
 http://k3.koalatv.xyz:8000/770727778291/31948172/22700
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
 http://45.175.61.242:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
-http://187.94.148.4:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globosp.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
-http://187.94.148.4:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
+http://200.4.97.162:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Bahia HD
-http://187.94.148.4:8000/play/a07r/index.m3u8
+http://200.4.97.162:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo TV Verdes Mares HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Verdes Mares HD
-http://187.94.148.4:8000/play/a07q/index.m3u8
+http://200.4.97.162:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVGrandeMinas.br" tvg-name="Globo HD Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO HD Minas
-http://187.94.148.4:8000/play/a03z/index.m3u8
+http://200.4.97.162:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO Nordeste HD
-http://187.94.148.4:8000/play/a07s/index.m3u8
+http://200.4.97.162:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal HD Belém" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV Liberal HD Belém
-http://187.94.148.4:8000/play/a07t/index.m3u8
+http://200.4.97.162:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS TV HD Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RBS TV HD Porto Alegre
-http://187.94.148.4:8000/play/a041/index.m3u8
+http://200.4.97.162:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Rede Amazônica Manaus HD
-http://rec2.distv.net:80/welisson/123456/11
+http://200.4.97.162:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globofloripa.br" tvg-name="Globo FLORIANOPOLIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO FLORIANOPOLIS
 http://rec2.distv.net:80/welisson/123456/5
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboNatal.br" tvg-name="Globo Natal" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO NATAL
 http://rec2.distv.net:80/welisson/123456/7
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Brasília
-http://187.94.148.4:8000/play/a07w/index.m3u8
+http://200.4.97.162:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="anhanguera.br" tvg-name="Globo Anhanguera Goiânia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Anhanguera Goiânia
 http://187.94.148.4:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="globotvmirante.br" tvg-name="GLOBO TV MIRANTE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO TV MIRANTE
 http://187.94.148.4:8000/play/a07q/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="globorpc.br" tvg-name="GLOBO RPC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RPC CURITIBA
-http://187.94.148.4:8000/play/a031/index.m3u8
+http://200.4.97.162:8000/play/a012/index.m3u8
 
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="1001noites.br" tvg-name="1001 NOITES CB PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png",1001 NOITES CURITIBA
@@ -179,7 +177,7 @@ https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="RecordTV.br" tvg-name="Record TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",RECORD TV
 http://200.4.96.59:8003/play/a03d/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT 
-http://200.4.96.59:8003/play/a03a/index.m3u8
+http://200.4.97.162:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT PE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
@@ -303,6 +301,8 @@ http://200.4.96.59:8002/play/a0e9/index.m3u8
 http://200.4.96.59:8002/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="axn.br" tvg-name="AXN" tvg-country="BR" tvg-language="Portuguese"tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN
 http://200.4.96.59:8003/play/a02t/index.m3u8
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="filmsandarts.br" tvg-name="FILMS & ARTS" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FILMS & ARTS
+http://200.146.229.129:8001/play/a02g
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="fx.br" tvg-name="FX" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FX
 http://200.4.96.59:8002/play/a0f5/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",PARAMOUNT NETWORK
@@ -316,21 +316,19 @@ http://200.4.96.59:8003/play/a037
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
 http://200.4.96.59:8003/play/a035/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
-http://xcui.vitvabc.xyz:8880/287994017033/287994017033/31583
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
-https://list.iptvcat.com/my_list/s/3fc71f15c7e4ee8a443aa2fcf0d69897.m3u8
+http://200.146.229.129:8001/play/a00b
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1v6i",TELECINE CULT
-https://list.iptvcat.com/my_list/s/ec1b7bd2ddc7d93dceafd33940eab9dc.m3u8
+http://200.146.229.129:8001/play/a00d
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
-http://xcui.vitvabc.xyz:80/live/287994016241/287994016241/16756.ts
+http://200.146.229.129:8001/play/a00c
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
 http://200.4.96.59:8003/play/a03k
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
-http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
+http://200.146.229.129:8000/play/a017
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
-http://200.4.96.59:8003/play/a03j/index.m3u8
+http://200.146.229.129:8000/play/a018
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TCM.br" tvg-name="TCM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TCM HD
-https://list.iptvcat.com/my_list/s/cc99d02a878480d9b6656e0a10df05dd.m3u8
+http://200.146.229.129:8001/play/a02r
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
 http://200.4.96.59:8003/play/a041/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tntseries.br" tvg-name="TNT SERIES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES

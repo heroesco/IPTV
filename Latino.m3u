@@ -167,7 +167,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="0c4fe2e61bfbb1b0249083fb22749815" tvg-name="RAI Italia" tvg-country="ITALY" tvg-language="SPANISH" tvg-logo="",RAI Italia
 http://181.191.141.4:9981/stream/channelid/1726107404?profile=pass
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="telemundo.mx" tvg-name="TELEMUNDO" tvg-country="CO" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",TELEMUNDO
-http://45.70.237.174:9000/play/a018
+http://45.189.108.58:10000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="ElTrece.py" tvg-name="EL TRECE PARAGUAY" tvg-country="PARAGUAY" tvg-language="SPANISH" tvg-logo="",EL TRECE PARAGUAY
 https://stream.rpc.com.py/live/trece.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS MEXICO" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS

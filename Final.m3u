@@ -242,8 +242,6 @@ http://xcui.vitvabc.xyz:80/live/287994016241/287994016241/16736.ts
 http://200.4.96.59:8002/play/a0f2/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
 http://200.4.96.59:8002/play/a0f3/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="tbs.br" tvg-name="TBS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TBS
-http://200.4.96.59:8003/play/a02h/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="trutv.br" tvg-name="TRU TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TRU TV
  ***********************************************************a02d/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianchannel.us" tvg-name="SMITHSONIAN CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL
@@ -327,6 +325,8 @@ http://200.4.96.59:8003/play/a03k
 http://200.146.229.129:8000/play/a017
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
 http://200.146.229.129:8000/play/a018
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="tbs.br" tvg-name="TBS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TBS
+http://200.4.96.59:8003/play/a02h/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TCM.br" tvg-name="TCM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TCM HD
 http://200.146.229.129:8001/play/a02r
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 

@@ -424,7 +424,7 @@ http://200.4.96.59:8003/play/a03h/index.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:zaltv.co
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL
 http://200.4.96.59:8003/play/a02d/index.m3u8
-#EXTINF:-1 group-title="NOTICÍAS" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ibb.co/y8P34LM",JOVEM PAN NEWS
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/vJqtX2r/download-1.jpg",JOVEM PAN NEWS
 http://200.4.96.59:8002/play/a0fy/index.m3u8
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
@@ -518,5 +518,3 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u
 http://200.4.96.59:8002/play/a0eu/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="viva.br" tvg-name="VIVA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VIVA
 http://200.4.96.59:8002/play/a0ek/index.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="mulhermaravilha1984" tvg-name="MULHER MARAVILHA 1984" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MULHER MARAVILHA 1984
-http://dns.icut.live:80/movie/49531370/55231115/2525.mp4

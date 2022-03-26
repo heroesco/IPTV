@@ -106,7 +106,7 @@ http://45.238.54.70:8000/play/a02e
 http://45.238.54.70:8000/play/a01z
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="HistoryChannel.ar" tvg-name="HISTORY CHANNEL"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL
 http://45.238.54.70:8000/play/a012
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-id="3a9cd134723ce7faea4e32b22012272d" tvg-name="History Channel 2"  tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",HISTORY CHANNEL 2
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-id="H2.ar" tvg-name="H2"  tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",H2
 http://45.238.54.70:8000/play/a01y
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="Investigation Discovery.ar" tvg-name="ID Investigation Discovery"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY
 http://45.238.54.70:8000/play/a04k

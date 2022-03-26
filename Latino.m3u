@@ -24,7 +24,7 @@ http://45.238.54.70:8000/play/a00s
 http://161.132.107.29:8000/play/a0h3/index.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="cnn" tvg-name="CNN ESPAÑOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPAÑOL
 http://45.238.54.70:8000/play/a00p
-#EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="CronicaTV.ar" tvg-name="CRONICA TV" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CRÓNICA TV
+#EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="CronicaTV.ar" tvg-name="CRONICA TV" tvg-country="USA" tvg-language="SPANISH" tvg-logo="",CRÓNICA TV
 http://45.238.54.70:8000/play/a01f
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="DeutscheWelle.es" tvg-name="DW Español" tvg-country="GERMANY" tvg-language="SPANISH" tvg-logo="",DW Español
 https://www.youtube.com/watch?v=bKpGAHgpYoU

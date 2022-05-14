@@ -283,7 +283,7 @@ http://200.4.96.59:8002/play/a0e9/index.m3u8
 http://200.4.96.59:8002/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="axn.br" tvg-name="AXN" tvg-country="BR" tvg-language="Portuguese"tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN
 *********************************************************************************
-#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="filmsandarts.br" tvg-name="FILMS & ARTS" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FILMS & ARTS
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="filmandarts.br" tvg-name="FILM & ARTS" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FILM & ARTS
 http://187.13.85.16:4000/play/a078
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="fx.br" tvg-name="FX" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FX
 http://200.4.96.59:8002/play/a0f5/index.m3u8

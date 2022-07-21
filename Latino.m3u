@@ -206,6 +206,10 @@ http://45.189.117.37:7879/play/a0eu/index.m3u8
 http://45.189.117.37:7879/play/a01z/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
 http://181.78.22.214:8000/play/a00b
+#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
+http://45.171.66.198:8082/play/a029
+#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
+http://168.232.168.242:8089/play/a03a/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tnt.ar" tvg-name="TNT"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
 http://45.189.117.37:7879/play/a0gg/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tntseries.ar" tvg-name="TNT SERIES"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES

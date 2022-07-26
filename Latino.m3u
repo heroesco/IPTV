@@ -12,6 +12,8 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 ***************************************************************************************************
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="Canal9.ar" tvg-name="CANAL 9" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/8e885f8241fba2c76d286b2e4d249b44.jpg",CANAL 9
 ***************************************************************************************************
+#EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="ciudad.ar" tvg-name="CIUDAD MAGAZINE" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",CIUDAD MAGAZINE
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="cnn.ar" tvg-name="CNN ESpañol" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",CNN Español
 ***************************************************************************************************
 #EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="CronicaTV.ar" tvg-name="CRONICA TV" tvg-country="USA" tvg-language="SPANISH" tvg-logo="",CRÓNICA TV

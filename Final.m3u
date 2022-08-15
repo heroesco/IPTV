@@ -2,11 +2,11 @@
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
 http://livetv2021.site:8080/live/9897876765/6576567/81.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
-http://212.18.115.194:9088/play/a00c
+http://45.232.196.5:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
 http://212.18.115.194:9088/play/a003
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Bahia HD
-http://livetv2021.site:8080/live/9897876765/6576567/81.m3u8
+http://189.91.128.146:4444/udp/227.10.20.109:1234
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo TV Verdes Mares HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo TV Verdes Mares HD
 http://200.4.97.162:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="InterTVGrandeMinas.br" tvg-name="Globo HD Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO HD Minas
@@ -175,7 +175,7 @@ http://187.13.85.16:4000/play/a0fi
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="RecordTV.br" tvg-name="Record TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",RECORD TV
 http://191.212.166.203:4000/play/a0fi
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT 
-*********************************************************************************
+http://45.232.196.5:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
 http://200.4.96.59:8002/play/a0e4/index.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="RedeCNTCuritiba.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png",Rede CNT (Curitiba) (360p) [Not 24/7]
@@ -191,7 +191,7 @@ http://168.205.87.198:8555/live/JOSEE/123456/138.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvsenado.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Senado
 http://168.205.87.198:8555/live/JOSEE/123456/139.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="multicultura.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MULTICULTURA
-*********************************************************************************
+http://45.232.196.5:8000/play/a010/index.m3u8
 
 --------------------------------------------------------CANAIS DE COMÉDIAS---------------------------------------------------------------
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL

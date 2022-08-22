@@ -1,9 +1,9 @@
 #EXTINF:
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO
-http://livetv2021.site:8080/live/9897876765/6576567/81.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
+http://45.175.61.242:4000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
 http://45.232.196.5:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
 http://212.18.115.194:9088/play/a003
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Bahia HD
 http://189.91.128.146:4444/udp/227.10.20.109:1234
@@ -24,7 +24,7 @@ http://rec2.distv.net:80/welisson/123456/5
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboNatal.br" tvg-name="Globo Natal" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO NATAL
 http://rec2.distv.net:80/welisson/123456/7
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Brasília
-http://200.4.97.162:8000/play/a01w/index.m3u8
+http://45.175.61.242:4000/play/a0fb/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="anhanguera.br" tvg-name="Globo Anhanguera Goiânia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Anhanguera Goiânia
 http://187.94.148.4:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="globotvmirante.br" tvg-name="GLOBO TV MIRANTE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO TV MIRANTE
@@ -256,7 +256,7 @@ http://191.212.166.203:4000/play/a0h8
 #EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
 *********************************************************************************
 #EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-*********************************************************************************
+http://45.175.61.242:4000/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere1.br" tvg-name="PREMIERE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE
 http://200.4.96.59:8002/play/a0er/index.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 2
@@ -407,7 +407,7 @@ http://191.212.166.203:4000/play/a0hs
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="bandnews.br" tvg-name="BAND NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png",BAND NEWS FHD
 http://191.212.166.203:4000/play/a0ff
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS FHD
-*********************************************************************************
+http://45.175.61.242:4000/play/a0al/index.m3u8
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="cbn.br" tvg-name="CBN São Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:zaltv.co
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL

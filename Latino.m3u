@@ -49,77 +49,75 @@ https://www.youtube.com/watch?v=Rebzvor6rQU
 
 --------------------------------------------------------DEPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
-http://45.189.117.37:7879/play/a0fy/index.m3u8
+http://8.243.97.218:2040/play/a0c6/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="60229b6acdbc3006f3cf7eff8704b68c" tvg-name="ESPN EXTRA" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA
-http://45.189.117.37:7879/play/a0eq/index.m3u8
+http://8.243.97.218:2040/play/a01m/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.ar" tvg-name="ESPN 2" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
-http://45.189.117.37:7879/play/a01l/index.m3u8
+http://8.243.97.218:2040/play/a09z/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
-http://45.189.117.37:7879/play/a0fz/index.m3u8
+http://8.243.97.218:2040/play/a0dt/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports.ar" tvg-name="FOX SPORTS"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS
-http://190.61.44.134:8000/play/a04z
+http://8.243.97.218:2040/play/a0aw/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.ar" tvg-name="FOX SPORTS 2"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2
-http://45.189.117.37:7879/play/a0hp/index.m3u8
+http://8.243.97.218:2040/play/a00j/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 3
-http://45.189.117.37:7879/play/a0g1/index.m3u8
+http://8.243.97.218:2040/play/a07e/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsportspremium.ar" tvg-name="FOX SPORTS PREMIUM"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS PREMIUM
 ***************************************************************************************************
 #EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS"  tvg-language="Español" tvg-logo="",TNT SPORTS
-***************************************************************************************************
+http://187.102.208.252:8000/play/a02m
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS"  tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-http://45.189.117.37:7879/play/a0hf/index.m3u8
+http://201.234.194.58:6020/play/a08q/index.m3u8
 
 --------------------------------------------------------DOCUMENTALES-------------------------------------------------------------------
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET"  tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
-http://45.189.117.37:7879/play/a0ev/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryChannel.ar" tvg-name="DISCOVERY CHANNEL"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL
-http://45.189.117.37:7879/play/a0g5/index.m3u8
+http://8.243.97.218:2040/play/a0co/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryHealth.ar" tvg-name="DISCOVERY HOME & HEALTH"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH
-http://45.189.117.37:7879/play/a044/index.m3u8
+http://8.243.97.218:2040/play/a00c/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryScience.ar" tvg-name="DISCOVERY SCIENCE"  tvg-language="Español" tvg-logo="",DISCOVERY SCIENCE
-http://45.189.117.37:7879/play/a0h2/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTLC.ar" tvg-name="DISCOVERY TLC"  tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC
-http://45.189.117.37:7879/play/a01p/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTheater.ar" tvg-name="DISCOVERY THEATER"  tvg-language="Español" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
-*******************************************************************
+http://8.243.97.218:2040/play/a00d/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTurbo.ar" tvg-name="DISCOVERY TURBO"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO
-http://45.189.117.37:7879/play/a02h/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryWorld.ar" tvg-name="DISCOVERY WORLD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD
-http://45.189.117.37:7879/play/a0g7/index.m3u8
+http://8.243.97.218:2040/play/a01j/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
-*******************************************************************
+http://8.243.97.218:2040/play/a02g/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="hgtv.ar" tvg-name="HGTV"  tvg-language="Español" tvg-logo="",HGTV
-http://181.78.10.235:58002/play/a0bi/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="HistoryChannel.ar" tvg-name="HISTORY CHANNEL"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL
-http://45.189.117.37:7879/play/a0ep/index.m3u8
+http://8.243.97.218:2040/play/a06l/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="H2.ar" tvg-name="H2"  tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",H2
-http://45.226.67.3:58001/play/a01n/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="Investigation Discovery.ar" tvg-name="ID Investigation Discovery"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY
-http://45.189.117.37:7879/play/a0ga/index.m3u8
+http://8.243.97.218:2040/play/a07n/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="NationalGeographic.ar" tvg-name="NATIONAL GEOGRAPHIC"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC
-http://45.189.117.37:7879/play/a0g2/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="NatGEoWild.ar" tvg-name="NATGEO WILD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD
-http://45.226.67.3:58001/play/a01m/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="TRUTV.ar" tvg-name="TRUtv" tvg-country="AR" tvg-language="Español" tvg-logo="",TRUtv
-http://170.83.242.8:5150/play/a0a0
+***************************************************************************************************
 
 --------------------------------------------------------INFANTILES------------------------------------------------------------------------
 #EXTINF:-1 group-title="INFANTILES" tvg-id="CartoonNetwork.ar" tvg-name="CARTOON NETWORK"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_cartoon_m.png",CARTOON NETWORK
-http://181.191.141.4:9981/stream/channelid/685601258?profile=pass
+http://8.243.97.218:2040/play/a02z/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-id="DiscoveryKids.ar" tvg-name="DISCOVERY KIDS"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-kids_m.png",DISCOVERY KIDS
-http://181.191.141.4:9981/stream/channelid/172516479?profile=pass
+http://8.243.97.218:2040/play/a00b/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-id="DisneyChannel.ar" tvg-name="DISNEY CHANNEL"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_disney_m.png",DISNEY CHANNEL
-http://181.191.141.4:9981/stream/channelid/336517816?profile=pass
+http://8.243.97.218:2040/play/a07a/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-id="DisneyJunior.ar" tvg-name="DISNEY JUNIOR"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/a91621b0-29f8-49f8-aeb2-72fe578d780d_m.jpg",DISNEY JUNIOR
-http://181.191.141.4:9981/stream/channelid/921973190?profile=pass
-#EXTINF:-1 group-title="INFANTILES" tvg-id="DisneyXD.ar" tvg-name="DISNEY XD"  tvg-language="Español" tvg-logo="",DISNEY XD
-http://181.191.141.4:9981/stream/channelid/1418456914?profile=pass
+http://8.243.97.218:2040/play/a0d2/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-id="NatGeokids.ar" tvg-name="NAT GEO KIDS"  tvg-language="Español" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/06/natgo.png",NAT GEO KIDS
-http://181.191.141.4:9981/stream/channelid/1069550335?profile=pass
+***************************************************************************************************
 #EXTINF:-1 group-title="INFANTILES" tvg-id="Nick.ar" tvg-name="NICK"  tvg-language="Español" tvg-logo="http://i.imgur.com/ZjLSLiY.png",NICK
-http://181.191.141.4:9981/stream/channelid/985295901?profile=pass
+http://8.243.97.218:2040/play/a06z/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-id="Nickjr.ar" tvg-name="NICK JR"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_nick-junior-brazil_m.png",NICK JR
-http://45.225.93.154:8000/play/a03d
+***************************************************************************************************
 
 --------------------------------------------------------INTERNACIONALES---------------------------------------------------------------
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="Calitv.co" tvg-name="CALI TV" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.imgur.com/sRZN7Tn.png",CALI TV
@@ -127,7 +125,7 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="cgtn" tvg-name="CGTN China" tvg-country="CHINA" tvg-language="SPANISH" tvg-logo="https://pbs.twimg.com/profile_images/969543729500467202/y-kyowAV_200x200.jpg",CGTN Español China
-https://livees.cgtn.com/1000e/prog_index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="CMCTV.us" tvg-name="CMC" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="CMCUSA.us" tvg-name="CMC USA" tvg-country="USA" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png",CMC USA
@@ -143,33 +141,31 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="cnn chile" tvg-name="CNN CHILE" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg",CNN CHILE
 http://161.132.107.29:8000/play/a0gr/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="CNN.us" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="FMTV1.ec" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="Hallmark.us" tvg-name="Hallmark Channel" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg",HALLMARK CHANNEL
-
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg",HALLMARK DRAMA
-
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg",HALLMARK MOVIES & MORE
-
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg",HALLMARK MOVIES & MYSTERIES
-
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="0c4fe2e61bfbb1b0249083fb22749815" tvg-name="RAI Italia" tvg-country="ITALY" tvg-language="SPANISH" tvg-logo="",RAI Italia
-http://45.238.54.70:8000/play/a024
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="telemundo.ar" tvg-name="TELEMUNDO"  tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",TELEMUNDO
-http://45.189.108.58:10000/play/a00q/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="ElTrece.py" tvg-name="EL TRECE PARAGUAY" tvg-country="PARAGUAY" tvg-language="SPANISH" tvg-logo="",EL TRECE PARAGUAY
-https://stream.rpc.com.py/live/trece.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="LasEstrellas.ar" tvg-name="LAS ESTRELLAS MEXICO" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.ar/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
-http://45.189.117.37:7879/play/a0gs/index.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="LasEstrellas.ar" tvg-name="LAS ESTRELLAS MEXICO" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.ar/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
-http://190.61.41.182:8000/play/a23y/index.m3u8
+http://8.243.97.218:2040/play/a0bq/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="TVN.cl" tvg-name="TVN CHILE" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="",TVN CHILE
-http://45.225.93.154:8000/play/a01j
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="ae6b02191b6a39bce35ece3b9fe2c146" tvg-name="TVE" tvg-country="SPAIN" tvg-language="SPANISH" tvg-logo="",TVE
-http://45.225.93.154:8000/play/a034
+***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="TVE.es" tvg-name="TVE" tvg-country="SPAIN" tvg-language="SPANISH" tvg-logo="",TVE
-http://45.238.54.70:8000/play/a02s
+***************************************************************************************************
 
 --------------------------------------------------------MÚSICA---------------------------------------------------------------
 #EXTINF:-1 group-title="MÚSICA" tvg-id="fm100.ar" tvg-name="FM 100" tvg-country="AR" tvg-language="Español" tvg-logo="",FM 100
@@ -179,181 +175,101 @@ http://181.78.10.235:58002/play/a0cb/index.m3u8
 #EXTINF:-1 group-title="MÚSICA" tvg-id="musictop.ar" tvg-name="MUSIC TOP" tvg-country="AR" tvg-language="Español" tvg-logo="https://www.diario26.com/images/musictop_logo.png?3",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÚSICA" tvg-id="68d26281568912a4957efefb922d6b28" tvg-name="Quiero Musica" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.ibb.co/fNPN2vz/Quiero.jpg",Quiero Musica
-http://45.238.54.70:8000/play/a022
+***************************************************************************************************
 
 --------------------------------------------------------PELÍCULAS & SERIES---------------------------------------------------------------
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="5c3f473ff180d48b86ed2c57086b8505" tvg-name="A&E" tvg-country="AR" tvg-language="Español" tvg-logo="https://static.epg.best/ar/AandE.ar.png",A&E Mundo
-http://45.189.117.37:7879/play/a0ey/index.m3u8
+http://8.243.97.218:2040/play/a06m/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="amc.ar" tvg-name="AMC"  tvg-language="Español" tvg-logo="http://a5.vc/Xun",AMC FHD
-http://45.189.117.37:7879/play/a0ez/index.m3u8
+http://8.243.97.218:2040/play/a01l/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="axn.ar" tvg-name="AXN"  tvg-language="Español"tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN
-http://45.189.117.37:7879/play/a0fv/index.m3u8
+http://8.243.97.218:2040/play/a06p/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="34d15999d7aab4459424b98c7da27ba9" tvg-name="CINECANAL"  tvg-language="Español"tvg-logo="https://www.totalmedios.com/img/ACTUALIDAD & NOTICIAS/2018/09/5b965cd2a443c__838x390.jpg",CINE CANAL
-http://45.189.117.37:7879/play/a0fq/index.m3u8
+http://8.243.97.218:2040/play/a01k/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="" tvg-name="Comedy Central"  tvg-language="Español"tvg-logo="",COMEDY CENTRAL
+http://8.243.97.218:2040/play/a07m/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9b89e69394748f05d98b0fbab873bc1f" tvg-name="FX"  tvg-language="Español"tvg-logo="https://www.totalmedios.com/img/ACTUALIDAD & NOTICIAS/2018/09/5b965cd2a443c__838x390.jpg",FX
-http://45.189.117.37:7879/play/a0f1/index.m3u8
+http://8.243.97.218:2040/play/a00o/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="c65a93cd183028cd1956c6447cacbbd3" tvg-name="FILM & ARTS"  tvg-language="Español" tvg-logo="",FILM & ARTS
-http://45.189.117.37:7879/play/a0ex/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="fe01e2e9a7934b40bd09dd714cf74ef9" tvg-name="FXM"  tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png",FXM 
-http://45.189.117.37:7879/play/a0f3/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="7baad23afd285f1373c8b4ab582ca7b6" tvg-name="I SAT"  tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",I Sat HD
-http://45.189.117.37:7879/play/a008/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="paramountchannel.ar" tvg-name="PARAMOUNT CHANNEL"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
-http://45.189.117.37:7879/play/a0g3/index.m3u8
+http://8.243.97.218:2040/play/a01t/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="c954a7b5d73fb15c6e677bc744b2c45f" tvg-name="SONY HD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY 
-http://45.189.117.37:7879/play/a0fp/index.m3u8
+http://8.243.97.218:2040/play/a06n/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="53dcee436dbd9d365567d9d5bd5f461e" tvg-name="SPACE"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE
-http://45.189.117.37:7879/play/a0fw/index.m3u8
+http://8.243.97.218:2040/play/a06q/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="syfy.ar" tvg-name="SYFY"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY
-http://45.189.117.37:7879/play/a0eu/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="5a8ec48d3cd8cea1e63efd3d115bc987" tvg-name="TBS"  tvg-language="Español" tvg-logo="",TBS
-http://45.189.117.37:7879/play/a01z/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
-http://45.5.149.104:8000/play/a19k/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
-http://45.171.66.198:8082/play/a029
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
-http://168.232.168.242:8089/play/a03a/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tnt.ar" tvg-name="TNT"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
-http://45.189.117.37:7879/play/a0gg/index.m3u8
+http://8.243.97.218:2040/play/a07c/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tntseries.ar" tvg-name="TNT SERIES"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES
-http://45.189.117.37:7879/play/a03r/index.m3u8
+http://8.243.97.218:2040/play/a00n/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="42240496ab58c6a689577a15bd117cec" tvg-name="TruTV HD"  tvg-language="Español" tvg-logo="",TruTV HD
-http://45.189.117.37:7879/play/a03q/index.m3u8
+http://8.243.97.218:2040/play/a0dw/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="studiouniversal.ar" tvg-name="STUDIO UNIVERSAL"  tvg-language="Español" tvg-logo="",STUDIO UNIVERSAL
-http://45.189.117.37:7879/play/a007/index.m3u8
+http://8.243.97.218:2040/play/a031/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalcinema.ar" tvg-name="UNIVERSAL CINEMA"  tvg-language="Español" tvg-logo="",UNIVERSAL CINEMA
-http://45.189.117.37:7879/play/a0gb/index.m3u8
+http://8.243.97.218:2040/play/a00g/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalcomedy.ar" tvg-name="UNIVERSAL COMEDY"  tvg-language="Español" tvg-logo="",UNIVERSAL COMEDY
-http://45.189.117.37:7879/play/a0gr/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalcrime.ar" tvg-name="UNIVERSAL CRIME"  tvg-language="Español" tvg-logo="",UNIVERSAL CRIME
-http://45.189.117.37:7879/play/a0gq/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalpremiere.ar" tvg-name="UNIVERSAL PREMIERE"  tvg-language="Español" tvg-logo="",UNIVERSAL PREMIERE
-http://45.189.117.37:7879/play/a0gn/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalreality.ar" tvg-name="UNIVERSAL REALITY"  tvg-language="Español" tvg-logo="",UNIVERSAL REALITY
-http://45.189.117.37:7879/play/a0gp/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="warnerchannel.ar" tvg-name="WARNER CHANNEL"  tvg-language="Español" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/WARNER%20TV.png",WARNER CHANNEL
-http://45.189.117.37:7879/play/a0fo/index.m3u8
-
---------------------------------------------------------PELÍCULAS------------------------------------------------------------------------
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film.ar" tvg-name="Canal Film"  tvg-language="Español" tvg-logo="",Canal Film 01
-http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="MovieMax.ar" tvg-name="MovieMax"  tvg-language="Español" tvg-logo="",MovieMax HD
-http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="OuterMax.ar" tvg-name="OuterMax"  tvg-language="Español" tvg-logo="",OuterMax HD
-http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film"  tvg-language="Español" tvg-logo="",Canal Film 02
-http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Crackle" tvg-name="Crackle original"  tvg-language="Español" tvg-logo="",Crackle original movie
-http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="Canal Film" tvg-name="Canal Film"  tvg-language="Español" tvg-logo="",Canal Film 03
-http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="cartelerapremiere.ar" tvg-name="CARTELERA PREMIERE"  tvg-language="Español" tvg-logo="",CARTELERA PREMIERE
-http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hbo.ar" tvg-name="HBO HD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
-http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hbo.ar" tvg-name="HBO HD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
-http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hbofamily.ar" tvg-name="HBO FAMILY HD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
-http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hboplus.ar" tvg-name="HBO PLUS"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
-http://f4.tvxweb.net:8082/18095/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hboplus.ar" tvg-name="HBO PLUS"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
-http://f4.tvxweb.net:8082/18086/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="hboextreme.ar" tvg-name="HBO SIGNATURE"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
-http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="cinemax.ar" tvg-name="CINEMAX"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
-http://181.191.141.4:9981/stream/channelid/1606078654?profile=pass
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtime.ar" tvg-name="SHOWTIME HD"  tvg-language="Español" tvg-logo="",SHOWTIME HD
-http://f4.tvxweb.net:8082/18087/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtime.ar" tvg-name="SHOWTIME HD"  tvg-language="Español" tvg-logo="",SHOWTIME HD
-http://f4.tvxweb.net:8082/24313/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtimebeyond.ar" tvg-name="Showtime Beyond HD"  tvg-language="Español" tvg-logo="",Showtime Beyond HD
-http://f4.tvxweb.net:8082/24315/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtimeeast.ar" tvg-name="Showtime East HD"  tvg-language="Español" tvg-logo="",Showtime East HD
-http://f4.tvxweb.net:8082/24314/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="showtimewest.ar" tvg-name="Showtime West HD"  tvg-language="Español" tvg-logo="",Showtime West HD
-http://f4.tvxweb.net:8082/24312/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starz.ar" tvg-name="Starz HD"  tvg-language="Español" tvg-logo="",Starz HD
-http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcinema.ar" tvg-name="Starz Cinema HD"  tvg-language="Español" tvg-logo="",Starz Cinema HD
-http://f4.tvxweb.net:8082/35943/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcomedy.ar" tvg-name="Starz Comedy HD"  tvg-language="Español" tvg-logo="",Starz Comedy HD
-http://f4.tvxweb.net:8082/24311/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzcomedy.ar" tvg-name="Starz Comedy HD"  tvg-language="Español" tvg-logo="",Starz Comedy HD
-http://f4.tvxweb.net:8082/35942/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzeast.ar" tvg-name="Starz East HD"  tvg-language="Español" tvg-logo="",Starz East HD
-http://f4.tvxweb.net:8082/24167/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzedge.ar" tvg-name="Starz Edge HD"  tvg-language="Español" tvg-logo="",Starz Edge HD
-http://f4.tvxweb.net:8082/35941/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzkids&family.ar" tvg-name="Starz Kids & Family HD"  tvg-language="Español" tvg-logo="",Starz Kids & Family HD
-http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzwest.ar" tvg-name="Starz West HD"  tvg-language="Español" tvg-logo="",Starz West HD
-http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencore.ar" tvg-name="Starz Encore HD"  tvg-language="Español" tvg-logo="",Starz Encore HD
-http://f4.tvxweb.net:8082/24310/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencore.ar" tvg-name="Starz Encore HD"  tvg-language="Español" tvg-logo="",Starz Encore HD
-http://f4.tvxweb.net:8082/35945/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreaction.ar" tvg-name="Starz Encore Action"  tvg-language="Español" tvg-logo="",Starz Encore Action
-http://f4.tvxweb.net:8082/35946/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreblack.ar" tvg-name="Starz Encore Black HD"  tvg-language="Español" tvg-logo="",Starz Encore Black HD
-http://f4.tvxweb.net:8082/35948/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoreclassic.ar" tvg-name="Starz Encore Classic HD"  tvg-language="Español" tvg-logo="",Starz Encore Classic HD
-http://f4.tvxweb.net:8082/35947/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencorefamily.ar" tvg-name="Starz Encore Family HD"  tvg-language="Español" tvg-logo="",Starz Encore Family HD
-http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencoresuspense.ar" tvg-name="Starz Encore Suspense HD"  tvg-language="Español" tvg-logo="",Starz Encore Suspense HD
-http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="starzencorewestern.ar" tvg-name="Starz Encore Western HD"  tvg-language="Español" tvg-logo="",Starz Encore Western
-http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="IndiePlex.ar" tvg-name="IndiePlex"  tvg-language="Español" tvg-logo="",IndiePlex HD
-http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="MoviePlex.ar" tvg-name="MoviePlex"  tvg-language="Español" tvg-logo="",MoviePlex HD
-http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="RetroPlex.ar" tvg-name="RetroPlex "  tvg-language="Español" tvg-logo="",RetroPlex HD
-http://f4.tvxweb.net:8082/35969/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 group-title="PELICULAS" tvg-id="MoreMax.ar" tvg-name="MoreMax HD"  tvg-language="Español" tvg-logo="",MoreMax HD
-http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
+http://8.243.97.218:2040/play/a06o/index.m3u8
 
 --------------------------------------------------------PREMIUM------------------------------------------------------------------------
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.ve" tvg-name="CINEMAX" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
-http://45.189.117.37:7879/play/a02a/index.m3u8
+http://8.243.97.218:2040/play/a07l/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.ve" tvg-name="HBO" tvg-country="PE" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
-http://45.189.117.37:7879/play/a0jb/index.m3u8
+http://8.243.97.218:2040/play/a0ej/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.ve" tvg-name="HBO 2" tvg-country="PE" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-http://45.189.117.37:7879/play/a0e8/index.m3u8
-http://45.238.54.70:8000/play/a02o
+http://8.243.97.218:2040/play/a0dx/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboXtreme.ve" tvg-name="HBO Extreme" tvg-country="PE" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
-http://45.189.117.37:7879/play/a03u/index.m3u8
+http://8.243.97.218:2040/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="e1ec1b18022848dae76b46d618873c74" tvg-name="HBO Family" tvg-country="PE" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
 http://45.189.117.37:7879/play/a03t/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="b9774d94f0937ffd5490961e7322dd87" tvg-name="HBO Plus" tvg-country="PE" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
-http://45.189.117.37:7879/play/a0e9/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PREMIUM" tvg-id="staraction.ve" tvg-name="Star Action" tvg-country="PE" tvg-language="Español" tvg-logo="",STAR ACTION
-http://181.191.141.4:9981/stream/channelid/1356858745?profile=pass
+***************************************************************************************************
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starch.ve" tvg-name="Star Channel" tvg-country="PE" tvg-language="Español" tvg-logo="",STAR CHANNEL
-http://45.189.117.37:7879/play/a0fn/index.m3u8
+http://8.243.97.218:2040/play/a01c/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starclassic.ve" tvg-name="Star Classic" tvg-country="PE" tvg-language="Español" tvg-logo="",STAR CLASSIC
-http://181.191.141.4:9981/stream/channelid/903186196?profile=pass
+***************************************************************************************************
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starfun.ve" tvg-name="Star Fun" tvg-country="PE" tvg-language="Español" tvg-logo="",STAR FUN
-http://181.191.141.4:9981/stream/channelid/53117060?profile=pass
+***************************************************************************************************
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.ve" tvg-name="Star Hits" tvg-country="PE" tvg-language="Español" tvg-logo="",STAR HITS
-http://181.191.141.4:9981/stream/channelid/1806810998?profile=pass
+***************************************************************************************************
 #EXTINF:-1 group-title="PREMIUM" tvg-id="foxlife.ve" tvg-name="STAR LIFE" tvg-country="PE" tvg-language="Español" tvg-logo="",STAR LIFE
-http://181.78.10.235:58002/play/a0au/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.ve" tvg-name="STAR SERIES" tvg-country="PE" tvg-language="Español" tvg-logo="",Star Series
-http://181.191.141.4:9981/stream/channelid/2121475732?profile=pass
+***************************************************************************************************
 
 --------------------------------------------------------VARIEDADES---------------------------------------------------------------
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e!.ar" tvg-name="E!"  tvg-language="Español" tvg-logo="http://a5.vc/DKx",E!
-http://45.238.54.70:8000/play/a00l
+http://187.102.208.252:8000/play/a057
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="encuentro.ar" tvg-name="ENCUENTRO" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/SJ37FzZ/download-1.png",ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="fashiontv" tvg-name="FASHION TV"  tvg-language="Español" tvg-logo="https://i.imgur.com/1jtRh4S.png",FashionTV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="LoveNature.ca" tvg-name="LOVE NATURE" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://i.ibb.co/rx3QRV3/download.png",LOVE NATURE 4K
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/22332
+***************************************************************************************************
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e2b62c10f7f3dc26e463a3774befd7e3" tvg-name="VOLVER" tvg-country="AR" tvg-language="Español" tvg-logo="",VOLVER
-http://edge10-hr.cvattv.com.ar/live/c2live/Volver/verimatrix_rotating_FTA/Volver.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="Telemax.ar" tvg-name="TELEMAX" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png",TELEMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TieraMia.ar" tvg-name="TIERRA MIA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/XVM8T95/unnamed.jpg",TIERRA MIA TV

@@ -68,10 +68,12 @@ http://8.243.97.218:2040/play/a07e/index.m3u8
 http://187.102.208.252:8000/play/a02m
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS"  tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
 http://201.234.194.58:6020/play/a08q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS"  tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
+http://201.234.194.58:6020/play/a0e9/index.m3u8
 
 --------------------------------------------------------DOCUMENTALES-------------------------------------------------------------------
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET"  tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
-***************************************************************************************************
+http://201.234.194.58:6020/play/a0c9/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryChannel.ar" tvg-name="DISCOVERY CHANNEL"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL
 http://8.243.97.218:2040/play/a0co/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryHealth.ar" tvg-name="DISCOVERY HOME & HEALTH"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH
@@ -97,7 +99,7 @@ http://8.243.97.218:2040/play/a06l/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="Investigation Discovery.ar" tvg-name="ID Investigation Discovery"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY
 http://8.243.97.218:2040/play/a07n/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="NationalGeographic.ar" tvg-name="NATIONAL GEOGRAPHIC"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC
-***************************************************************************************************
+http://201.234.194.58:6020/play/a0bd/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="NatGEoWild.ar" tvg-name="NATGEO WILD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD
 ***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="TRUTV.ar" tvg-name="TRUtv" tvg-country="AR" tvg-language="Español" tvg-logo="",TRUtv
@@ -117,7 +119,7 @@ http://8.243.97.218:2040/play/a0d2/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-id="Nick.ar" tvg-name="NICK"  tvg-language="Español" tvg-logo="http://i.imgur.com/ZjLSLiY.png",NICK
 http://8.243.97.218:2040/play/a06z/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-id="Nickjr.ar" tvg-name="NICK JR"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_nick-junior-brazil_m.png",NICK JR
-***************************************************************************************************
+http://201.234.194.58:6020/play/a08i/index.m3u8
 
 --------------------------------------------------------INTERNACIONALES---------------------------------------------------------------
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="Calitv.co" tvg-name="CALI TV" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.imgur.com/sRZN7Tn.png",CALI TV
@@ -203,13 +205,11 @@ http://8.243.97.218:2040/play/a06n/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="53dcee436dbd9d365567d9d5bd5f461e" tvg-name="SPACE"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE
 http://8.243.97.218:2040/play/a06q/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="syfy.ar" tvg-name="SYFY"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY
-***************************************************************************************************
+http://201.234.194.58:6020/play/a0bq/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="5a8ec48d3cd8cea1e63efd3d115bc987" tvg-name="TBS"  tvg-language="Español" tvg-logo="",TBS
 ***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
-***************************************************************************************************
-#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
-***************************************************************************************************
+http://201.234.194.58:6020/play/a0b1/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tnt.ar" tvg-name="TNT"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
 http://8.243.97.218:2040/play/a07c/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tntseries.ar" tvg-name="TNT SERIES"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES
@@ -221,7 +221,7 @@ http://8.243.97.218:2040/play/a031/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalcinema.ar" tvg-name="UNIVERSAL CINEMA"  tvg-language="Español" tvg-logo="",UNIVERSAL CINEMA
 http://8.243.97.218:2040/play/a00g/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalcomedy.ar" tvg-name="UNIVERSAL COMEDY"  tvg-language="Español" tvg-logo="",UNIVERSAL COMEDY
-***************************************************************************************************
+http://201.234.194.58:6020/play/a09m/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalcrime.ar" tvg-name="UNIVERSAL CRIME"  tvg-language="Español" tvg-logo="",UNIVERSAL CRIME
 ***************************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="universalpremiere.ar" tvg-name="UNIVERSAL PREMIERE"  tvg-language="Español" tvg-logo="",UNIVERSAL PREMIERE
@@ -253,11 +253,11 @@ http://8.243.97.218:2040/play/a01c/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starfun.ve" tvg-name="Star Fun" tvg-country="PE" tvg-language="Español" tvg-logo="",STAR FUN
 ***************************************************************************************************
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.ve" tvg-name="Star Hits" tvg-country="PE" tvg-language="Español" tvg-logo="",STAR HITS
-***************************************************************************************************
+http://201.234.194.58:6020/play/a0cm/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="foxlife.ve" tvg-name="STAR LIFE" tvg-country="PE" tvg-language="Español" tvg-logo="",STAR LIFE
-***************************************************************************************************
+http://201.234.194.58:6020/play/a0ae/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starseries.ve" tvg-name="STAR SERIES" tvg-country="PE" tvg-language="Español" tvg-logo="",Star Series
-***************************************************************************************************
+http://201.234.194.58:6020/play/a08s/index.m3u8
 
 --------------------------------------------------------VARIEDADES---------------------------------------------------------------
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e!.ar" tvg-name="E!"  tvg-language="Español" tvg-logo="http://a5.vc/DKx",E!

@@ -17,7 +17,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="ciudad.ar" tvg-name="CIUDAD MAGAZINE" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",CIUDAD MAGAZINE
 http://45.5.149.104:8000/play/a1by/index.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="cnn.ar" tvg-name="CNN ESpañol" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",CNN Español
-***************************************************************************************************
+http://201.222.45.69:8000/play/a004/index.m3u8
 #EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="CronicaTV.ar" tvg-name="CRONICA TV" tvg-country="USA" tvg-language="SPANISH" tvg-logo="",CRÓNICA TV
 ***************************************************************************************************
 #EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="DeutscheWelleEs.de" tvg-name="DW" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",DW Latinoamerica
@@ -57,17 +57,17 @@ http://45.236.28.72:8000/play/a0fo/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
 http://45.236.28.72:8000/play/a0ev/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports.ar" tvg-name="FOX SPORTS"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS
-http://8.243.97.218:2040/play/a0aw/index.m3u8
+http://45.224.23.209:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.ar" tvg-name="FOX SPORTS 2"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2
 http://45.236.28.72:8000/play/a0ew/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 3
 http://45.236.28.72:8000/play/a0df/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsportspremium.ar" tvg-name="FOX SPORTS PREMIUM"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS PREMIUM
-***************************************************************************************************
+http://201.222.45.69:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS"  tvg-language="Español" tvg-logo="",TNT SPORTS
 http://187.102.208.252:8000/play/a02m
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS"  tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-http://45.5.149.104:8000/play/a1b3/index.m3u8
+http://45.224.23.209:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS"  tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
 http://201.234.194.58:6020/play/a0e9/index.m3u8
 
@@ -88,8 +88,10 @@ http://8.243.97.218:2040/play/a00d/index.m3u8
 http://45.236.28.72:8000/play/a0g8/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryWorld.ar" tvg-name="DISCOVERY WORLD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD
 http://8.243.97.218:2040/play/a01j/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryWorld.ar" tvg-name="DISCOVERY WORLD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD
+http://45.224.23.209:8000/play/a094/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
-http://8.243.97.218:2040/play/a02g/index.m3u8
+http://45.224.23.209:8000/play/a088/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="hgtv.ar" tvg-name="HGTV"  tvg-language="Español" tvg-logo="",HGTV
 ***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="HistoryChannel.ar" tvg-name="HISTORY CHANNEL"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL
@@ -126,6 +128,8 @@ http://201.234.194.58:6020/play/a08i/index.m3u8
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
+http://45.224.23.209:8000/play/a073/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="cgtn" tvg-name="CGTN China" tvg-country="CHINA" tvg-language="SPANISH" tvg-logo="https://pbs.twimg.com/profile_images/969543729500467202/y-kyowAV_200x200.jpg",CGTN Español China
 ***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="CMCTV.us" tvg-name="CMC" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC
@@ -161,7 +165,7 @@ http://45.236.28.72:8000/play/a0d8/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="ElTrece.py" tvg-name="EL TRECE PARAGUAY" tvg-country="PARAGUAY" tvg-language="SPANISH" tvg-logo="",EL TRECE PARAGUAY
 ***************************************************************************************************
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="LasEstrellas.ar" tvg-name="LAS ESTRELLAS MEXICO" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.ar/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
-http://8.243.97.218:2040/play/a0bq/index.m3u8
+http://201.222.45.69:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="TVN.cl" tvg-name="TVN CHILE" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="",TVN CHILE
 http://45.236.28.72:8000/play/a0hp/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="ae6b02191b6a39bce35ece3b9fe2c146" tvg-name="TVE" tvg-country="SPAIN" tvg-language="SPANISH" tvg-logo="",TVE
@@ -187,7 +191,7 @@ http://45.236.28.72:8000/play/a0gv/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="34d15999d7aab4459424b98c7da27ba9" tvg-name="CINECANAL"  tvg-language="Español"tvg-logo="https://www.totalmedios.com/img/ACTUALIDAD & NOTICIAS/2018/09/5b965cd2a443c__838x390.jpg",CINE CANAL
 http://45.236.28.72:8000/play/a0fu/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="" tvg-name="Comedy Central"  tvg-language="Español"tvg-logo="",COMEDY CENTRAL
-http://8.243.97.218:2040/play/a07m/index.m3u8
+http://186.3.216.78:9955/play/a124/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9b89e69394748f05d98b0fbab873bc1f" tvg-name="FX"  tvg-language="Español"tvg-logo="https://www.totalmedios.com/img/ACTUALIDAD & NOTICIAS/2018/09/5b965cd2a443c__838x390.jpg",FX
 http://45.236.28.72:8000/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="c65a93cd183028cd1956c6447cacbbd3" tvg-name="FILM & ARTS"  tvg-language="Español" tvg-logo="",FILM & ARTS
@@ -206,6 +210,8 @@ http://45.236.28.72:8000/play/a0gw/index.m3u8
 http://45.5.149.104:8000/play/a191/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="5a8ec48d3cd8cea1e63efd3d115bc987" tvg-name="TBS"  tvg-language="Español" tvg-logo="",TBS
 http://45.236.28.72:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
+http://201.222.45.69:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
 http://45.236.28.72:8000/play/a0ej/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tnt.ar" tvg-name="TNT"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 

@@ -173,7 +173,7 @@ http://45.236.28.72:8000/play/a0hz/index.m3u8
 
 --------------------------------------------------------MÚSICA---------------------------------------------------------------
 #EXTINF:-1 group-title="MÚSICA" tvg-id="fm100.ar" tvg-name="FM 100" tvg-country="AR" tvg-language="Español" tvg-logo="",FM 100
-http://buecrplb01.cienradios.com.ar/la100.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
 #EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.ar" tvg-name="MTV"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV
 http://181.78.10.235:58002/play/a0cb/index.m3u8
 #EXTINF:-1 group-title="MÚSICA" tvg-id="musictop.ar" tvg-name="MUSIC TOP" tvg-country="AR" tvg-language="Español" tvg-logo="https://www.diario26.com/images/musictop_logo.png?3",Music Top

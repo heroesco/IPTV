@@ -39,45 +39,46 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061375
 
 --------------------------------------------------------DEPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN
-http://45.236.28.72:8000/play/a0fn/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061326
 #EXTINF:-1 group-title="DEPORTES" tvg-id="60229b6acdbc3006f3cf7eff8704b68c" tvg-name="ESPN EXTRA" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA
-http://45.236.28.72:8000/play/a0dr/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061327
 #EXTINF:-1 group-title="DEPORTES" tvg-id="espn2.ar" tvg-name="ESPN 2" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 2
-http://45.236.28.72:8000/play/a0fo/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061324
 #EXTINF:-1 group-title="DEPORTES" tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 3
-http://45.236.28.72:8000/play/a0ev/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061325
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports.ar" tvg-name="FOX SPORTS"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS
-http://45.224.23.209:8000/play/a066/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061297
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports2.ar" tvg-name="FOX SPORTS 2"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2
-http://45.236.28.72:8000/play/a0ew/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061298
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 3
-http://45.236.28.72:8000/play/a0df/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061396
 #EXTINF:-1 group-title="DEPORTES" tvg-id="foxsportspremium.ar" tvg-name="FOX SPORTS PREMIUM"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS PREMIUM
-http://201.222.45.69:8000/play/a00c/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061296
 #EXTINF:-1 group-title="DEPORTES" tvg-id="5570d865cdf71cebcb8972e0fc68e7e6" tvg-name="TNT SPORTS"  tvg-language="Español" tvg-logo="",TNT SPORTS
-http://187.102.208.252:8000/play/a02m
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061295
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS"  tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
 http://45.224.23.209:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS"  tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
-http://45.162.135.1:1080/play/a048
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061294
+#EXTINF:-1 group-title="DEPORTES" tvg-id="tycsports.ar" tvg-name="TyC SPORTS"  tvg-language="Español" tvg-logo="https://www.elcuatro.com/public/uploads/4d21d4dd915ecf577f941e7e0a9981e1.png",TyC SPORTS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061397
+
 
 --------------------------------------------------------DOCUMENTALES-------------------------------------------------------------------
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET"  tvg-language="Español" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
 http://45.162.135.1:1080/play/a07d
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryChannel.ar" tvg-name="DISCOVERY CHANNEL"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL
-http://45.236.28.72:8000/play/a0fj/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryHealth.ar" tvg-name="DISCOVERY HOME & HEALTH"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH
-http://45.236.28.72:8000/play/a0g9/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryScience.ar" tvg-name="DISCOVERY SCIENCE"  tvg-language="Español" tvg-logo="",DISCOVERY SCIENCE
-http://45.236.28.72:8000/play/a0hr/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTLC.ar" tvg-name="DISCOVERY TLC"  tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC
 http://45.162.135.1:1080/play/a04b
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTheater.ar" tvg-name="DISCOVERY THEATER"  tvg-language="Español" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
 ***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryTurbo.ar" tvg-name="DISCOVERY TURBO"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO
-http://45.236.28.72:8000/play/a0g8/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryWorld.ar" tvg-name="DISCOVERY WORLD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD
-http://8.243.97.218:2040/play/a01j/index.m3u8
+***************************************************************************************************
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="DiscoveryWorld.ar" tvg-name="DISCOVERY WORLD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD
 http://45.224.23.209:8000/play/a094/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
@@ -95,7 +96,7 @@ http://45.162.135.1:1080/play/a06t
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="NatGEoWild.ar" tvg-name="NATGEO WILD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD
 http://45.162.135.1:1080/play/a0ax
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="TRUTV.ar" tvg-name="TRUtv" tvg-country="AR" tvg-language="Español" tvg-logo="",TRUtv
-http://45.162.135.1:1080/play/a06n
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061374
 
 --------------------------------------------------------INFANTILES------------------------------------------------------------------------
 #EXTINF:-1 group-title="INFANTILES" tvg-id="CartoonNetwork.ar" tvg-name="CARTOON NETWORK"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_cartoon_m.png",CARTOON NETWORK
@@ -164,12 +165,14 @@ http://45.236.28.72:8000/play/a0hz/index.m3u8
 --------------------------------------------------------MÚSICA---------------------------------------------------------------
 #EXTINF:-1 group-title="MÚSICA" tvg-id="fm100.ar" tvg-name="FM 100" tvg-country="AR" tvg-language="Español" tvg-logo="",FM 100
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
+#EXTINF:-1 group-title="MÚSICA" tvg-id="mmusic.ar" tvg-name="Much Music" tvg-country="AR" tvg-language="Español" tvg-logo="",Much Music
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061300
 #EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.ar" tvg-name="MTV"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV
-http://181.78.10.235:58002/play/a0cb/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061350
 #EXTINF:-1 group-title="MÚSICA" tvg-id="musictop.ar" tvg-name="MUSIC TOP" tvg-country="AR" tvg-language="Español" tvg-logo="https://www.diario26.com/images/musictop_logo.png?3",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÚSICA" tvg-id="68d26281568912a4957efefb922d6b28" tvg-name="Quiero Musica" tvg-country="AR" tvg-language="Español" tvg-logo="https://i.ibb.co/fNPN2vz/Quiero.jpg",Quiero Musica
-***************************************************************************************************
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061302
 
 --------------------------------------------------------PELÍCULAS & SERIES---------------------------------------------------------------
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="5c3f473ff180d48b86ed2c57086b8505" tvg-name="A&E" tvg-country="AR" tvg-language="Español" tvg-logo="https://static.epg.best/ar/AandE.ar.png",A&E Mundo

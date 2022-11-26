@@ -3,49 +3,39 @@
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="canal26.ar" tvg-name="CANAL 26" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/800px-LogoCanal26.png",CANAL 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="a24.ar" tvg-name="A24" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/60fb73f8a33811cbdf1ca5d713b40f27.png",A24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
-#EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="a24.ar" tvg-name="A24" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/60fb73f8a33811cbdf1ca5d713b40f27.png",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="americatv.ar" tvg-name="AMERICA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/14ca767fbe807a67e1724b1a5f24a862.png",AMÉRICA TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="americatv.ar" tvg-name="AMERICA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/14ca767fbe807a67e1724b1a5f24a862.png",AMÉRICA TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="C5N.ar" tvg-name="C5N" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/5ccb852f4bbad0d4ea8c089cc918439f.png",C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061304
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="Canal9.ar" tvg-name="CANAL 9" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/8e885f8241fba2c76d286b2e4d249b44.jpg",CANAL 9
-***************************************************************************************************
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061305
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="ciudad.ar" tvg-name="CIUDAD MAGAZINE" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",CIUDAD MAGAZINE
-http://45.5.149.104:8000/play/a1by/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061312
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="cnn.ar" tvg-name="CNN ESpañol" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",CNN Español
-http://201.222.45.69:8000/play/a004/index.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061313
 #EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="CronicaTV.ar" tvg-name="CRONICA TV" tvg-country="USA" tvg-language="SPANISH" tvg-logo="",CRÓNICA TV
-***************************************************************************************************
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061316
 #EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="DeutscheWelleEs.de" tvg-name="DW" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="",DW Latinoamerica
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="eltrece.ar" tvg-name="EL TRECE" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFmJD0JllhnsMDvAAh3lVsXmehY_9rY8ZYgO9PJA=s900-c-k-c0x00ffffff-no-rj",EL TRECE
-http://181.78.27.189:5150/play/a0an
-#EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="euronews.es" tvg-name="EURONEWS" tvg-country="ESPAÑA" tvg-language="SPANISH" tvg-logo="",EURONEWS
-https://www.youtube.com/watch?v=JbKgQhFlMdU
-#EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="france24.es" tvg-name="FRANCE 24" tvg-country="FRANCIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/MZ7H67L/download-1.png",FRANCE 24 Español
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061403
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="LaNacionPlus.ar" tvg-name="LN+" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.dossiernet.com.ar/assets/uploads/images/lanacionmas1.jpg",LN+
-http://181.191.141.4:9981/stream/channelid/243224648?profile=pass
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061344
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="NetTV.ar" tvg-name="NET TV" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://i.ibb.co/mCHVVTs/download.png",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="telefe.ar" tvg-name="TELEFE" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://elsolACTUALIDAD & NOTICIAS.com.ar/wp-content/uploads/2021/04/logo-schema.jpg",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="Telesur.ve" tvg-name="TELESUR" tvg-country="VENEZUELA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg",TELESUR
-http://181.78.10.235:58002/play/a0ci/index.m3u8
-#EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="tvglobo.br" tvg-name="TV GLOBO" tvg-country="Brasil" tvg-language="Portugues" tvg-logo="",TV GLOBO
-http://181.78.27.189:5150/play/a0e9
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061369
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="TN.ar" tvg-name="TN" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/3b9f6b08954319e4c00d4b4b37cf09ab.png",TN
-http://45.238.54.70:8000/play/a00t
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061370
 #EXTINF:-1 group-title="ACTUALIDAD & NOTICIAS" tvg-id="TN.ar" tvg-name="TN" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://www.elcuatro.com/public/uploads/3b9f6b08954319e4c00d4b4b37cf09ab.png",TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="tvpublica.ar" tvg-name="TV PÚBLICA" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://urlshortner.org/IAWrp",TV PÚBLICA
-http://45.236.28.72:8000/play/a06l/index.m3u8
-#EXTINF:0 group-title="ACTUALIDAD & NOTICIAS" tvg-id="tvpublica.ar" tvg-name="TV PÚBLICA" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://urlshortner.org/IAWrp",TV PÚBLICA
-https://www.youtube.com/watch?v=Rebzvor6rQU
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061375
 
 --------------------------------------------------------DEPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="DEPORTES" tvg-id="751391571a4f81eb33303cc3ad807b82" tvg-name="ESPN" tvg-language="Español" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN

@@ -177,7 +177,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68529
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376136
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvescola.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Escola
-http://191.212.166.203:4000/play/a0ew
+http://200.4.96.59:1080/play/a04v/index.m3u8
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvjustiça.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV JUSTICA
 http://168.205.87.198:8555/live/JOSEE/123456/138.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvsenado.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Senado
@@ -282,7 +282,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5190
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="axn.br" tvg-name="AXN" tvg-country="BR" tvg-language="Portuguese"tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5192
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="filmandarts.br" tvg-name="FILM & ARTS" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FILM & ARTS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923436
+http://200.4.96.59:1080/play/a049/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="fx.br" tvg-name="FX" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5225
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",PARAMOUNT NETWORK
@@ -310,7 +310,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5273
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tbs.br" tvg-name="TBS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TBS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5267
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TCM.br" tvg-name="TCM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TCM HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923901
+http://200.4.96.59:1080/play/a040/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5275
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tntseries.br" tvg-name="TNT SERIES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES
@@ -403,7 +403,7 @@ http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396554
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/vJqtX2r/download-1.jpg",JOVEM PAN NEWS
 http://191.212.166.203:4000/play/a0hx
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
-http://200.6.86.128:12000/play/a0k4
+http://200.4.96.59:1080/play/a04x/index.m3u8
 
 --------------------------------------------------------CANAIS PREMIUM------------------------------------------------------------------------
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX

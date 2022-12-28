@@ -167,13 +167,11 @@ https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamor
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w10453154.m3u8
 --------------------------------------------------------TV ABERTA NACIONAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68519
-#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5289
+http://206.1.95.2:8004/play/a04d
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="RecordTV.br" tvg-name="Record TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",RECORD TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5320
+http://206.1.95.2:8004/play/a02i
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT 
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68529
+http://206.1.95.2:8004/play/a023
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376136
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvescola.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Escola
@@ -187,54 +185,54 @@ http://45.232.196.5:8000/play/a010/index.m3u8
 
 --------------------------------------------------------CANAIS DE COMÉDIAS---------------------------------------------------------------
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5202
+http://206.1.95.2:8004/play/a02x
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multishow_m.png",MULTISHOW FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5092
+http://206.1.95.2:8004/play/a02q
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="5f36f2346ede750007332d11" tvg-name="PORTA DOS FUNDOS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png",Porta dos Fundos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 --------------------------------------------------------CANAIS DE DOCUMENTÁRIOS-------------------------------------------------------------------
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5042
+http://206.1.95.2:8004/play/a02y
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/aDZ",ARTE 1
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/38424
+http://206.1.95.2:8004/play/a02h
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5203
+http://206.1.95.2:8004/play/a00r
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY CIVILIZATION
 **************************************************************
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5205
+http://206.1.95.2:8004/play/a01n
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5207
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5208
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Discoverytlc.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY TLC
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5274
+http://206.1.95.2:8004/play/a01z
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5209
+http://206.1.95.2:8004/play/a01w
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5210
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5219
+http://206.1.95.2:8004/play/a00e
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5234
+http://206.1.95.2:8004/play/a043
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="H2.br" tvg-name="H2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",H2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5235
+http://206.1.95.2:8004/play/a01u
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="discoveryID.br" tvg-name="Discovery ID" tvg-country="BRASIL" tvg-language="Portuguese" tvg-logo="",DISCOVERY ID
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5236
+http://206.1.95.2:8004/play/a01y
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
+http://206.1.95.2:8004/play/a01x
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923829
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="trutv.br" tvg-name="TRU TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TRU TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923519
+http://206.1.95.2:8004/play/a00m
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="smithsonianchannel.us" tvg-name="SMITHSONIAN CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1pl5",SMITHSONIAN CHANNEL
 *********************************************************************************
 --------------------------------------------------------ESPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014595
 #EXTINF:-1 group-title="ESPORTES" tvg-id="BandSports.br" tvg-name="Band Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",BAND Sports
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5194
+http://206.1.95.2:8004/play/a01p
 #EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ESPN
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5215
 #EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN BRASIL
@@ -260,15 +258,11 @@ http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396565
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 5
 http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396566
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
-http://200.4.96.59:1080/play/a054/index.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
-http://200.4.96.59:1080/play/a055/index.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359
+http://206.1.95.2:8004/play/a00f
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 2.br" tvg-name="SPORTV 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png",SPORTV 2 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5262
+http://206.1.95.2:8004/play/a025
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 3.br" tvg-name="SPORTV3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv3_m.png",SPORTV 3 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5263
+http://206.1.95.2:8004/play/a03w
 #EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports2.br" tvg-name="TNT 2 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 2 Brasil
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014601
 #EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports3.br" tvg-name="TNT 3 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 3 Brasil
@@ -280,47 +274,49 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014598
 
 --------------------------------------------------------FILMES & SERIADOS---------------------------------------------------------------
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="A&E.br" tvg-name="A&E" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_a-e_m.png",A&E FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5189
+http://206.1.95.2:8004/play/a03d
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="amc.br" tvg-name="AMC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/Xun",AMC FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5190
+http://206.1.95.2:8004/play/a00u
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="axn.br" tvg-name="AXN" tvg-country="BR" tvg-language="Portuguese"tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5192
+http://206.1.95.2:8004/play/a02d
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="filmandarts.br" tvg-name="FILM & ARTS" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FILM & ARTS
 http://200.4.96.59:1080/play/a049/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="fx.br" tvg-name="FX" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5225
+http://206.1.95.2:8004/play/a01r
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="isat.br" tvg-name="I-SAT" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",I-SAT
+http://206.1.95.2:8004/play/a03n
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",PARAMOUNT NETWORK
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5251
+http://206.1.95.2:8004/play/a00g
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="sony.br" tvg-name="SONY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY 
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373238
+http://206.1.95.2:8004/play/a01s
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="space.br" tvg-name="SPACE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SPACE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5261
+http://206.1.95.2:8004/play/a02s
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",STUDIO UNIVERSAL
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5280
+http://206.1.95.2:8004/play/a02w
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5266
+http://206.1.95.2:8004/play/a040
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5268
+http://206.1.95.2:8004/play/a017
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1v6i",TELECINE CULT
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5269
+http://206.1.95.2:8004/play/a029
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5270
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5271
+http://206.1.95.2:8004/play/a02t
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5272
+http://206.1.95.2:8004/play/a00i
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5273
+http://206.1.95.2:8004/play/a00j
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tbs.br" tvg-name="TBS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TBS
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5267
+http://206.1.95.2:8004/play/a03e
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TCM.br" tvg-name="TCM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TCM HD
-http://200.4.96.59:1080/play/a040/index.m3u8
+http://206.1.95.2:8004/play/a02v
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5275
+http://206.1.95.2:8004/play/a028
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tntseries.br" tvg-name="TNT SERIES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923873
+http://206.1.95.2:8004/play/a02z
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="universaltv.br" tvg-name="UNIVERSAL TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",UNIVERSAL TV
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396724
+http://206.1.95.2:8004/play/a02j
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",WARNER CHANNEL
 http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396731
 
@@ -368,11 +364,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMTPlutoTV.us" tvg-name="CMT Pluto TV" tvg-country="USA" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png",CMT Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn" tvg-name="CNN ESPAÑOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPAÑOL
-
+http://206.1.95.2:8004/play/a02f
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn chile" tvg-name="CNN CHILE" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg",CNN CHILE
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CNN.us" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31511?checkedby:zaltv.co
+http://206.1.95.2:8004/play/a048
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CNN.us" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hallmark.us" tvg-name="Hallmark Channel" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg",HALLMARK CHANNEL
@@ -397,37 +393,37 @@ http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396684
 http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396725
 --------------------------------------------------------NOTICÍAS-----------------------------------------------------------------------
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="bandnews.br" tvg-name="BAND NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png",BAND NEWS FHD
-http://189.91.128.146:4444/udp/227.10.20.131:1234
+http://206.1.95.2:8004/play/a020
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS FHD
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99371
+http://206.1.95.2:8004/play/a026
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="cbn.br" tvg-name="CBN São Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:zaltv.co
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396554
+http://206.1.95.2:8004/play/a01e
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/vJqtX2r/download-1.jpg",JOVEM PAN NEWS
 http://191.212.166.203:4000/play/a0hx
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
-http://200.4.96.59:1080/play/a04x/index.m3u8
+http://206.1.95.2:8004/play/a00q
 
 --------------------------------------------------------CANAIS PREMIUM------------------------------------------------------------------------
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5200
+http://206.1.95.2:8004/play/a03x
 #EXTINF:-1 group-title="PREMIUM" tvg-id="HBO.br" tvg-name="HBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355046
+http://206.1.95.2:8004/play/a00l
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2
-http://189.91.128.146:4444/udp/227.10.20.95:1234
+http://206.1.95.2:8004/play/a01q
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboxtreme.br" tvg-name="HBO XTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO XTREME
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5088
+http://206.1.95.2:8004/play/a03z
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5079
+http://206.1.95.2:8004/play/a03c
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO MUNDI
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5087
+http://206.1.95.2:8004/play/a02u
  #EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO PLUS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923015
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO POP
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5089
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45334
+http://206.1.95.2:8004/play/a02c
 #EXTINF:-1 group-title="PREMIUM" tvg-id="maxup.br" tvg-name="MAX UP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MAX UP
 http://189.91.128.146:4444/udp/227.10.20.99:1234
 #EXTINF:-1 group-title="PREMIUM" tvg-id="maxprime.br" tvg-name="MAX PRIME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MAX PRIME
@@ -474,7 +470,7 @@ https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="bonstempostv.br" tvg-name="Bons Tempos TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/HlSVlfk.png",Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e!.br" tvg-name="E!" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",E!
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45328
+http://206.1.95.2:8004/play/a02r
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="cultura.br" tvg-name="Cultura" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Cultura
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923525
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="curta!.br" tvg-name="Curta" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Curta
@@ -486,9 +482,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923100
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="cbtv.br" tvg-name="CBTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cj6kg2X.png",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="futura.br" tvg-name="Futura" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Futura
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373197
+http://206.1.95.2:8004/play/a04e
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="gnt.br" tvg-name="GNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-W0IQ7RlOYW0/WjWcENCjYPI/AAAAAAABCQ0/qBNv1FOTb3oMq-ed2o0V_vc3dcJaSRfjACLcBGAs/w1200-h630-p-k-no-nu/gnt.png",GNT
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5444
+http://206.1.95.2:8004/play/a03a
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",LIFETIME
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5453
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="maisglobosat.br" tvg-name="MAIS GLOBOSAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MAIS GLOBOSAT
@@ -496,6 +492,6 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923462
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="Mundotv.br" tvg-name="MUNDO TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ybdp3qq.png",Mundo TV
 *********************************************************************************
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="off.br" tvg-name="OFF" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://w7.pngwing.com/pngs/10/980/png-transparent-canal-off-brazil-logo-globosat-television-channel-40-off-television-text-trademark.png",OFF
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923476
+http://206.1.95.2:8004/play/a00h
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="viva.br" tvg-name="VIVA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VIVA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5530

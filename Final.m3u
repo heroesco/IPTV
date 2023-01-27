@@ -370,7 +370,7 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="canal26.ar" tvg-name="CANAL 26" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/800px-LogoCanal26.png",CANAL 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/496127
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMCTV.us" tvg-name="CMC" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMCUSA.us" tvg-name="CMC USA" tvg-country="USA" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png",CMC USA
@@ -392,15 +392,15 @@ http://206.1.95.2:8004/play/a048
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CNN.us" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hallmark.us" tvg-name="Hallmark Channel" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg",HALLMARK CHANNEL
-*********************************************************************************
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488017
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hallmarkdrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg",HALLMARK DRAMA
-*********************************************************************************
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488018
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hallmarkmoviesmore.us" tvg-name="Hallmark Movies & More" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg",HALLMARK MOVIES & MORE
-*********************************************************************************
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418091
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hallmarkmoviesmysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg",HALLMARK MOVIES & MYSTERIES
-*********************************************************************************
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418098
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
-*********************************************************************************
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/496126
 #EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CanalRCNNovelas.co" tvg-name="RCN NOVELAS" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png",RCN NOVELAS
 *********************************************************************************
 

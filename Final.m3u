@@ -173,9 +173,9 @@ http://200.4.96.59:8041/play/a03d/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT 
 http://200.4.96.59:8041/play/a03a/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376136
+http://168.205.87.198:8555/live/JOSEE/123456/69.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvescola.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Escola
-http://200.4.96.59:1080/play/a04v/index.m3u8
+http://168.205.87.198:8555/live/JOSEE/123456/137.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvjustiça.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV JUSTICA
 http://168.205.87.198:8555/live/JOSEE/123456/138.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvsenado.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Senado
@@ -284,7 +284,7 @@ http://206.1.95.2:8004/play/a00u
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="axn.br" tvg-name="AXN" tvg-country="BR" tvg-language="Portuguese"tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN
 http://206.1.95.2:8004/play/a02d
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="filmandarts.br" tvg-name="FILM & ARTS" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FILM & ARTS
-http://200.4.96.59:1080/play/a049/index.m3u8
+http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204581
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="fx.br" tvg-name="FX" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FX
 http://206.1.95.2:8004/play/a01r
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="isat.br" tvg-name="I-SAT" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",I-SAT

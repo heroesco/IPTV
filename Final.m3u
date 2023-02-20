@@ -1,6 +1,6 @@
 #EXTINF:
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
-http://206.1.95.14:8004/play/a054
+https://br.embedflix.net/p2p/globosp_720p/chunks.m3u8?nimblesessionid=2986384&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDk6MDg6NDYgUE0maGFzaF92YWx1ZT1qOW90dXY5SVZRZk50L0E2QkQ2eGFnPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
 http://200.4.96.59:8042/play/a00e/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
@@ -410,7 +410,7 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:zaltv.co
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL
 http://206.1.95.2:8004/play/a01e
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/vJqtX2r/download-1.jpg",JOVEM PAN NEWS
-http://191.212.166.203:4000/play/a0hx
+https://list.iptvcat.com/my_list/s/4fd733387675ed9fde48ea8306c1ddc7.m3u8
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
 http://200.4.96.59:8041/play/a04a/index.m3u8
 

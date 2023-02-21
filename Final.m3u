@@ -2,6 +2,10 @@
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
 http://186.237.99.202:8000/play/GloboSP/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
+http://206.1.95.15:8004/play/a054
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo MINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO MINAS
+http://168.205.87.198:8555/live/12345/123456/70.ts
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
 http://200.4.96.59:8042/play/a00e/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
 http://200.4.96.59:8042/play/a01t/index.m3u8
@@ -474,7 +478,22 @@ https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
 https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 #EXTINF:-1 group-title="RADIOS" tvg-id="radioromanticas.br" tvg-name="RADIO ROMANTICAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Românticas
 https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
-
+#EXTINF:-1 group-title="RADIOS" tvg-id="" tvg-name="VEVO '70S" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VEVO '70S
+http://168.205.87.198:8555/live/12345/123456/221.ts
+#EXTINF:-1 group-title="RADIOS" tvg-id="" tvg-name="VEVO '80S" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VEVO '80S
+http://168.205.87.198:8555/live/12345/123456/222.ts
+#EXTINF:-1 group-title="RADIOS" tvg-id="" tvg-name="VEVO '90S" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VEVO '90S
+http://168.205.87.198:8555/live/12345/123456/223.ts
+#EXTINF:-1 group-title="RADIOS" tvg-id="" tvg-name="VEVO 2k" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VEVO 2k
+http://168.205.87.198:8555/live/12345/123456/224.ts
+#EXTINF:-1 group-title="RADIOS" tvg-id="" tvg-name="VEVO COUNTRY" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VEVO COUNTRY
+http://168.205.87.198:8555/live/12345/123456/217.ts
+#EXTINF:-1 group-title="RADIOS" tvg-id="" tvg-name="VEVO LATINO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VEVO LATINO
+http://168.205.87.198:8555/live/12345/123456/220.ts
+#EXTINF:-1 group-title="RADIOS" tvg-id="" tvg-name="VEVO POP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VEVO POP
+http://168.205.87.198:8555/live/12345/123456/219.ts
+#EXTINF:-1 group-title="RADIOS" tvg-id="" tvg-name="VEVO REGAETTON" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VEVO REGAETTON
+http://168.205.87.198:8555/live/12345/123456/216.ts
 --------------------------------------------------------VARIEDADES---------------------------------------------------------------
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="bonstempostv.br" tvg-name="Bons Tempos TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/HlSVlfk.png",Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8

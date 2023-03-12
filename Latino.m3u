@@ -173,7 +173,7 @@ http://181.78.19.36:9001/play/a049
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="" tvg-name="EUROPA"  tvg-language="Español" tvg-logo="",EUROPA 
 ****************************************************************************************
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="7baad23afd285f1373c8b4ab582ca7b6" tvg-name="I SAT"  tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",I Sat HD
-http://181.78.22.97:8000/play/a02w/index.m3u8
+http://45.5.118.213:16000/play/a0o4/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="paramountchannel.ar" tvg-name="PARAMOUNT CHANNEL"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
 http://170.247.204.18:8000/play/a05j/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="c954a7b5d73fb15c6e677bc744b2c45f" tvg-name="SONY HD"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY 

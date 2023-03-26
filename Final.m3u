@@ -1,26 +1,20 @@
 #EXTINF:
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
-http://187.38.144.128:9981/stream/channelid/1149724105?profile=pass
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/124368
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
-http://158.51.123.116:8000/play/a03c
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Brasilia
+http://51.222.205.67:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
 http://186.237.99.202:8000/play/GloboSP/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
-http://206.1.95.15:8004/play/a054
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
-http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1117006
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo MINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO MINAS
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
+http://51.222.205.67:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
+http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/124368
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo MINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO MINAS
 http://168.205.87.198:8555/live/12345/123456/70.ts
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globo.br" tvg-name="Globo SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
-http://158.51.123.116:8000/play/a03b
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="TVbahia.br" tvg-name="TV Bahia HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Bahia HD
-http://200.4.96.59:8042/play/a017/index.m3u8
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Brasília
-http://158.51.123.116:8000/play/a03e
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="globorpc.br" tvg-name="GLOBO RPC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RPC CURITIBA
-http://158.51.123.116:8000/play/a03f
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RPC Paraná
+http://51.222.205.67:8000/play/a012/index.m3u8
+
+
+
+
 
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="1001noites.br" tvg-name="1001 NOITES CB PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png",1001 NOITES CURITIBA

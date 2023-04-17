@@ -179,23 +179,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
 http://186.237.99.202:8000/play/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/aDZ",ARTE 1
-http://179.255.4.43:9981/stream/channelid/135837260?profile=pass
+http://meuplay.shop:80/v7yzzocf/uenoaubj/130
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://179.255.4.43:9981/stream/channelid/473827604?profile=pass
+http://meuplay.shop:80/v7yzzocf/uenoaubj/808
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://186.237.99.202:8000/play/DiscHomeHealth/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://179.255.4.43:9981/stream/channelid/1118387150?profile=pass
+http://meuplay.shop:80/v7yzzocf/uenoaubj/807
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://179.255.4.43:9981/stream/channelid/1219043297?profile=pass
+http://meuplay.shop:80/v7yzzocf/uenoaubj/820
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
-http://179.255.4.43:9981/stream/channelid/1441725876?profile=pass
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Discoverytlc.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY TLC
-http://179.255.4.43:9981/stream/channelid/1562492833?profile=pass
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
-http://186.237.99.202:8000/play/DiscoveryTurbo/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="discoveryworld.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD HD
-http://179.255.4.43:9981/stream/channelid/2123583553?profile=pass
+http://meuplay.shop:80/v7yzzocf/uenoaubj/821
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Tlc.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY TLC
+http://meuplay.shop:80/v7yzzocf/uenoaubj/809
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Discturbohd.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
+http://meuplay.shop:80/v7yzzocf/uenoaubj/818
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Discoveryworldhd.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD HD
+http://meuplay.shop:80/v7yzzocf/uenoaubj/802
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
 http://179.255.4.43:9981/stream/channelid/687767885?profile=pass
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD

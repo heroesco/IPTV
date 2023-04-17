@@ -2,12 +2,14 @@
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Brasilia
 http://51.222.205.67:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
+http://meuplay.shop:80/v7yzzocf/uenoaubj/362
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
 http://186.237.99.202:8000/play/GloboSP/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
 http://51.222.205.67:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
 http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/124368
-#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo MINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO MINAS
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO MINAS
 http://168.205.87.198:8555/live/12345/123456/70.ts
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RPC Paraná
 http://51.222.205.67:8000/play/a012/index.m3u8
@@ -147,11 +149,11 @@ https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamor
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w10453154.m3u8
 --------------------------------------------------------TV ABERTA NACIONAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
-http://179.255.4.43:9981/stream/channelid/1219283832?profile=pass
+http://200.4.96.47:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="RecordTV.br" tvg-name="Record TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",RECORD TV
-http://179.255.4.43:9981/stream/channelid/1133190198?profile=pass
+http://200.4.96.47:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT 
-http://179.255.4.43:9981/stream/channelid/595820394?profile=pass
+http://200.4.96.47:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
 http://168.205.87.198:8555/live/JOSEE/123456/69.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvescola.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Escola

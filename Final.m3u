@@ -165,13 +165,13 @@ http://168.205.87.198:8555/live/JOSEE/123456/138.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvsenado.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Senado
 http://168.205.87.198:8555/live/JOSEE/123456/139.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="multicultura.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MULTICULTURA
-http://200.4.96.47:8000/play/a010
+http://200.4.96.47:8000/play/a010/index.m3u8
 
 --------------------------------------------------------CANAIS DE COMÉDIAS---------------------------------------------------------------
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL
-http://179.255.4.43:9981/stream/channelid/1366950982?profile=pass
+http://meuplay.shop:80/v7yzzocf/uenoaubj/11
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multishow_m.png",MULTISHOW FHD
-http://179.255.4.43:9981/stream/channelid/1557705064?profile=pass
+http://meuplay.shop:80/v7yzzocf/uenoaubj/53
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="5f36f2346ede750007332d11" tvg-name="PORTA DOS FUNDOS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png",Porta dos Fundos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 

@@ -94,6 +94,8 @@ http://181.78.22.97:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-id="TRUTV.ar" tvg-name="TRUtv" tvg-country="AR" tvg-language="Español" tvg-logo="",TRUtv
 http://170.247.204.18:8000/play/a073/index.m3u8
 --------------------------------------------------------INTERNACIONALES---------------------------------------------------------------
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-id="" tvg-name="BOLIVISION" tvg-country="BOLIVIA" tvg-language="SPANISH" tvg-logo="",BOLIVISION
+http://177.234.230.226:8010/play/a035/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="Calitv.co" tvg-name="CALI TV" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.imgur.com/sRZN7Tn.png",CALI TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD

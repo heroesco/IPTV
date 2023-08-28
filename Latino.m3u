@@ -187,7 +187,7 @@ http://181.78.22.97:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="5a8ec48d3cd8cea1e63efd3d115bc987" tvg-name="TBS"  tvg-language="Español" tvg-logo="",TBS
 http://45.5.118.213:16000/play/a0lz/index.m3u8
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="9fd6d058f7f571178a11cf488a92f9f3" tvg-name="TCM"  tvg-language="Español" tvg-logo="",TCM
-http://181.78.22.97:8000/play/a030/index.m3u8
+http://138.59.177.34:8000/play/a04e
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tnt.ar" tvg-name="TNT"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
 http://181.78.19.36:9001/play/a05g
 #EXTINF:-1 group-title="PELÍCULAS & SERIES" tvg-id="tntseries.ar" tvg-name="TNT SERIES"  tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES

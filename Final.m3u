@@ -155,11 +155,11 @@ https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamor
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w10453154.m3u8
 --------------------------------------------------------TV ABERTA NACIONAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
-http://200.4.96.47:8000/play/a00x/index.m3u8
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/280153
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="RecordTV.br" tvg-name="Record TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",RECORD TV
-http://200.4.96.47:8000/play/a00v/index.m3u8
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14538
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT 
-http://200.4.96.47:8000/play/a014/index.m3u8
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/7367
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
 http://168.205.87.198:8555/live/JOSEE/123456/69.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvescola.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Escola
@@ -173,9 +173,9 @@ http://200.4.96.47:8000/play/a010/index.m3u8
 
 --------------------------------------------------------CANAIS DE COMÉDIAS---------------------------------------------------------------
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL
-http://meuplay.shop:80/v7yzzocf/uenoaubj/11
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8779
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multishow_m.png",MULTISHOW FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/53
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14528
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="5f36f2346ede750007332d11" tvg-name="PORTA DOS FUNDOS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png",Porta dos Fundos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 

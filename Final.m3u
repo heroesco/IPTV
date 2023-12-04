@@ -183,79 +183,79 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
 http://186.237.99.202:8000/play/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/aDZ",ARTE 1
-http://meuplay.shop:80/v7yzzocf/uenoaubj/130
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8833
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/808
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/299696
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/807
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8904
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/820
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8910
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
-http://meuplay.shop:80/v7yzzocf/uenoaubj/821
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8892
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Tlc.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY TLC
-http://meuplay.shop:80/v7yzzocf/uenoaubj/809
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/7370
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Discturbohd.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/818
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8891
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Discoveryworldhd.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD HD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/802
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/279608
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetworkhd.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/863
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8863
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/781
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8901
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="H2.br" tvg-name="H2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",H2
-http://meuplay.shop:80/v7yzzocf/uenoaubj/806
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14516
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigacaodiscoveryid.br" tvg-name="" tvg-country="BRASIL" tvg-language="Portuguese" tvg-logo="",ID
-http://meuplay.shop:80/v7yzzocf/uenoaubj/46
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14529
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/54
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14531
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923829
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8905
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="trutv.br" tvg-name="TRU TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TRU TV
-http://meuplay.shop:80/v7yzzocf/uenoaubj/878
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/147652
 
 --------------------------------------------------------ESPORTES-------------------------------------------------------------------
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports
-http://meuplay.shop:80/v7yzzocf/uenoaubj/31745
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/7321
 #EXTINF:-1 group-title="ESPORTES" tvg-id="BandSports.br" tvg-name="Band Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",BAND Sports
 http://186.237.99.202:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ESPN
-http://200.4.96.59:8041/play/a02a/index.m3u8
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8793
 #EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN BRASIL
-http://meuplay.shop:80/v7yzzocf/uenoaubj/769
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/299345
 #EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN EXTRA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA
-http://meuplay.shop:80/v7yzzocf/uenoaubj/770
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8789
 #EXTINF:-1 group-title="ESPORTES" tvg-id="espn2.br" tvg-name="ESPN 2 BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ESPN 2 BRASIL
-http://meuplay.shop:80/v7yzzocf/uenoaubj/771
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8801
 #EXTINF:-1 group-title="ESPORTES" tvg-id="espn3.br" tvg-name="ESPN 3 BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ESPN 3 BRASIL
-http://meuplay.shop:80/v7yzzocf/uenoaubj/772
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/290657
 #EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
 http://200.4.96.59:8041/play/a031/index.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/773
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8776
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere1.br" tvg-name="PREMIERE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE
-http://meuplay.shop:80/v7yzzocf/uenoaubj/273
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8785
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 2
-http://meuplay.shop:80/v7yzzocf/uenoaubj/815
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8786
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere3.br" tvg-name="PREMIERE 3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 3
-http://meuplay.shop:80/v7yzzocf/uenoaubj/814
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8787
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere4.br" tvg-name="PREMIERE 4" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 4
-http://meuplay.shop:80/v7yzzocf/uenoaubj/813
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8788
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 5
-http://meuplay.shop:80/v7yzzocf/uenoaubj/812
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8790
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/73
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/4015
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 2.br" tvg-name="SPORTV 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png",SPORTV 2 FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/777
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8783
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 3.br" tvg-name="SPORTV3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv3_m.png",SPORTV 3 FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/778
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8784
 #EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports2.br" tvg-name="TNT 2 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 2 Brasil
-http://meuplay.shop:80/v7yzzocf/uenoaubj/328
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/286127
 #EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports3.br" tvg-name="TNT 3 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 3 Brasil
-http://meuplay.shop:80/v7yzzocf/uenoaubj/329
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/286128
 #EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports4.br" tvg-name="TNT 4 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 4 Brasil
-http://meuplay.shop:80/v7yzzocf/uenoaubj/330
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/286129
 #EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports5.br" tvg-name="TNT 5 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 5 Brasil HD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/331
+http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/286130
 
 --------------------------------------------------------FILMES & SERIADOS---------------------------------------------------------------
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="A&E.br" tvg-name="A&E" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_a-e_m.png",A&E FHD

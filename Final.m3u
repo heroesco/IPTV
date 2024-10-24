@@ -1,16 +1,16 @@
 #EXTINF:
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/30437
+http://iptvtree.net:8080/romaniamedia/178cdde57b/295102
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO Brasilia
 http://45.230.96.42:80/distv/@distv/382
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
-http://45.230.96.42:80/distv/@distv/370
+http://iptvtree.net:8080/romaniamedia/178cdde57b/30437
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
 http://45.230.96.42:80/distv/@distv/447
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo Região Lagos RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RJ
 http://meuplay.shop:80/v7yzzocf/uenoaubj/362
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
-http://186.237.99.202:8000/play/GloboSP/index.m3u8
+http://iptvtree.net:8080/romaniamedia/178cdde57b/14514
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
 http://51.222.205.67:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO SP
@@ -18,7 +18,9 @@ http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/124368
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO MINAS
 http://168.205.87.198:8555/live/12345/123456/70.ts
 #EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RPC Paraná
-http://51.222.205.67:8000/play/a012/index.m3u8
+http://iptvtree.net:8080/romaniamedia/178cdde57b/182185
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="" tvg-name="Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",GLOBO RBS Porto Alegre
+http://iptvtree.net:8080/romaniamedia/178cdde57b/148423
 
 --------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
 #EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="1001noites.br" tvg-name="1001 NOITES CB PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png",1001 NOITES CURITIBA
@@ -157,15 +159,15 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
 http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/280153
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="RecordTV.br" tvg-name="Record TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",RECORD TV
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14538
+http://iptvtree.net:8080/romaniamedia/178cdde57b/10872
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT 
 http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/7367
 #EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
 http://168.205.87.198:8555/live/JOSEE/123456/69.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvescola.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Escola
-http://168.205.87.198:8555/live/JOSEE/123456/137.ts
+http://iptvtree.net:8080/romaniamedia/178cdde57b/7372
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvjustiça.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV JUSTICA
-http://168.205.87.198:8555/live/JOSEE/123456/138.ts
+http://iptvtree.net:8080/romaniamedia/178cdde57b/285520
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="tvsenado.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TV Senado
 http://168.205.87.198:8555/live/JOSEE/123456/139.ts
 #EXTINF:-1  group-title="TV ABERTA NACIONAL" tvg-id="multicultura.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MULTICULTURA
@@ -175,7 +177,7 @@ http://200.4.96.47:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL
 http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8779
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multishow_m.png",MULTISHOW FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14528
+http://iptvtree.net:8080/romaniamedia/178cdde57b/14528
 #EXTINF:-1 group-title="COMÉDIAS" tvg-id="5f36f2346ede750007332d11" tvg-name="PORTA DOS FUNDOS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png",Porta dos Fundos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -185,31 +187,31 @@ http://186.237.99.202:8000/play/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/aDZ",ARTE 1
 http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8833
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/299696
+http://iptvtree.net:8080/romaniamedia/178cdde57b/299696
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8904
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8904
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8910
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8910
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8892
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8892
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Tlc.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY TLC
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/7370
+http://iptvtree.net:8080/romaniamedia/178cdde57b/7370
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Discturbohd.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8891
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8891
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Discoveryworldhd.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",DISCOVERY WORLD HD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/279608
+http://iptvtree.net:8080/romaniamedia/178cdde57b/279608
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetworkhd.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8863
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8863
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8901
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8901
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="H2.br" tvg-name="H2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",H2
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14516
+http://iptvtree.net:8080/romaniamedia/178cdde57b/14516
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigacaodiscoveryid.br" tvg-name="" tvg-country="BRASIL" tvg-language="Portuguese" tvg-logo="",ID
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14529
+http://iptvtree.net:8080/romaniamedia/178cdde57b/14529
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
 http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/14531
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8905
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8905
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="trutv.br" tvg-name="TRU TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TRU TV
 http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/147652
 
@@ -243,11 +245,11 @@ http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8788
 #EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 5
 http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8790
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/4015
+http://iptvtree.net:8080/romaniamedia/178cdde57b/4015
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 2.br" tvg-name="SPORTV 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png",SPORTV 2 FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8783
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8783
 #EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 3.br" tvg-name="SPORTV3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv3_m.png",SPORTV 3 FHD
-http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/8784
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8784
 #EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports2.br" tvg-name="TNT 2 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 2 Brasil
 http://iptvmedia.live:8080/faucontv/P3Mos2c14uCyG0E6jC5K/286127
 #EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports3.br" tvg-name="TNT 3 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 3 Brasil
@@ -267,57 +269,57 @@ http://meuplay.shop:80/v7yzzocf/uenoaubj/835
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="filmandarts.br" tvg-name="FILM & ARTS" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FILM & ARTS
 http://186.237.99.202:8000/play/FilmeArts/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="fx.br" tvg-name="FX" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",FX
-http://meuplay.shop:80/v7yzzocf/uenoaubj/842
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8835
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="isat.br" tvg-name="I-SAT" tvg-country="BR" tvg-language="Portuguese"tvg-logo="",I-SAT
 http://206.1.95.2:8004/play/a03n
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramounthd.br" tvg-name="PARAMOUNT NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",PARAMOUNT NETWORK
-http://meuplay.shop:80/v7yzzocf/uenoaubj/845
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8859
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="sony.br" tvg-name="SONY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY 
-http://186.237.99.202:8000/play/Sony/index.m3u8
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8882
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="space.br" tvg-name="SPACE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SPACE
-http://meuplay.shop:80/v7yzzocf/uenoaubj/846
+http://iptvtree.net:8080/romaniamedia/178cdde57b/295111
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",STUDIO UNIVERSAL
 http://meuplay.shop:80/v7yzzocf/uenoaubj/847
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",STUDIO UNIVERSAL
-http://186.237.99.202:8000/play/StudioUniversal/index.m3u8
+http://iptvtree.net:8080/romaniamedia/178cdde57b/280996
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/287
+http://iptvtree.net:8080/romaniamedia/178cdde57b/14485
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
 http://186.237.99.202:8000/play/TCAction/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/787
+http://iptvtree.net:8080/romaniamedia/178cdde57b/193685
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1v6i",TELECINE CULT
 http://186.237.99.202:8000/play/TCCult/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://shortest.link/1v6i",TELECINE CULT
-http://meuplay.shop:80/v7yzzocf/uenoaubj/791
+http://iptvtree.net:8080/romaniamedia/178cdde57b/197080
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
 http://186.237.99.202:8000/play/TCFun/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/790
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8831
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
 http://186.237.99.202:8000/play/TCPipoca/index.m3u8
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
-http://meuplay.shop:80/v7yzzocf/uenoaubj/789
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8830
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
-http://186.237.99.202:8000/play/TCPremium/index.m3u8
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8829
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
 http://meuplay.shop:80/v7yzzocf/uenoaubj/786
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
-http://186.237.99.202:8000/play/TCTouch/index.m3u8
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8828
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
 http://meuplay.shop:80/v7yzzocf/uenoaubj/788
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tbs.br" tvg-name="TBS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TBS
 http://meuplay.shop:80/v7yzzocf/uenoaubj/856
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TCM.br" tvg-name="TCM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TCM HD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/877
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8853
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
-http://meuplay.shop:80/v7yzzocf/uenoaubj/785
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8840
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tntseries.br" tvg-name="TNT SERIES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES
-http://meuplay.shop:80/v7yzzocf/uenoaubj/849
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8827
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="universaltv.br" tvg-name="UNIVERSAL TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",UNIVERSAL TV
 http://meuplay.shop:80/v7yzzocf/uenoaubj/847
 #EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",WARNER CHANNEL
-http://meuplay.shop:80/v7yzzocf/uenoaubj/850
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8825
 
 --------------------------------------------------------INFANTÍS------------------------------------------------------------------------
 #EXTINF:-1 group-title="INFANTÍS" tvg-id="Boomerang.br" tvg-name="BOOMERANG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",BOOMERANG
@@ -387,22 +389,22 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/496126
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="bis.br" tvg-name="BIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",BIS
 http://186.237.99.202:8000/play/BIS/index.m3u8
 #EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.br" tvg-name="MTV BR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396684
+http://iptvtree.net:8080/romaniamedia/178cdde57b/147283
 #EXTINF:-1 group-title="MÚSICA" tvg-id="vh1.br" tvg-name="VH1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VH1
 http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396725
 --------------------------------------------------------NOTICÍAS-----------------------------------------------------------------------
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="bandnews.br" tvg-name="BAND NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png",BAND NEWS FHD
 http://meuplay.shop:80/v7yzzocf/uenoaubj/866
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/853
+http://iptvtree.net:8080/romaniamedia/178cdde57b/14513
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="cbn.br" tvg-name="CBN São Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN São Paulo
 http://179.255.4.43:9981/stream/channelid/1163319390?profile=pass
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL
 http://meuplay.shop:80/v7yzzocf/uenoaubj/306
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/vJqtX2r/download-1.jpg",JOVEM PAN NEWS
-http://meuplay.shop:80/v7yzzocf/uenoaubj/329
+http://iptvtree.net:8080/romaniamedia/178cdde57b/286091
 #EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
-http://meuplay.shop:80/v7yzzocf/uenoaubj/867
+http://iptvtree.net:8080/romaniamedia/178cdde57b/10988
 
 --------------------------------------------------------CANAIS PREMIUM------------------------------------------------------------------------
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
@@ -410,23 +412,23 @@ http://186.237.99.202:8000/play/Cinemax/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
 http://meuplay.shop:80/v7yzzocf/uenoaubj/841
 #EXTINF:-1 group-title="PREMIUM" tvg-id="HBO.br" tvg-name="HBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
-http://meuplay.shop:80/v7yzzocf/uenoaubj/792
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8822
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2
-http://meuplay.shop:80/v7yzzocf/uenoaubj/793
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8821
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO XTREME
-http://meuplay.shop:80/v7yzzocf/uenoaubj/798
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8824
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
-http://meuplay.shop:80/v7yzzocf/uenoaubj/795
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8839
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO MUNDI
-http://meuplay.shop:80/v7yzzocf/uenoaubj/797
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8837
  #EXTINF:-1 group-title="PREMIUM" tvg-id="Hboplus.br" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO+
-http://meuplay.shop:80/v7yzzocf/uenoaubj/794
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8823
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.pop.br" tvg-name="HBO POP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",HBO POP
-http://meuplay.shop:80/v7yzzocf/uenoaubj/799
+http://iptvtree.net:8080/romaniamedia/178cdde57b/173434
 #EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
-http://meuplay.shop:80/v7yzzocf/uenoaubj/796
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8836
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starchannel.us" tvg-name="STAR CHANNEL" tvg-country="BRASIL" tvg-language="Portuguese" tvg-logo="",Star Channel
-http://meuplay.shop:80/v7yzzocf/uenoaubj/836
+http://iptvtree.net:8080/romaniamedia/178cdde57b/3035
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starhits.us" tvg-name="STAR HITS" tvg-country="BRASIL" tvg-language="Portuguese" tvg-logo="",Star Hits
 http://meuplay.shop:80/v7yzzocf/uenoaubj/113
 #EXTINF:-1 group-title="PREMIUM" tvg-id="starlife.us" tvg-name="STAR LIFE" tvg-country="BRASIL" tvg-language="Portuguese" tvg-logo="",Star Life
@@ -484,9 +486,9 @@ http://meuplay.shop:80/v7yzzocf/uenoaubj/80161
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="e!.br" tvg-name="E!" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",E!
 http://meuplay.shop:80/v7yzzocf/uenoaubj/864
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="cultura.br" tvg-name="Cultura" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Cultura
-http://186.237.99.202:8000/play/Cultura/index.m3u8
+http://iptvtree.net:8080/romaniamedia/178cdde57b/14491
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="curta!.br" tvg-name="Curta" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Curta
-http://186.237.99.202:8000/play/Curta/index.m3u8
+http://iptvtree.net:8080/romaniamedia/178cdde57b/166654
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="fashion.br" tvg-name="Fashion" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Fashion
 http://179.255.4.43:9981/stream/channelid/301106234?profile=pass
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="canalsaude.br" tvg-name="CANAL SAUDE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YXaX0wZ.jpg",Canal Saúde
@@ -494,11 +496,11 @@ http://179.255.4.43:9981/stream/channelid/301106234?profile=pass
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="cbtv.br" tvg-name="CBTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cj6kg2X.png",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="futura.br" tvg-name="Futura" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",Futura
-http://meuplay.shop:80/v7yzzocf/uenoaubj/485
+http://iptvtree.net:8080/romaniamedia/178cdde57b/7342
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="gnt.br" tvg-name="GNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-W0IQ7RlOYW0/WjWcENCjYPI/AAAAAAABCQ0/qBNv1FOTb3oMq-ed2o0V_vc3dcJaSRfjACLcBGAs/w1200-h630-p-k-no-nu/gnt.png",GNT
-http://meuplay.shop:80/v7yzzocf/uenoaubj/862
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8856
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",LIFETIME
-http://meuplay.shop:80/v7yzzocf/uenoaubj/801
+http://iptvtree.net:8080/romaniamedia/178cdde57b/8864
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="maisglobosat.br" tvg-name="MAIS GLOBOSAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",MAIS GLOBOSAT
 http://186.237.99.202:8000/play/MaisGlobosat/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="Mundotv.br" tvg-name="MUNDO TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ybdp3qq.png",Mundo TV
@@ -506,4 +508,4 @@ http://186.237.99.202:8000/play/MaisGlobosat/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="off.br" tvg-name="OFF" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://w7.pngwing.com/pngs/10/980/png-transparent-canal-off-brazil-logo-globosat-television-channel-40-off-television-text-trademark.png",OFF
 http://186.237.99.202:8000/play/OFF/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="viva.br" tvg-name="VIVA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",VIVA
-http://186.237.99.202:8000/play/Viva/index.m3u8
+http://iptvtree.net:8080/romaniamedia/178cdde57b/302350
